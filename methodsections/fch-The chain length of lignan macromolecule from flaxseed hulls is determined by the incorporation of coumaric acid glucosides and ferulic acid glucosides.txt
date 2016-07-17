@@ -1,0 +1,126 @@
+4. Experimental
+4.1. Extraction lignan macromolecule from flaxseed hulls
+Lignan macromolecule was extracted from flaxseed hulls as described
+previously (Struijs et al., 2007). In short, 400 g of flaxseed
+hulls, kindly provided by Frutarom Netherlands B.V. (Veenendaal,
+The Netherlands), were extracted with 3 l of n-hexane. Lignan macromolecule
+was extracted from the defatted hulls by a three-step
+sequential extraction with 63% (v/v) aq. EtOH at room temperature
+under continuous stirring. The extracts and the hulls were separated
+by filtration on a 595 round paper filter (Schleicher&Schuell).
+From the combined extracts the EtOH was evaporated and the concentrated
+extract was lyophilized yielding lignan macromolecule.
+4.2. Saponification of lignan macromolecule
+To release monomeric constituents, solutions of (fractions of)
+lignan macromolecule were fully saponified in 75 mM NaOH. The
+incubation volume was 1 ml, the concentration lignan macromolecule
+was 2 mg/ml or less. Saponification was performed at room
+temperature while stirring. After 24 h, the reaction was stopped
+by lowering the pH to 6.5–7.0 with HOAc.
+4.3. Sample clean up of (saponified) lignan macromolecule
+Prior to analysis, low molecular weight polar material was removed
+from lignan macromolecule extract or saponified samples
+by solid phase extraction (SPE; SepPak Vac, 20 cc/5 g, C18 cartridge,
+Waters). Prior to loading samples onto the SPE cartridge,
+the EtOH concentration in the reaction mixture was reduced by
+diluting the samples with 25 ml water.
+After activation of the SepPak cartridge first with MeOH and followed
+by water, the diluted saponified lignan macromolecule solution
+was loaded onto the cartridge. After a wash step with 1
+column volume of water, lignans were eluted from the cartridge
+with 3 column volumes of MeOH of which the first column volume
+was discarded. The MeOH eluate was evaporated under a stream of
+air to a final volume of 1 ml.
+4.4. Reversed phase HPLC coupled on-line to mass spectrometry (RPHPLC-
+MS)
+Samples were analyzed on an X-Terra C18 MS column (Waters;
+3.5 lm particle size, 4.6  150 mm) with an X-Terra C18 MS guard
+column (Waters; 3.5 lm particle size, 4.6  10 mm) run on a Thermo
+Separation Products HPLC system as previously described
+(Struijs et al., 2007). The gradient (Struijs et al., 2007) was run at
+0.7 ml/min at room temperature. Samples of 20 ll were injected
+being dissolved in MeOH.
+The molecular masses of the constituents of the macromolecule
+were determined on a Thermo Finnigan LCQ Classic coupled online
+to the analytical RP-HPLC. 10% of the flow from the analytical
+RP-HPLC was directed to the MS. The MS was equipped with an ESI
+injector. Spectra were obtained in the negative ion mode over an
+m/z range of 150–2000. The capillary temperature was 270 C, the ion spray voltage was set on 4.50 kV, the capillary voltage was
+7.00 V, and helium was used as sheath gas. MS/MS analysis was
+performed with a normalized collision energy of 27%.
+4.5. Gel permeation chromatography (GPC)
+To obtain fractions of lignan macromolecule with different
+molecular masses, aliquots of 100 ll containing 2 mg lignan
+macromolecule (cleaned over SPE)/ml 63% (v/v) EtOH were injected
+on a similar HPLC system as described for RP-HPLC,
+equipped with a Tricorn Superdex Peptide 10/300 GL column
+(Amersham Bioscience; 10  300–310 mm, bed volume = 24 ml,
+optimum separation range 100–7000 Da). Fractions (0.8 ml)
+were collected during three subsequent runs. The column was
+run isocratically at a flow rate of 0.8 ml/min with 40% (v/v)
+aq. ACN + 0.1% (v/v) TFA as eluent. The eluate was monitored
+at 280 nm. The included volume (Vinc = 16.5 ml) was determined
+with water. No further calibration of the Superdex Peptide column
+was performed since no suitable calibration compounds
+were available.
+The same procedure was used to determine the molecular
+weight distribution of the GPC-fractions isolated from the parental
+lignan macromolceule. The injection volume was 50 ll.
+4.6. Determination molar extinction coefficients of CouAG, FeAG, HDG
+and SDG
+CouAG, FeAG, HDG and SDG were purified by preparative RPHPLC
+as described previously (Struijs et al., 2007). Based on
+stock-solutions of about 10 mg/ml, dilution series in MeOH were
+made. The absorbance at 280 nm of these dilutions was measured
+against MeOH in a 1 ml quartz cuvet. The molar extinction coefficients
+(e) were calculated using Abs = e * l * c in which Abs = absorbance
+at 280 nm, l = light path = 1 cm, c = concentration (M).
+4.7. Determination HMGA by GC-MS
+Lignan macromolecule (2 mg/ml in EtOH) was fully saponified.
+Aliqouts (0.5 ml) were spiked with 50 lg glutaric acid (GA) dissolved
+in water (50 ll, 1 mg/ml) as internal standard. A calibration
+curve was made with a concentration range of HMGA
+(Aldrich) starting from a 1 mg/ml stock-solution. The volume
+was increased to 5 ml with water and the pH was adjusted to
+pH 1.5–2.0 with HCl. The samples were evaporated to dryness under
+a stream of air at 50 C. To remove residual water, 100 ll acetone
+was added and evaporated. Reaction vials were purged with
+N2.
+To obtain TMSi derivatives, to each dried sample 1 ml of
+HMDS:TMCS:pyridine (3:1:9; SIL-PREP Kit, Alltech) was added.
+After 2 h the derivatisation reaction was complete and the derivatized
+samples were analyzed on a GC 8000TOP system with an
+AS800 autosampler and FID-detection (Thermo Finnigan) equipped
+with a DB-1 column (J&W; 30  0.25  1.0). Injection volume was
+1 ll (splitless injection). The temperature program was a follows:
+t = 0 min, 80 C; t = 0–12 min, 80–325 C (linear increase); t = 10–
+42 min, 325 C. Helium was used as a carrier gas at 100 kPa. The
+FID-detector was set on 350 C.
+GC-MS data were obtained by analyzing the derivatized samples
+on a Trace GC (Thermo Finnigan) coupled to a Polaris Q mass
+spectrophotometer. The settings of the GC were similar as describe
+above. MS data were collected by electron impact, in full scan
+mode between 5 and 25 min of the GC run, in the positive ion
+mode over a mass range of 50–400 Da. The temperature of the
+ion source was 250 C. The auto-tune function was used to
+optimize the MS settings.
+4.8. Calculation of the molar proportions and the weight percentages
+The molar proportions of the four phenolic compounds were
+calculated by dividing the molar equivalents of the individual compounds
+by the total molar equivalents. The molar equivalents were
+determined by multiplying the molar extinction coefficients (Table
+1) by the peak area under the RP-HPLC profiles of fully saponified
+lignan macromolecule (chromatograms not shown). The weight
+percentages were calculated based on the measured value for
+HMGA and the molar proportions of the phenolic constituents.
+4.9. MALDI-TOF MS of lignan macromolecule
+For the determination of the molecular mass distribution, unsaponified
+lignan macromolecule was analyzed on a Ultraflex MALDI-
+TOF MS (Bruker Daltronics GmbH). As matrix 2,5-
+dihydroxybenzoic acid dissolved in 50% aq. ACN (15 mg/ml) was
+used. Two ll of sample mixture consisting of 10 ll 2 mg/ml unsaponified
+lignan macromolecule cleaned over SPE, 10 ll matrixsolution,
+and 1 ll 1 mM NaOAc pH 5.0 was spotted on a gold plate.
+The MALDI-TOF MS was calibrated with a mixture of maltodextrins
+(mass range 365–4092 Da). The system was used in the positive
+reflector mode.

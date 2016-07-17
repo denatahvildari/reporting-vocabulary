@@ -1,0 +1,152 @@
+ 2. Materials and methods
+2.1. Material
+Black currants (Ribes nigrum L.) were obtained from
+Kiantama Ltd., Suomussalmi, Finland. Alcohol insoluble
+solids (AIS) were prepared from homogenised berries. In three
+extraction steps the pectic polysaccharides were extracted
+from AIS. The hemicelluloses were extracted from the
+residual cellulose with 6M sodium hydroxide (concentrated
+alkali soluble solids; CASS). The solution was directly neutralised
+in an ice bath, subsequently dialysed and freeze dried
+[17].
+2.2. Fractionation of hemicelluloses with anion exchange
+chromatography
+About 250 mg CASS were dissolved in water and centrifuged.
+The pellet was collected (CASS residue) and the
+supernatant was fractionated on a DEAE Sepharose Fast
+Flow column (100 cm°ø2.6 cm, GE Healthcare, Upsala,
+Sweden) into three fractions: unbound material was eluted with
+530mL 5mM sodium acetate at pH 5.0 (CASS unbound), the
+second fraction was eluted with 530mL 2M sodium acetate
+buffer at pH 5.0 (CASS NaOAc), and the last fraction was
+eluted with 530mL 0.5M sodium hydroxide (CASS NaOH)
+[25].
+2.3. Degradation of xyloglucan with xyloglucan specific
+endo-glucanase (XEG)
+Xyloglucan containing material (5 mg)was dissolved in 1mL
+50mM sodium acetate buffer (pH 5.0) and incubated with 1 L
+xyloglucan specific endo-glucanase (XEG, EC 3.2.1.4 from
+Aspergillus aculeatus, 2259 U/mL) over night. AIS (5 mg/mL)
+were incubated with additional 5L polygalacturonase (EC
+3.2.1.15 from Kluyveromyces fragilis, 16 U/ml) and 1 L pectin
+methyl esterase (EC 3.1.1.11 from Aspergillus niger, 180 U/ml)
+for pectin degradation [4].
+2.4. Sugar composition as alditol acetates
+For determining the sugar composition, samples were prehydrolysed
+using 72%, w/w sulphuric acid at 30 ◦C for 1 h and
+subsequently hydrolyzed with 1M sulphuric acid at 100 ◦C for
+3 h [26]. Afterwards the sugars were derivatised to their alditol
+acetates and determined by gas chromatography [27] using inositol
+as internal standard.
+2.5. Uronic acid content
+The total uronic acid contentwas determined photometrically
+with the automated m-hydroxydiphenyl assay [28].
+2.6. HPAEC of xyloglucan oligomers
+Xyloglucan oligosaccharides were analysed on a CarboPac
+PA 100 column (4mm°ø250 mm, Dionex, Sunnyvale, USA)
+and on a CarboPac PA 1 column (2mm°ø250 mm, Dionex,
+Sunnyvale, USA) with pulse amperometric detection (PAD)
+using a column specific sodium hydoxide-sodium acetategradient
+as described before [19] and a flow of 1 mL/min
+for the 4mm°ø250mm column and of 0.3 mL/min for the
+2mm°ø250mm column, respectively.
+Desalted fractions were obtained in two ways:
+(a) The ultra-self-regenerating anion suppressor 4 mm-unit
+(ASRS, Dionex, Sunnyvale, USA) was connected after the
+PAD to exchange the sodium ions for hydronium ions
+(H3O+) followed by the ultra-self-regenerating cation suppressor
+4 mm-unit (CSRS, Dionex, Sunnyvale, USA) to  exchange the acetate ions for hydroxide ions (OH− ). The
+continuous desalting of the eluent was achieved by the electrolysis
+of demineralised water (8 ml/min) in both suppressors.
+Fractions of 30 s were collected in a 96-well plate using
+a FC-203B fraction collector (Gilson, Middleton, USA) and
+freeze dried [29] .
+(b) Directly after the PAD the FC-203B fraction collector
+(Gilson, Middleton, USA) was connected collecting fractions
+of 30 s. These fractions were collected in a Sep-Pak
+tC18 (40 mg) 96-well plate (Waters, Milford, USA) containing
+0.5mL 0.5M acetic acid per well. The eluent was
+sucked through the Sep-Pak tC18 (40 mg) 96-well plate by
+vacuum with a MultiScreen resist vacuum manifold (Millipore,
+Billerica, USA). After washing 2 times with 1mL
+water, the oligomers were eluted with 2mL methanol and
+dried at 60 ◦ C.
+2.7. MALDI–TOF–MS
+ Matrix assisted laser desorption ionisation time of flight
+mass spectrometry (MALDI–TOF–MS) was performed using
+an Ultraflex workstation (Bruker Daltonics, Bremen, Germany)
+equipped with a nitrogen laser of 337 nm and operated in
+positive mode. After a delayed extraction time of 200 ns,
+the ions were accelerated to a kinetic energy of 12,000V.
+The ions were detected using reflector mode. The lowest
+laser power required to obtain good spectra was used and at
+least 100 spectra were collected. The mass spectrometer was
+calibrated with a mixture of maltodextrins (mass range 300–
+2500).
+Two microliters sample solution were mixed on the MALDITOF-
+plate (Bruker Daltonics, Bremen, Germany) with 2 L
+matrix solution of 9 mg/mL 2,5-dihydroxy-benzoic acid (Bruker
+Daltonics, Bremen, Germany) in 30% acetonitrile and dried
+under a stream of air [30] .
+2.8. Post-source decay
+ For post source decay (PSD) the same conditions as for
+MALDI–TOF–MS were used. PSD was recorded in the positive
+mode. The spectrum was dived into different independently
+measured segments, which were put together to one PSD spectrum
+by the software FlexAnalysis (Bruker Daltonics, Bremen,
+Germany) [30] .
+2.9. ESI–MSn
+ Electrospray ionisation mass spectrometry (ESI–MS) was
+performed on a LTQ Ion-trap (Thermo Electron, San Jose,
+USA). The sample was applied through a PicoTip emitter capillary
+(4 m ID of the tip, New Objective, Woburn, USA). MS
+analysis was carried out in the positive mode using a spray voltage
+of 1.5 kV and a capillary temperature of 200 ◦ C, auto-tuned
+on xyloglucan oligosaccharides.MS2  and higherwas performed
+using a window of 1m /z  and a relative collision energy of
+30%.
+2.10. RP–HPLC–ELSD–ESI–MSn
+ Xyloglucan oligomers were separated by reversed phase
+HPLC (RP–HPLC) on a XTerra MS C18 3.5 m column
+(4.6mm°ø 150 mm, Waters, Milford, USA) with a linear gradient
+from 0 to 15% of methanol in 100 min followed by a 10 min
+washing step with 100% methanol at a flowof 0.9 mL/min. After
+post column splitting 3/4 of the eluent went to a evaporate light
+scattering detector ELSD 2000 (Alltech, Lexington, USA) and
+1/4 went to a LCQ Deca XP MAX ESI–MSn  detector (Thermo
+Electron, San Jose, USA). ESI–MSn  was operated in positive
+mode using a spray voltage of 4.0 kV and a capillary temperature
+of 200 ◦ C and auto-tuned on xyloglucan oligosaccharides.
+MS2  and higher was performed using a window of 1m /z  and a
+relative collision energy of 30%.
+2.11. CE–LIFD
+ For capillary electrophoresis (CE) xyloglucan oligosaccharides
+were labelled with 8-aminopyrene-1,3,6-trisulfonate
+(APTS) using the ProteomeLab Protein Characterisation kit
+(Beckman Coulter, Fullerton, USA).
+The labelled oligosaccharides were separated on a polyvinyl
+alcohol (N-CHO) coated capillary (50  m ID°ø 50.2 cm, detector
+after 40 cm, Beckman Coulter, Fullerton, USA) using a
+ProteomeLab PA 800 characterisation system (Beckman Coulter,
+Fullerton, USA) and a laser induced fluorescence detector
+(LIFD) at an excitation of 488 nm and an emission of 520 nm
+(Beckman Coulter, Fullerton, USA). The separation was carried
+out in reversed polarity at 30 kV in a 25mM sodium acetate
+buffer containing 0.4% polyethylene oxide at pH 4.75. The capillary
+was kept at 25 ◦ C. APTS labelled maltose was used as
+internal standard.
+2.12. CE–ESI–MSn
+ For identification of the different oligomers, separation was
+carried out on a P/ACE MDQ capillary electrophoresis system
+(Beckman Coulter, Fullerton, USA) with a fused silica capillary
+(50  m ID°ø 80 cm) connected to a UV-detector and an
+ESI–MSn  detector (LTQ Ion-trap, Thermo Electron, San Jose,
+USA) by a device made in our laboratory (Fig. 2 ). The separation
+was carried out at reversed polarity at 28 kV in a 50mM
+ammonium acetate buffer containing 0.2% formic acid at pH 2.8.
+The capillary was kept at 15 ◦ C. For ESI–MSn  a sheath flow of
+4 L/min of 75% isopropanol in water was used. ESI–MSn  was
+operated in the negative mode using a spray voltage of 2.2 kVand
+a capillary temperature of 190 ◦ C and auto-tuned on xyloglucan
+oligosaccharides. MS2  and higher was performed using a window
+of 1m /z  and a relative collision energy of 30%.

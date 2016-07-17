@@ -1,0 +1,52 @@
+Materials and methods
+Immunogen, immunization, antibody selection
+and antibody characterization
+The monoclonal antibody LM8 was generated using hybridoma
+technology subsequent to the immunization of two rats with a
+sample of XGA isolated from pea testae (Le Goff et al. 2001).
+Immunization, hybridoma preparation and cloning procedures were
+performed as described previously (Willats et al. 1998). Each rat was
+challenged with 100 lg XGA (precipitated with an equal amount of
+methylated bovine serum albumin (Sigma) prior to mixing with
+adjuvants) on days 1, 30 and 61 and a pre-fusion boost was given on
+day 114, 3 days before isolation of spleen lymphocytes and fusion
+with IR983F myeloma cells (Bazin 1982). Initial antibody selection
+was by means of binding to the immunogen XGA in antibodycapture
+enzyme-linked immunosorbent assays (ELISAs; Willats
+et al. 2001c). Subsequent characterization involved using a combination
+of immunodot-binding assays and competitive-inhibition
+ELISAs that are described elsewhere (Willats et al. 2001c). A
+monoclonal antibody specific to XGA, designated LM8 (rat
+immunoglobulin class IgM), was selected for full characterization.
+In addition to the cell wall polymers generated in our laboratories,
+citrus polygalacturonic acid, apple pectin and birch wood xylan
+were obtained from Sigma. Sugar beet arabinan, potato galactan,
+wheat arabinoxylan and tamarind xyloglucan were obtained from
+Megazyme International Ireland (Bray, Co. Wicklow, Ireland). The
+generation of the model lime pectins E81, P41 and F31 has been
+described elsewhere (Willats et al. 2001c). Samples of RG-I and RGII
+were kind gifts from Stephan Eberhard, Alan Darvill and Peter
+Albersheim (CCRC, University of Georgia, Athens, USA),
+Enzymatic degradation of XGA polymers
+Solutions (1% w/v) of pea testa XGA (PsXGA), gum tragacanth
+(Astragalus sp.) and apple (Malus domestica Borkh.) XGA
+(MdXGA) in 50 mM Na-acetate buffer (pH 5.0) containing 0.01%
+NaN3 were incubated with purified enzymes at 30C rotating head
+over tail for 24 h. The enzymes used were exo-galacturonase
+(1.03 lg protein/ml substrate solution) purified from Aspergillus
+aculeatus (Beldman et al. 1996) and xylogalacturonan hydrolase
+(16 lg protein/ml substrate solution) purified from the culture filtrate
+of an Aspergillus tubigensis cDNA cloned in Kluyveromyces
+lactis (van der Vlugt-Bergmans et al. 2000). All enzymes were
+inactivated by heating at 100C for 10 min. Polysaccharidedegrading
+activities were determined by high-performance
+size-exclusion chromatography (HPSEC) and high-performance
+anion-exchange chromatography (HPAEC) analyses of the digests
+as described elsewhere (Huisman et al. 2001).
+Plant materials and their preparation for immuno-microscopy 
+Pea (Pisum sativum L. cv. Avola) seeds (Unilever, Bedford, UK)
+were sown in grow-bags (B&Q, UK) and grown at 18C in a
+glasshouse under a regime of 16 h light and 8 h dark. Seedlings
+were watered daily with tap water and no other nutrient was supplied.
+Flowers were tagged on the day of full bloom (time of
+anthesis). Pods were removed at 5-day intervals from 15 days after- anthesis (DAA) until 35 DAA. Pea, carrot (Daucus carota L.),Arabidopsis thaliana (L.) Heynh. and maize (Zea mays L.) seedswere used intact or germinated on moist filter paper in the dark forup to 5 days at 22C prior to the analysis of roots.Pea testa material was separated from pea seeds and cut intosmall cubes of approximately 8 mm3 to include the outer and innertesta. Material was fixed overnight in 2.5% (w/v) glutaraldehyde in0.1 Msodium phosphate buffer (pH 7.4) at 4C. Samples were thenwashed for 2 h at 4C in three changes of 0.1 M sodium phosphatebuffer and dehydrated in an ethanol series [consisting of 70% ethanol(2·10 min), 90% ethanol (2·10 min) and 100% ethanol(3·20 min)] and then transferred to LR White resin (hard gradeacrylic resin; London Resin Co., Basingstoke, UK) and left at 4Covernight to allow the resin to infiltrate the tissue. Following tworesin changes the samples were placed in gelatine capsules containingLR White resin and polymerised at 60C for 24 h. Sectionswere cut to a thickness of 0.5–1 lm using glass knives on an Ultracutmicrotome (Reichart-Jung, Austria) and collected on multiwellslides (ICN Biomedicals, Cleveland, OH, USA) coated withVectabond reagent (Vector Laboratories, Burlingame, CA, USA).Sections were blocked for 1 h in phosphate-buffered saline with 5%(w/v) milk protein (PBS/MP) and when required de-esterified with0.05 M Na2CO3 for 30 min and washed three times with PBS priorto blocking. Sections were then incubated with PBS/MP containinga 10-fold dilution of the LM8 rat monoclonal antibody for 1 h.After washing with PBS the sections were incubated with a 100-folddilution of anti-rat IgG (whole molecule) linked to fluorescein isothiocyanate(FITC; Sigma) in PBS/MP for 1 h, in darkness. Afterwashing with PBS the sections were mounted in a glycerol/PBSbasedanti-fade solution (Citifluor AF1; Agar Scientific) and observedon an Olympus BH-2 microscope equipped with epifluorescenceirradiation. Cellulose was stained with Calcofluor White M2Rfluorochrome (fluorescent brightener 28; Sigma; 0.25 lg ml)1 indH2O) applied to sections for 2 min followed by extensive washingwith dH2O and examined with UV irradiation.Carrot somatic embryogenic cultures were established fromcarrot seedling hypocotyls as described previously (Thompson andKnox 1998) and maintained as proliferating cultures by the presenceof 4.5 lM2,4-dichlorophenoxyacetic acid (2,4-D). The formation ofsomatic embryos was induced by taking cells at an average of10 days after subculture, washing them three times in Gamborgs B5medium with sucrose but no 2,4-D (induction medium) and resuspendingthem at 50-fold dilution in induction medium. Cultureswere maintained in this medium for up to 14 days.The LM8 epitope at the surface of intact cells, tissues or organswas detected with a whole-mount immunofluorescence techniquedescribed elsewhere (Willats et al. 2001a).

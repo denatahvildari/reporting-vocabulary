@@ -1,0 +1,206 @@
+2. Materials and methods
+2.1. Isolation of apolar feruloylated and/or acetylated
+oligosaccharides
+Feruloylated oligosaccharides were isolated from dilute acid
+pretreated corn fiber followed by enzymatic saccharification as described
+previously.2 In short, the pretreated corn fiber (11% (w/w)
+DM and 0.22% (w/w) H2SO4 heated for 30 min at 140 C) was
+subjected to simultaneous saccharification with the enzymes Spirizyme
+(Aspergillus niger commercial product), endo-(1–4)-b-xylanase
+(Humicola insolens from glycosyl hydrolase family 10 (GH10)),
+b-xylosidase (Trichoderma reesei GH3) and 2a-L-arabinofuranosidases
+(Machairodus giganteus GH51 and H. insolens GH43) from
+Novozymes10 and fermentation after which it was shortly heated
+to kill yeast and inactivate enzymes. Subsequently, the obtained
+mix was filtered and the filtrate was applied onto a solid phase
+C18 column (Extract Clean, Grace, Deerfield, IL, USA). Polar and
+charged compounds were eluted with water after which the apolar
+(feruloylated and/or acetylated) oligosaccharides were eluted with
+MeOH. The MeOH fraction (Fraction B2), which represented 26%
+(w/w) of the dry matter (DM) and 39% (w/w) of the total soluble
+oligosaccharides of the applied material, was evaporated, lyophilized,
+and used in this study.
+2.2. Enzymatic incubations
+2.2.1. Determination of enzyme activities present in Ultraflo L
+and AG-II-Hydrolase
+The apolar oligosaccharide fraction was incubated with the enzyme
+mixtures Ultraflo L from Humicola insolens (20 mg protein/
+mL) kindly provided by Novozymes (Bagsvaerd, Denmark) and
+AG-II-Hydrolase an experimental enzyme from Aspergillus niger,
+(34 mg protein/ml) kindly provided by Erbslöh (Geisenheim,
+Germany). Ultraflo L is a b-glucanase enzyme product with
+endo-(1–4)-b-xylanase, a-L-arabinofuranosidase11, and feruloyl
+esterase12,13 side activities. The precise activities within
+AG-II-Hydrolase were not known, so it was tested for a/b-D-galactosidase,
+a/b-D-glucuronidase, a-L-arabinosidase, and a-L-arabinofuranosidase
+activity by incubation with the corresponding
+para-nitrophenyl (PNP) substrates (Sigma–Aldrich, St. Louis, MO,
+USA). The PNP substrates (0.1% (w/w), 25 lL) were mixed with
+AG-II-Hydrolase (25 lL) and sodium acetate buffer (50 mM, pH 5.0, 75 lL) in a 96-well plate. After one hour incubation at 30 C,
+glycine buffer (500 mM, pH 9.0, 150 lL) containing EDTA (2 mM)
+was added and the absorbance was measured at 405 nm. These
+measurements showed that AG-II-Hydrolase contains b-D-galactosidase
+(10.3 U/mg protein) and a-L-arabinofuranosidase (14.5 U/
+mg protein) activity and none of the other activities tested for. Both
+Ultraflo L and AG-II-Hydrolase were tested for their feruloyl esterase
+activity. Stock solutions (10 mg each/mL DMSO) of methylferulate,
+methylcaffeate, methylsinapate, and methylcoumarate (Apin
+Chemicals, Abingdon, UK) were diluted in sodium acetate buffer
+(50 mM, pH 5.8) to 50 lg/mL each and the enzyme mixtures were
+added (5% (w/w) protein/substrate). After 20 h incubation at 40 C
+the enzymes were inactivated at 100 C for 5 min, centrifuged
+(15,000g, RT, 5 min), and 10 times diluted before analysis on RPUHPLC-
+UV-MS as described below. Standards of the four methylated
+substrates and ferulic, caffeic, sinapic, and coumaric acid were
+used for identification and quantification in the range of 0–50 lg/mL.
+Both Ultraflo L and AG-II-Hydrolase contain feruloyl esterase activity.
+Ultraflo L could hydrolyze all four methyl substrates while AG-IIHydrolase
+was mainly active on methylferulate and methylsinapate.
+2.2.2. Hydrolysis of apolar oligosaccharides
+The apolar oligosaccharide fraction was mixed with each enzyme
+mix resulting in a final concentration of 5 mg/mL substrate
+in 35 mM sodium acetate buffer pH 5.0. The enzymes were added
+in excess with a dosage of 10% (w/w) and 17% (w/w) protein/substrate
+for Ultraflo L and AG-II-Hydrolase respectively. The mixture
+was incubated at 30 C for 16 h after which enzymes were inactivated
+by boiling for 5 min. After centrifugation (15,000g, RT,
+5 min), the sample was desalted by adding a spatula Dowex resin
+(AG 50W-X8 Resin, H+,100–200 mesh, BioRad Laboratories, Hercules,
+CA) to 30 lL sample and analyzed by MALDI-TOF-MS as described
+below.
+2.3. Fractionation based on size exclusion chromatography
+The separation of apolar oligosaccharides was performed on an
+AKTA explorer (GE Healthcare, Uppsala, Sweden) equipped with a
+size exclusion Bio-Gel P2 column (900  26 mm; 200–400 mesh,
+BioRad) as described previously.2 The instrument was equipped
+with both a Shodex RI 72 Refractive Index (Showa Denko, Kawasaki,
+and Japan) and PDA detector (GE Healthcare). A flow rate of
+1.2 mL/min was used. In total, 867.5 mg of the apolar (feruloylated
+and/or acetylated) oligosaccharides was dissolved in 12 mL of distilled
+water. Three runs were performed in which 4 mL of sample
+was injected each time. During each run fractions (2 mL) were collected.
+Based on the RI signal and analysis by MALDI-TOF-MS fractions
+with similar contents were pooled and lyophilized resulting
+in samples A up to Q. The recovery was about 90% (w/w) of the
+DM applied onto the column. The carbohydrate content of samples
+A to H was determined after acid methanolysis by high pressure
+anion exchange chromatography as described elsewhere.2 For
+samples I–Q no carbohydrate content was determined due to small
+sample amounts. Based on the average carbohydrate content of
+samples A–H, samples I–Q together are expected to contain
+±18 mg of oligosaccharides.
+2.4. Preparative isolation by reversed phase high pressure liquid
+chromatography
+AWaters (Milford, MA, USA) system equipped with a 2767 sample
+manager, a 2525 binary gradient module, a 2996 photodiode
+array detector (PDA) and a UV fraction manager was used. Separation
+was performed on a XterraRPC18 19 mm ID  150 mm column
+with 5 lm particle size (Waters). The binary mobile phase
+consisted of (A) H2O + 1% (v/v) acetonitrile + 0.1% (v/v) HOAc and
+(B) acetonitrile + 0.1% (v/v) HOAc. The elution profile was as follows:
+The first minute isocratic on 10% B; 1.0–61.0 min, B linearly
+from 10% to 22%; 61.0–61.5 min, B linearly from 22% to 100%;
+61.5–64.0 min, isocratic on 100% B; 64.0–64.5 min, B linearly from
+100% to 10% followed by reconditioning of the column. The flow
+rate was 12 mL/min. PDA spectra were recorded from 200–600 nm.
+Bio-Gel P2 sample C (45.7 mg) dissolved in 2 mL H2O was separated
+in two runs (1 mL sample each run). For Bio-Gel P2 sample E
+in total 26.4 mg was dissolved in 1 mL H2O and separated within
+one run. Fractions of 6 mL were collected and pooled on the basis
+of the PDA spectrum. The fractions that were obtained from injection
+of sample C are: (CI) 15.5–17.0 + 18.5–20.0 min and (CII) 39.0–
+44.5 min. The fractions that were obtained from injection of
+sample E are; (EI) 18.5–21.0 + 21.5–23.5 min and (EII) 24.0–
+25.5 + 26.5–28.0 min. Each fraction was rotary evaporated and
+subsequently lyophilized. 2.5. Analytical reversed phase UHPLC
+Analysis of ferulic acid, feruloylated oligosaccharides, and
+reducing end labeled oligosaccharides was performed on an Accela
+UHPLC system equipped with an Accela pump, column oven
+(30 C), temperature controlled autosampler (10 C), and a photodiode
+array detector (Thermo Scientific, Waltham, MA, USA). The
+system was controlled by Xcalibur software. The column used
+was a Hypersyl GOLD, 1.9 mm ID  150 mm column with 1.9 lm
+particle size (Thermo Scientific). The mobile phase was composed
+of (A) H2O + 1% (v/v) acetonitrile + 0.1–0.2% (v/v) HOAc, and (B)
+acetonitrile + 0.1–0.2% (v/v) HOAc. The flow rate was 400 lL/min.
+Three different gradients were used. The first gradient (with 0.2%
+(v/v) HOAc) was used to determine ferulic acid release by feruloyl
+esterase present in Ultraflo L and AG-II-Hydrolase. The first three
+min isocratic on 4% B; 3.0–21.0 min, B linearly from 4% to 40%;
+21.0–21.5 min, B linearly from 40% to 100%; 21.5–23.0 min, isocratic
+on 100% B; 23.0–23.5 min, B linearly from 100% to 4% followed
+by reconditioning of the column. The second gradient
+(with 0.1% (v/v) HOAc) to separate feruloylated oligosaccharides,
+in order to translate it to preparative scale for purification: The first min isocratic on 7% B; 1.0–58.0 min, B linearly from 7% to 21.5%;
+58.0–60.0 min, B linearly from 21.5% to 40%; 60.0–60.5 min, B linearly
+from 40% to 100%; 60.5–63.0 min isocratic on 100% B; 63.0–
+63.5 min, B linearly from 100% to 7% followed by reconditioning of
+the column. The third gradient (with 0.1% (v/v) HOAc) was used to
+analyze the reducing end labeled oligosaccharides (as described later):
+The first min isocratic on 7% B; 1.0–20.0 min, B linearly from
+7% to 16.5%; 20.0–30.0 min, B linearly from 16.5% to 26.6%; 30.0–
+30.5 min, B linearly from 26.6% to 100%; 30.5–33.5 min isocratic
+on 100% B; 33.5–34.0 min, B linearly from 100% to 7% followed
+by reconditioning of the column. Spectral data were collected from
+200–600 nm.
+2.6. Matrix assisted laser desorption time off flight mass
+spectrometry (MALDI-TOF-MS)
+One microliter from each sample collected from the Bio-Gel P2
+column was mixed with 2 lL matrix solution (2,5-dihydroxybenzoic
+acid, 10 mg/mL H2O/ACN (3:7)) on a stainless steel metal
+plate. Analysis was performed on an Ultraflex workstation (Bruker
+Daltonics, Bremen, Germany) equipped with a 337 nm laser as described
+previously.2
+2.7. Electrospray ionization mass spectrometry (ESI-MS)
+Mass spectrometry was performed by coupling a LTQ XL ion
+trap mass detector equipped with an electrospray ionization
+source (Thermo Scientific) to the UHPLC equipment. Spectra were
+obtained in the positive mode with an ion spray voltage of
+3.0 kV, a capillary voltage of 48 V, and a capillary temperature of
+250 C. Optimization of the MS settings was performed
+automatically with a crude mix containing feruloylated
+oligosaccharides. Full MS scans were made within the m/z range
+of 200–2000 and MS2 data of the most intense or selected ions were obtained by collision induced dissociation (CE of 35%). If
+needed, additional MSn experiments were performed. Whenever
+the mass detector was coupled to the UHPLC apparatus eluents
+to which 50 lM sodium salts were added was used for better ionization
+of the oligosaccharides.
+2.8. NMR spectroscopy
+Samples (about 0.5–3.0 mg of CI, CII and EII, see Section 2.4)
+were exchanged with D2O (99.9 atom%, Sigma–Aldrich) and subsequently
+dissolved in 0.5 mL D2O containing 0.75% 3-(trimethylsilyl)-
+propionic-2,2,3,3-d4 acid, sodium salt (TMSP). NMR spectra
+were recorded at a probe temperature of 300 K on a Bruker
+Avance-III-600 spectrometer, equipped with a cryo-probe located
+at Biqualys (Wageningen, The Netherlands). Chemical shifts are expressed
+in ppm relative to internal TMSP at 0.00 ppm. 1D and 2D
+COSY, TOCSY, HMBC, and HSQC spectra were acquired using standard
+pulse sequences delivered by Bruker. For the 1H COSY spectra,
+400 experiments of 2 scans (0.5 h), 400 experiments of 4 scans
+(1.25 h) and 512 experiments of 4 scans (1.5 h) were recorded for
+samples CI, CII, and EII, respectively. For the 1H TOCSY spectra
+400  4 (1 h), 400  8 (2 h) and 512  8 (2.5 h) scans were recorded
+for samples CI, CII and EII, respectively. The mixing time
+for the TOCSY spectra was 100 ms. For the [1H,13C]-HMBC spectra
+880  24 (10.5 h), 800  112 (44.5 h), and 880  96 (42 h) scans
+were recorded and for the [1H,13C]-HSQC spectra these values were
+512  4 (1.25 h), 512  16 (5 h), and 512  24 (7.5 h) for samples
+CI, CII, and EII, respectively. Chemical shifts derived from 1D data
+are given in three decimals. Data from 2D spectra with lower resolution
+are given in two decimals or 1 decimal in case of severe
+overlap of signals.
+2.9. Labeling of oligosaccharides by reductive amination
+Oligosaccharides were labeled at their reducing end to facilitate
+characterization by ESI-MS. Samples (5–500 lg DM depending on
+the purity/composition of the sample) were dried after which
+50 lL ethyl-4-aminobenzoate (ABEE) (Acros organics, Geel, Belgium)(
+0.4 M in 15% (v/v) HOAc/ 85% (v/v) MeOH) and 50 lL 2-picoline
+borane complex (Sigma–Aldrich) (0.9 M in MeOH) was
+added. Subsequently, samples were incubated at 65 C for 2 h after
+which 300–500 lL water was added causing (partly) precipitation
+of both ABEE and 2-picoline borane followed by centrifugation
+(12,000g, 5 min), at 7 C. In the case that oligosaccharides were
+only reduced the same procedure was used without adding ABEE
+to the 15% (v/v) HOAc/85% (v/v) MeOH solution. Analyses of the labeled
+or reduced oligosaccharides were performed on reversed
+phase UHPLC-UV-ESI-MS as described above.

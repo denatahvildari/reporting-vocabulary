@@ -1,0 +1,157 @@
+2. Experimental
+2.1. Materials
+Ammonia (25% v/v), granular NaBH4, H2O2 (30% v/v), K2CO3,
+DMSO (Seccosolv), glacial acetic acid (100%), saccharose, and maltose
+(monohydrate) were obtained from Merck (Darmstadt,
+Germany). Methyl 3-(4-hydroxyphenyl)propionate (hydroxyphenyl-
+propionate methylester, HPPME), dichloromethane (Chromasolv),
+raffinose (pentahydrate), trehalose, maltitol, horseradish
+peroxidase Type VI (P-8375, EC 1.11.1.7), catalase (C-3155, EC
+1.11.1.6), and D2O (99.9 atom%) were from Sigma Aldrich Corporation
+(St. Louis, MO, USA). MeOH was from J.T. Baker (Phillipsburg,
+NJ, USA) and the tripeptide H-Gly-Tyr-Gly-OH (GYG, H-3670) from
+Bachem (Bubendorf, Switzerland). Met-Arg-Phe-Ala (MRFA) was
+bought from Research Plus, Inc. (Barnegat, NJ, USA). Water was
+purified by using a Milli-Q Gradient A10 system (Millipore Corporation,
+Billerica, MA, USA).
+2.2. Methods
+2.2.1. Reduction of oligosaccharides and subsequent
+purification
+Reduction of oligosaccharides was performed using a protocol
+based on a previously published method.10 One gram of each oligosaccharide
+was dissolved in 20 mL water in a plastic reaction tube,
+the pH of this solution was then adjusted to 10.0 using ammonia.
+Granular NaBH4 was subsequently added in a molar ratio reducing
+ends:NaBH4 = 1:1.33 after which the tubes were capped accurately.
+Next, samples were incubated in a shaking incubator
+(120 rpm) at 40 C for 90 min. Subsequently, acetic acid was added
+till the pH remained below 5.0 and an excess of MeOH was added.
+Samples were dried under a stream of dry air and the addition of
+MeOH followed by drying was repeated twice.
+Solid phase extraction (SPE) was applied for sample purification.
+Alltech Carbograph SPE columns (Alltech, Deerfield, IL, USA)
+were first activated by rinsing with 3 CV MeOH (CV = Column Volume:
+3 mL) and 4 CV water, respectively. Up to 500 mg of reduced
+sugar product was dissolved in 1 CV of water and the column was
+subsequently loaded with this sample. Salts were eluted with 3 CV
+of water, after which reduced sugars were eluted with 3 CV of 10%
+(v/v) MeOH in water and 3 CV of 40% (v/v) MeOH in water, respectively.
+Fractions were dried using a stream of dry air and stored at
+20 C until further analysis or application.
+2.2.2. Verification of oligosaccharide reduction products
+After reduction and purification, oligosaccharides were analyzed
+using High Performance Anion Exchange Chromatography
+(HPAEC) using equipment and columns as described previously.11
+Ten microliters of a 1 mg/mL sample solution was injected. Initial
+eluent composition (0.3 mL/min) was 0.1 M NaOH, which was linearly
+changed to 0.4 M NaOAc in 0.1 M NaOH in 30 min. After this,
+the column was rinsed with 1 M NaOAc in 0.1 M NaOH for 5 min
+followed by an equilibration at starting conditions for 18 min. Data
+were processed using Chromeleon software (Dionex Corporation).
+2.2.3. Synthesis of oligosaccharide-hydroxy-aryl esters
+Oligosaccharides were transesterified with methyl 3-(4-
+hydroxyphenyl)propionate (HPPME) by dissolving 0.7 mmol of oligosaccharide
+together with 1.7 mmol of HPPME (ratio 1:2.3) and
+25 mg of K2CO3 in 5 mL of DMSO in a 15 mL capped plastic reaction
+tube. Reaction mixtures were subsequently incubated in a shaking
+incubator (80 rpm) at 40 C for seven days. To study the influence
+of the reagents on product yield and composition, a range of samples
+with different reagent ratios was incubated under the same
+conditions for four days. The reaction was stopped by cooling the
+samples to 20 C until further analysis or purification.
+2.2.4. Purification of the oligosaccharide-hydroxy-aryl esters
+The hydroxy-arylated oligosaccharides in the reaction mixture
+were precipitated by mixing 1 mL of the reaction mixture with
+20 mL of dichloromethane. After centrifugation (5 min; 2540g,
+room temperature), the supernatant was decanted and the precipitate
+was washed with 10 mL of dichloromethane. The precipitate
+was air-dried and subsequently dissolved in 8 mL of water (0 C).
+This solution was used for purification by means of Solid Phase
+Extraction (SPE). Sep-Pak Vac 20 cc (5 g) C18 Cartridges (Waters
+Corporation, Milford, MA, USA) with a CV of 8 mL were activated
+by rinsing with 3 CV of MeOH and 3 CV of water, respectively.
+The 8 mL of sample solution was then loaded. After this, compounds
+were eluted using successively: Water (6 CV), 10% (v/v)
+MeOH in water (6 CV), 20% (v/v) MeOH in water (3 CV), 30%
+(v/v) MeOH in water (3 CV), 40% (v/v) MeOH in water (3 CV),
+and 60% (v/v) MeOH in water (3 CV). Fractions were collected
+per 3 CV, dried using a stream of dry air, and weighted. Fractions
+were subsequently dissolved in water to a concentration of 5 mg/
+mL and analyzed by using RP-UPLC-MS. Fractions were stored at
+20 C until further use.
+2.2.5. U-HPLC-MS analysis of oligosaccharide-hydroxy-aryl
+esters
+The compositions of the reaction mixtures from oligosaccharide
+hydroxy-arylation and the SPE fractions were determined using
+U-HPLC-MS equipment and columns as described elsewhere.12
+For the reaction mixture analysis, 3 lL of a 200-diluted sample
+in DMSO was injected. For the SPE fractions, 5 lL of a 5 mg/mL
+solution in water was injected. For elution (30 C), a gradient was
+applied at 300 lL/min using the following two eluents: A: water
+containing 1% (v/v) acetonitril and 1% (v/v) HOAc; B: acetonitril
+containing 1% (v/v) HOAc. Gradient: 0–2 min: 95–80% A; 2–
+9 min: 80–70% A; 9–11 min: 70–60% A; 11–15 min: 60–20% A;
+15–16 min: 20–0% A; 16–18 min: 0% A isocratic; 18–22 min: 0–
+95% A; 22–26 min: 95% A isocratic. Linear gradients were used in
+all non-isocratic steps. Detection was performed by the PDA detector
+scanning between 200 and 400 nm. Half of the eluent was led
+to the ESI-MS system running in the negative mode. Helium was
+used as a sheath gas and nitrogen as auxiliary gas. The capillary
+temperature was set at 250 C and the spray voltage at 4.7 kV. Settings
+of the MS were tuned using a purified saccharose-HPP monoester
+sample. After each first scan event, being a full scan between
+m/z 300–2000, MS/MS analysis was performed in a second scan
+event for the most intense ion in the full MS spectrum, using normalized
+collision energy of 35.0 units. During the first 3.5 min of
+each run, eluent was directed to the waste in order to protect the MS from DMSO influx. Data were processed using XCalibur software
+(Thermo Scientific).
+2.2.6. NMR analysis of hydroxyl-arylated saccharose
+Purified saccharose-HPP mono-ester (14 mg) was dissolved in
+0.5 mL D2O containing 0.07% 3-(trimethylsilyl)-propionic-2,2,3,3-
+d4 acid, sodium salt (TMSP). NMR spectra were recorded at a probe
+temperature of 300 K on a Bruker Avance-III-600 spectrometer
+(Bruker Daltonics, Bremen, Germany), equipped with a cryo-probe
+located at Biqualys (Wageningen, The Netherlands). Chemical
+shifts are expressed in ppm relative to internal TMSP at
+0.00 ppm. 1D and 2D COSY, TOCSY, HMBC, and HMQC spectra were
+acquired using standard pulse sequences delivered by Bruker. For
+the 1H-COSY and -TOCSY spectra, 400 experiments of 2 scans and
+4 scans were recorded, resulting in measuring times of 0.5 and
+1 h, respectively. The mixing time for the TOCSY spectra was
+100 ms. For the [1H,13C]-HMBC and -HMQC spectra 800 experiments
+of 24 scans and 512 experiments of 4 scans were recorded,
+resulting in measuring times of 6.2 and 1.2 h, respectively.
+2.2.7. Peroxidase-mediated coupling of hydroxy-arylated
+oligosaccharides to tyrosine-containing peptides
+The SPE-purified hydroxy-arylated oligosaccharides were linked
+to the peptide GYG by using a method based on the work published
+before.5 GYG (0.5 mg) was dissolved in 1 mL 0.1 M sodium phosphate
+buffer pH 7.0 in a capped reaction tube. Then, 35 lL of a
+1 mg/mL horseradish peroxidase solution was added. This was followed
+by the addition of 8  3 lL of 0.5 M H2O2 and 8  15 lL of
+HPPME (3 mg/mL) or oligosaccharide-HPP (5 mg/mL). Between
+the 8 sets of additions, intervals of 20 min were applied. Samples
+were incubated at 30 C at 400 rpm in an Eppendorf Thermomixer
+(Eppendorf, Hamburg, Germany). Thirty minutes after the final
+substrate addition, the reaction was stopped by adding 4 lL of a
+1% (w/v) catalase solution. Samples were then stored at 20 C until
+analysis.
+2.2.8. Analysis of glycopeptides
+Products of the peroxidase-catalyzed coupling of GYG to
+HPPME or oligosaccharide-HPP compounds were also analyzed
+using RP-UHPLC-PDA/MS. The system, column (30 C), flow rate,
+and eluents used for analysis were the same as outlined under
+Section 2.2.5. Ten microliters of the sample solutions, as obtained
+under 2.2.7, was injected. The following linear gradients were
+applied: 0–9 min: 98–80% A; 9–11 min: 80–65% A; 11–15 min:
+65–20% A; 15–16 min: 20–0% A; 16–18 min: 0% A isocratic; 18–
+22 min: 0–98% A; 22–26 min: 98% A isocratic. ESI-MS was run
+in the positive mode. Helium was used as the sheath gas and
+nitrogen as the auxiliary gas. The capillary temperature was set
+at 350 C and the source voltage was 3.5 kV. Settings of the MS
+were tuned using a solution of the peptide MRFA. After each first
+scan event, being a full scan between m/z 100–2000, MS/MS analysis
+was performed in a second scan event on the most intense
+ion in the full MS spectrum, using normalized collision energy
+of 35.0 units. Data were processed using XCalibur software
+(Thermo Scientific). 

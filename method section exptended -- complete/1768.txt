@@ -1,0 +1,28 @@
+High-performance size exclusion chromatography
+analysis The size distribution and the molecular weight of
+the heparosan polymers were analyzed by HPSEC on an
+Ultimate 3000 (Dionex, Sunnyvale, USA) using three
+TosoH Bioscience TSK-gel columns in series (4000, 3000,
+and 2500 Super AW, 150??~6.0 mm) preceded by a TSK AWL
+guard column (35??~4.6 mm; TosoH Bioscience, Japan) as
+previously described (Chavaroche et al. 2011). For each
+HPSEC analysis, the molecular weight and the size distribution
+of the samples were determined by fitting to a logarithmic
+model the elution time of the hyaluronan molecular
+mass markers (30, 160, and 262 kDa, Hyalose) (Chavaroche
+et al. 2010).
+High-performance anion exchange chromatography
+analysis The composition of the reaction mixture (UDPFig
+sugars and heparosan oligosaccharides) was analyzed by
+high-performance anion exchange chromatography
+(HPAEC) using an ICS-3000 Ion Chromatography HPLC
+system equipped with a CarboPac PA-1 column (2??~
+250 mm), in combination with a CarboPac PA guard column
+(2??~25 mm), a VWD-3100 single wave detector (Dionex,
+Sunnyvale, USA), and a pulsed electrochemical detector in
+pulsed amperometric detection mode (Dionex, Sunnyvale,
+CA, USA) in series. The same elution conditions as previously
+described were used (Chavaroche et al. 2011). The
+presence of a peak with UV detection, as with electrochemical
+detection, shows the presence of an UDP group
+(Orellana and Mohnen 1999).

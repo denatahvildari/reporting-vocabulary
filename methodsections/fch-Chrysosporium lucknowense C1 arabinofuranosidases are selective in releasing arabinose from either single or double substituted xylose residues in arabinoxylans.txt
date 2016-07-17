@@ -1,0 +1,116 @@
+2. Materials and methods
+2.1. Materials
+Arabinose, xylose and p-nitrophenyl--l-arabinofuranoside were purchased
+from Sigma–Aldrich (St. Louis, MO, USA). Linear xylose oligomers were from
+Megazyme (Bray, Ireland). Standards including single and double substituted xylose
+oligomers were available from previous work [14,19].
+The endo-1,4--xylanase from Aspergillus awamori was previously purified and
+characterized by Kormelink et al. [20].
+AXHd3 from B. adolescentis [21] was purchased from Megazyme (Bray, Ireland).
+Medium-viscosity water-soluble wheat arabinoxylan (WAX) was obtained from
+Megazyme (Bray, Ireland). Alcohol insoluble solids (AIS) and alkali soluble solids
+of wheat bran and corn were prepared as described [22]. Characteristics of the
+arabinoxylan substrates are shown in Table 1.
+2.2. Cloning of arabinofuranosidases encoding genes
+The ascomycetous fungus Chrysosporium lucknowsense C1 (accession number:
+VKM F-3500D of the All-Russian Collection of Microorganisms of the Russian
+Academyof Sciences)wasused for the production of hemicellulases. The fullgenome
+of C1 has been sequenced and revealed many genes encoding for cellulases, hemicellulases
+and accessory enzymes [23]. Annotated genes, encoding for the putative
+arabinofuranosidases Abn7 and Abf3, have been cloned into a specially designed
+C1-expression host that allows production of relatively pure enzyme in lab scale
+fermentation [24]. The amino acid sequences have been deposited at GenBank with
+the accession numbers HQ324255 (Abn7) and HQ324254 (Abf3). The strains were
+grown aerobically in 2 L fermentors in mineral medium, containing glucose as carbon
+source, ammonium sulfate as nitrogen source and trace amounts of essential
+salts [24]. Growth is performed under glucose limitation at pH 6.0 and 32 ◦C. After
+fermentation, the supernatants containing the enzymes were tested on WAX for
+activity. Both Afb3 and Abn7 showed activity towards WAX releasing arabinose.
+2.3. Enzyme purification
+For a detailed characterization, the enzymes were further purified. Abf3 and
+Abn7 (EC 3.2.1.55) were purified by using anion exchange chromatography on a
+Akta purifier system equipped with a SP Sepharose fast flow column (GE Healthcare,
+Uppsala, Sweden). The eluate was monitored at 280 and 214 nm. Proteins were
+dialyzed against 20mM sodium phosphate buffer, pH 6.5. The column was equilibrated
+using the same buffer, and the proteins applied onto the column were eluted
+using a linear gradient of 0–0.5MNaCl within a 20mMsodium phosphate buffer, pH
+6.5. Fractions were collected and tested for enzymatic activity on WAX. The active
+fractions were pooled and applied onto a Superdex 200 gel filtration column (GE
+Healthcare, Uppsala, Sweden), previously equilibrated with 20mM sodium phosphate
+buffer pH 6.5. Fractions were collected and characterized using SDS–PAGE
+and tested for WAX degrading activity. The active fractions were pooled and stored
+in small aliquots at −20 ◦C.
+2.4. Preparation of single and double substituted arabinoxylan oligosaccharides
+2.4.1. Single and double substituted arabinoxylan oligosaccharides AXOSS+D
+Single and double substituted arabinoxylan oligosaccharides (AXOSS+D) were
+prepared by incubation of WAX (10 mg/mL) in 50mM sodium acetate buffer,
+pH 5, with an endo-(1,4)--xylanase (GH 10) from A. awamori for 24 h at 35 ◦C
+(0.07U enzyme per mg substrate). The reaction was stopped by heating the samples
+at 100 ◦C for 10 min. The samples were centrifuged for 5 min at 10,000°øg
+at room temperature. The supernatant (=AXOSS+D) was used for further experiments.
+Degradation of the wheat arabinoxylan into oligosaccharides was followed
+by High Performance Anion Exchange Chromatography (HPAEC). Substituted xylooligosaccharides
+were identified using standards as prepared previously [14,19].
+2.5. Single substituted arabinoxylan oligosaccharides AXOSS
+Single substituted arabinoxylan oligosaccharides (AXOSS) were prepared by
+incubation of AXOSS+D with arabinofuranosidase AXHd3 from B. adolescentis (0.2U
+enzyme/mg of substrate) in 50mM sodium acetate buffer pH 5.0 for 24 h at 35 ◦C
+[17]. The reaction was stopped by heating the samples at 100 ◦C for 10 min. The samples
+were centrifuged for 5min at 10,000°øg at room temperature. The supernatant
+(=AXOSS) was used for further experiments.
+2.6. Double substituted arabinoxylan oligosaccharides AXOSD
+Double substituted arabinoxylan oligosaccharides (AXOSD) were prepared by
+incubation of AXOSS+D with arabinofuranosidase Abf3 (1g enzyme per mg of substrate)
+in 50mM sodium acetate buffer pH 5.0 for 24 h at 35 ◦C. The reaction was
+stopped by heating the samples at 100 ◦C for 10 min. The samples were centrifuged
+for 5min at 10,000°øg at room temperature. The supernatant (=AXOSD) was used
+for further experiments.
+2.7. pH and temperature optimum
+The pH optimum of the arabinofuranosidases was determined at 35 ◦C and
+within the range from 3.0 to 8.0 using aMcIlvaine buffer (made from a 0.01Mcitric
+acid and a 0.02Mphosphate solution). All experiments were performed in duplicate.
+At the pH optimum, the temperature optimum was determined within the range
+from 30 to 90 ◦C. Arabinofuranosidases Abf3 and Abn7 (1g enzyme per mg of substrate)
+were separately incubated with AXOSS+D. The reaction was stopped after
+30 min and the release and quantification of arabinose was followed by HPAEC. The
+activity was expressed as unit per mg of protein (1 unit has been defined as 1mol
+arabinose released per minute under the conditions specified).
+2.8. Activity towards p-nitrophenyl-˛-l-arabinofuranoside
+The activity towards p-nitrophenyl--l-arabinofuranoside (pNP-ara) was performed
+at 35 ◦C after 30 min of incubation. The reaction mixture consisted of 0.1mL
+5mM pNP-ara solution and 0.1mL of the suitable enzyme concentration (2.5g
+enzyme per mg of substrate 0.25% (w/w) Abn7 or Abf3 based on protein content)
+in 50mM sodium acetate buffer pH 5.0. The reaction was stopped by adding 0.1mL
+of 0.25M NaCO3. The color formation was measured at 405 nm. One unit of activity
+has been defined as 1mol of p-nitrophenol released per min under the conditions
+specified. The molar extinction coefficient under these assay conditions was
+13,700 L/M cm.
+2.9. Mode of action of arabinofuranosidases
+Abf3 and Abn7 mode of actions were determined towards AXOSS+D, AXOSD
+and AXOSS (1g enzyme per mg of substrate) at 40 ◦C and pH 5.0. Reactions
+were stopped by heating the samples at 100 ◦C for 10 min. The samples were centrifuged
+for 5min at 10,000°øg. The release of arabinose and of (un)substituted
+xylo-oligosaccharides was monitored by HPAEC.
+2.10. Sequential enzyme hydrolysis
+The following enzymatic treatments were evaluated: (1) Abn7, (2) Abn7 and
+Abf3, (3) endo-1,4--xylanase (A. awamori; GH10) and Abf3 followed by an addition
+of Abn7 and (4) endo-1,4--xylanase, Abf3 and Abn7 simultaneously. All enzymes
+were individually added in the ratio of 1g enzyme per mg of substrate. The reactions
+were taking place at pH 5.0 and 40 ◦C for 24 h. The reactions were stopped by
+boiling the samples for 10 min at 100 ◦C and the samples were subsequently centrifuged
+at 10,000°øg. The hydrolysis of WAX, of alkali soluble arabinoxylans from
+wheat bran (KOHss), of wheat bran AIS, and of corn AIS by the various enzymes
+was monitored HPAEC and the released levels of arabinose, xylose, xyland
+xylotriose were quantified.  2.11. High Performance Anion Exchange Chromatography
+The analysis of the samples was analyzed by HPAEC according to Albrecht et al.
+[25] using a CarboPac PA1 (250mm°ø2.1mmID) column (Dionex, Sunnyvale, USA).
+A flow rate of 0.3 mL/min was used with the following gradient of sodium acetate in
+100mM NaOH: 0–50 min, 0–500mM. Each elution was followed by a washing step
+of 5min 1000mM sodium acetate in 100mM NaOH and a re-equilibration step of
+15 min 100mM NaOH.
+2.12. High Performance Size Exclusion Chromatography (HPSEC)
+HPSEC was performed according to Verhoef et al. [26] using three TosoH
+Biosep-TSK-Gel G columns in series (4000PWXL-415 3000PWXL-2500PWXL, each
+300mm°ø7.5mm; TosoH, Japan). Sample (50L) was injected and eluted at 30 ◦C
+using 0.8 mL/min 0.2M NaNO3. Detection was performed using a Shodex RI 71
+refractive index detector (Showa Denko K.K., Japan).

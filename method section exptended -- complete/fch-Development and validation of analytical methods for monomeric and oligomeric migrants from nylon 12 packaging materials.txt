@@ -1,0 +1,40 @@
+Experimental
+Materials and reagents
+All reagents and solvents were of analytical quality
+unless specified otherwise: Water, methanol (both
+HPLC grade) and laurolactam were purchased from
+Fluka, capryllactam (2-azacyclononanone) from
+Aldrich. Isooctane and ethanol were purchased from
+Merck. The olive oil used came from Minerva. The
+azeotropic mixture of ethyl acetate and cyclohexane
+was distilled at IVV using solvents from Merck.
+Nylon 12 dimer and trimer standards were produced
+in-house. For this purpose 50 g or 50 dm2 of a
+polyamide 12 monofilm (Grilamid L25, EMSChemie,
+Germany) was extracted with a 500 ml of a
+95% ethanol/water mixture for 3 days at 60C. The
+extract was evaporated to dryness and the residue was
+purified using preparative HPLC. Conditions are
+described below in the apparatus section. 5mg of the
+dimer and 1mg of the trimer fractions were collected
+in total. The purity of the standard fractions collected
+ranged between 98 and 99% (determined by the
+percentage area in full scan by HPLC-MS).
+Sample preparation
+Several food simulants have been investigated in this
+study. Standard solutions of laurolactam were prepared
+in methanol, isooctane, 95% ethanol and in
+olive oil. Migration tests were set up using 1 dm2 of
+film (same monofilm as mentioned above) fully
+immersed in 100 ml of food simulant (isooctane,
+10% ethanol, 50% ethanol and 95% ethanol in water
+and in olive oil) for 10 days at 40C. For validation
+purposes, solutions of 10% ethanol, 50% ethanol,
+95% ethanol, isooctane and olive oil were spiked at
+the SML of 5 mg/L (5 mg/kg for olive oil). Six
+aliquots were taken and analysed. Samples and
+standard solutions were directly injected into the
+respective analytical devices unless stated otherwise in Gas chromatography was carried out using a HewlettPackard 5890 equipped with a flame ionizationdetector (FID). The column was a 30m0.32mm
+the apparatus sections below.
+Apparatus
+Gas chromatography was carried out using a HewlettPackard 5890 equipped with a flame ionizationdetector (FID). The column was a 30m0.32mm DB624 1.8 mm film (J&W Scientific). The carriergas was hydrogen with a column head pressure of65 kPa and a split rate of 1 : 20. Prior to injection,0.1 ml of a 210 mg/ml solution of capryllactam wasadded to 0.5 ml of any standard or sample. Injectionvolume was 1 ml. The injector port and FID wereheated to 220C and 240C respectively. The oventemperature was programmed from 180C held for 2minutes, to 240C at 10C/min with a final hold for 5minutes. Retention times for capryllactam (internalstandard) and laurolactam were 6.6 and 9.5 minutesrespectively. High performance liquid chromatography was performedwith a Shimadzu Class 10A equipped with adiode array detector (Shimadzu SPD-M10A) and a100 ml loop. Injection volume was 50 ml. The columnused was a Hypersil ODS5 with 1254mm innerdiameter and 5 mm particle size. The column wasthermostated at 40C. Total flow was 1 ml/min. Theeluents were water (A) and methanol (B). Thegradient went from 30% to 90% solvent B in 8minutes where it was held for 10 minutes. Theconcentration of methanol was reduced back to30% in 0.1 minutes and held for 6.9 minutes toequilibrate. The retention times of the analytes were:laurolactam 9.4, dimer 10.8, trimer 12.2, and tetramer12.9 minutes. The detection wavelength used was setat 207 nm. During preparative HPLC for purificationof dimer and trimer standards, a Shimazu fractioncollector (FRC-10A) was used. 50 ml of a solutioncontaining approximately 1% (w/v) of total residue asdescribed in the reagents section were injected andfractions belonging to the peaks were collected. Yieldfor the tetramer was not sufficient to obtain standardsthat could be used for calibration purposes. Highperformance liquid chromatography with mass spectrometricdetection (HPLC-MS) was carried outusing a Thermo Finnigan LCQ Deca (ion trap)applying atmospheric pressure chemical ionisation(APCI, Vaporizer Temperature: 450C, Coronacurrent: 5.0 mA, heated capillary: 225C). Detectionwas performed in full scan mode (m/z¼100–1200),using the following mass traces for quantification:laurolactam m/z¼198.2, dimer m/z¼395.4, trimer:m/z¼592.6. Quantification was achieved by externalcalibration using standard solutions of the analytes.Isooctane samples and standards (0.5 ml) wereevaporated using a stream of nitrogen and redissolvedin 0.5 ml of methanol prior to injection. Othersamples and standards were directly injected. Thecolumn used was the same as reported in the HPLCUVsection, the gradient conditions were similar tothose described above for HPLC-UV. Total flow was0.8 ml/min, injection volume was 15 ml. The methanolconcentration was held at 30% for 3 minutes, thenincreased to 90% in 6 minutes where it was held for 6minutes before returning to 30% for 10 minutes. Therespective retention times: laurolactam: 8.1, dimer:8.9, trimer: 9.9 and tetramer: 10.8 minutes.For size exclusion chromatography (SEC), thefollowing instruments were used: the mobile phasepump was a Gynkotek N480 pumping an azeotropicmixture of ethyl acetate and cyclohexane (56 : 44,w: w) at a flow of 3 ml/min. The column used was aPharmacia XK26/40, 26mm i.d., bed height 370 mm,filled with Bio-Beads SX-3 swollen in the eluentdescribed above. The detector was a refraction indexdetector (Gynkotek RI SE-51), the autosampler wasa Gilson Abimed 231XL equipped with a syringepump 402. The fraction collector used was a GilsonAbimed 201.Olive oil sample preparationA 1 g oil aliquot was dissolved in eluent and filled upto a total weight of 10 g. 4ml were injected into theSEC. The fraction containing the oil was determinedby injection of a blank (10% w/w olive oil in eluent),the fraction containing laurolactam was determinedby injection of a 10 000 mg/g laurolactam standard ineluent. In figure 2, it can be seen that the olive oilpeak eluted roughly between 23 and 34 minutes. Thefollowing fraction, containing all analytes, wascompletely collected and analysed as follows: Thecollected fraction (approximately 75 ml) was evaporatedin a rotary evaporator at 60C to about 1 ml,quantitatively transferred into a 10ml volumetricflask, and dried down using a stream of nitrogen. Theresidue was redissolved in 10 ml methanol and a 15 mlaliquot was injected into the HPLC/MS system. Forcalibration, seven oil standards spiked with 0, 1, 5, 10,25, 50 and 100 mg/g laurolactam respectively weretreated the same way as the test samples.

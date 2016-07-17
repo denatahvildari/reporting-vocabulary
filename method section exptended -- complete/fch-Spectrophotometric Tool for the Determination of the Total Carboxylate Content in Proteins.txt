@@ -1,0 +1,90 @@
+EXPERIMENTAL SECTION
+Materials. Bovine milk â-lactoglobulin and hen egg white
+ovalbumin were purified to homogeneity as described previously.
+14,15 Analytical-grade hen egg white lysozyme, bovine serum
+albumin (BSA), â-casein, -casein, trypsin, R-lactalbumin, 2-[Nmorpholino]
+ethanesulfonic acid (MES) and 2-ethyl-5-phenylisoxazolium-
+3¢-sulfonate (Woodward’s reagent K) were purchased from
+Sigma-Aldrich and used without further purification. All other
+chemicals used were of analytical grade and were used without
+further purification. Sephadex PD-10 gel filtration columns were
+obtained from Amersham-Pharmacia.
+Spectrophotomeric Parameters. For all measurements, a
+Biospec UV-1601 from Shimadzu connected to a PC for data
+transfer was used. Cells were temperature-controlled by a CPS-
+240A cell positioner with an isothermic cell holder at 22 ( 0.1
+°C. For recording absorbance spectra, quartz cells with a 1-cm
+path length were used. For protein concentration analysis by using
+the Biuret assay, plastic cells with 1-cm path length were used.
+Woodward’s Reagent K (WRK) Characteristics. Stability
+of WRK Solution. WRK was dissolved in 0.01 N HCl to a final
+concentration of 0.05 mM. Solutions were kept at 4 and 22 °C in
+the dark. Absorbance at 283 nm was measured at different time
+intervals of incubation at 22 °C.
+Influence of pH on WRK Solution. The pH of 50 mL of 50 mM
+MES buffer containing 1% SDS and 1 M NaCl was adjusted to 2.0
+with HCl. Subsequently, 100 íL of a 15.8 mM WRK solution in
+0.01 N HCl was added to the buffer solution to make a final WRK
+concentration of 0.032 mM. After readjustment of the pH with
+NaOH and incubation at 22 °C for 15 min, 3 mL of this solution
+was transferred to a quartz cell, and the absorbance was measured
+directly at 283 nm. Absorbance data were corrected for the volume
+change caused by the addition of NaOH required to set the pH.
+The experiments were performed in triplicate.
+Influence of Salt on the Stability of the WRK Solution. A range
+of 6 NaCl concentrations (10 mM to 1 M) were made by adding
+solid NaCl to 5 mL of 50 mM MES buffer containing 1% SDS (pH
+5.0). To this solution, 10 íL of 15.6 mM WRK in 0.01 N HCl was
+added. Subsequently, it was incubated at 22 °C for 15 min. The
+absorbance at 283 nm was measured.
+Kinetics of Spontaneous Degradation of WRK in Aqueous
+Solution. A 10-íL portion of a 15.6 mM WRK solution was added
+to 50 mM MES buffer containing 1% SDS at the appropriate pH
+(range between pH 4.0 and 6.0). Reactions were monitored at 283
+nm and started within 20 s after mixing of the buffer with WRK
+at 22 °C. The absorbance measured is related to the initial
+absorbance of the sample at pH 6.0. Unreacted WRK was
+quantified at 283 nm using an extinction coefficient () of 21 600
+M-1 cm-1.11 First-order rate constants were determined from the
+logarithmic relationship between the absorbance as a function of
+time relative to the initial absorbance using a linear least-squares
+fit procedure. The experiments were performed at least in
+duplicate.
+Protein Concentration. The protein concentration in samples
+was determined using the Biuret assay.16,17 For the assay, solutions
+containing 0.3 and 10 mg protein/mL buffer were diluted to a
+final volume of 3 mL. Subsequently, 2 mL Biuret reagent was
+added. After mixing, the solutions were incubated for 30 min at
+room temperature. Absorbance was measured at 540 nm, and the
+reagent in absence of protein was used as reference. A calibration
+curve of BSA and an extinction coefficient of 0.0488 mg-1 cm-1
+were used to evaluate the protein concentration. The protein
+concentration of ovalbumin was also measured spectrophotometrically
+using an extinction coefficient of 0.712 mL mg-1 cm-1 at 280
+nm.18 All determinations were performed in duplicate.
+Methylation of Ovalbumin. Carboxylate groups in ovalbumin
+were methylated using an adapted version of the procedure
+described by Hoare and Koshland.19 Four 100-mL batches of 10
+mg/mL ovalbumin (0.22 mM) containing 1 M methylamine were
+prepared and brought to pH 4.6 with 0.02 M HCl. Subsequently,
+solid N-(3-dimethylaminoprpyl)-N¢-ethylcarbodiimidehydrochloride
+(EDC from Fluka) was added stepwise to make final solutions of
+10, 20, 50, and 100 mM EDC, while the pH was kept at 4.6 by the
+addition of 1 M NaOH using pH-stat equipment. When all added
+EDC was dissolved, the solutions were stirred for another 2 h.
+Next, the pH was raised to 8.0 by dropwise addition of NaOH (1
+M) and the solution was stirred at room temperature for 24 h. To
+prevent microbial growth, 150 íg/mL sodium azide was added.
+After extensive dialysis (Visking, cutoff 14 000 Da) against
+demineralized water (4 °C), the mixtures were lyophilized and
+stored at -20 °C.
+Cation-Exchange Chromatography. To demonstrate differences
+in net charge of the methylated ovalbumin variants, cation
+exchange chromatography (IEC) was performed. Separation of
+the different proteins was carried out on a Mono S column
+(Amersham-Pharmacia) with a bed volume of 1 mL supported by
+A¬ kta Purifier (Amersham-Pharmacia). The column was equilibrated
+with 50 mM sodium acetate (pH 5.0) at 20 °C. A 100-íL of
+a 5 mg/mL protein sample was applied to the column, and the
+flow rate was set to 0.5 mL/min. Proteins were eluted in 50 mM
+sodium acetate by applying a gradient of 1 M NaCl (pH 5.0) from to 100% over 20 column volumes. Protein detection took placeat 220 nm.Modification of Carboxylates by WRK. The available numberof carboxylates on the protein was determined by a modifiedmethod, as originally described by Sinha and Brewer.7Modification Reaction. Proteins were dissolved in 4.5 mL 50mM MES buffer at pH 5.0 containing 1% SDS to a final concentrationof 1 mM carboxylates. After addition of 0.5 mL of WRK froma 200 mM stock solution in 0.01 N HCl, the mixture was incubatedfor 15 min at 22 °C, while the pH was maintained at 5.0 ( 0.1with 0.2 M NaOH using a pH-stat setup.Removal of Unreacted WRK. The reacted protein was isolatedfrom unbound WRK by applying the sample to a Sephadex PD-10 gel filtration column that was equilibrated with 50 mM MES(pH 5.0). A 2.5-mL sample was applied to the column, andsubsequently, 3.5 mL of elution buffer (50 mM MES, pH 5.0) wasput on top, as described by the manufacturer. The absorbance ofthe first fraction of 1.5 mL that was eluted from the PD-10 columnwas determined at 269 nm. The absorbance value was divided bythe molar extinction coefficient from the calibration curve tocalculate the molar concentration of carboxylates.Calculation of the Number of Free Carboxylates per Molecule ofProtein. First, the protein concentration in the reaction mix priorto the PD-10 column was determined by the Biuret assay. TheBradford assay and the measurement of the absorbance at 280nm to determine the protein concentration were not applicablebecause of the presence of SDS and interfering absorbency at269 nm from the WRK-carboxylate adduct, respectively. Theprotein concentration was multiplied by the dilution factor (1.9 (1.2%) of the PD-10 column to calculate the final protein concentrationafter the PD10 column. Molar weights of 42 750 (ovalbumin),18 300 (â-lactoglobulin), 14 313 (lysozyme), 67 000 (BSA) 12 386(cytochrome C), 23 583 (â-casein), 18 974 (-casein), 23 475(trypsin), and 14 186 Da (R-lactalbumin) were used to analyzethe data.In this way, the number of free carboxylates was calculatedby dividing the molar concentration of free carboxylates by themolar concentration of the protein. All protein samples wereanalyzed repeatedly, and the quantification appeared to vary within5%.

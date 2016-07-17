@@ -1,0 +1,61 @@
+EXPERIMENTAL
+Materials
+The roots of Glycyrrhiza glabra, collected in Afghanistan, were
+provided by Frutarom US (North Bergen, NJ, USA).
+Glabridin and glycyrrhizinic acid were purchased from
+Wako Chemicals GmbH (Neuss, Germany). UHPLC/MS
+grade acetonitrile (ACN) was purchased from Biosolve BV
+(Valkenswaard, The Netherlands). Water was prepared
+using a Milli-Q water purification system (Millipore, Billerica,
+MA, USA). All other chemicals were purchased from
+Merck (Darmstadt, Germany).
+Sample preparation
+The roots were milled with a model ZM 200 Retsch Ultra
+centrifugal mill (Haan, Germany) to yield a root powder with
+a particle size of 1mm. The root powder (0.01 g powdered
+root/mLsolvent) was extracted with either 70% (v/v) aq.
+ethanol (EtOH), EtOH or ethyl acetate (EA). The compounds
+were extracted by a two-step sequential extraction with each
+solvent for 30 min in a sonication bath at 308C. The extracts
+were centrifuged at 2500 g for 15 min. The dried extracts were
+obtained after evaporation (EtOH and EA) or after
+subsequent lyophilisation (70% (v/v) aq. EtOH). The extracts were resolubilised in methanol (MeOH) and stored at 208C.
+All samples were thawed and centrifuged before analysis.
+RP-UHPLC analysis
+Samples were analysed on a Thermo Accela UHPLC system
+(San Jose, CA, USA) equiped with pump, autosampler and
+photo-diode array (PDA) detector. Samples (1 mL) were
+injected on a Waters Acquity UPLC BEH C18 column
+(2.1150 mm, 1.7mm particle size) with a Waters Acquity
+UPLC BEH C18 Vanguard pre-column (2.15 mm, 1.7mm
+particle size; Waters, Milford, MA, USA). Water acidified
+with 0.1% (v/v) acetic acid (eluent A) and acetonitrile (ACN)
+acidified with 0.1% (v/v) acetic acid (eluent B) were used as
+eluents. The flow rate was 300mL/min, and the PDA detector
+was set to measure in the range of 205–400 nm. The following
+elution profile was used: 0–18 min, linear gradient from 10%–
+100% (v/v) B; 18–22 min, isocratic on 100% B; 22–23 min,
+linear gradient from 100%–10% B; 23–25 min, isocratic on
+10% B.
+Electrospray ionisation mass spectrometry
+(ESI-MS)
+Mass spectrometric data were obtained by analysing samples
+on a Thermo Scientific LTQ-XL (San Jose, CA, USA)
+equipped with an ESI probe coupled to the reversed-phase
+(RP)-UHPLC system. Of the flow from the RP-UHPLC
+system, 150 mL/min was directed to the mass spectrometer.
+Helium was used as sheath gas and nitrogen as auxiliary gas.
+Data were collected over an m/z-range of 150–1500. Datadependent
+MSn analysis was performed with a normalised
+collision energy of 35%. The MS3 fragmentation was always
+performed on the most intense product ion in the MS2 spectrum. Most settings were optimised using ‘tune plus’
+(Xcalibur 2.07, Thermo Scientific) via automatic tuning.
+The system was tuned with glabridin in both PI and NI
+mode. In the NI mode, the ion transfer tube temperature was
+3508C and the source voltage 4.5 kV. In the PI mode, the ion
+transfer tube temperature was 3508C and the source voltage
+5.0 kV. Data acquisition and reprocessing were performed
+with Xcalibur 2.07 (Thermo Scientific).
+Mass spectral data interpretation and peak determination
+were performed with Mass Frontier 4.0 (Highchem, Bratislava,
+Slovakia).

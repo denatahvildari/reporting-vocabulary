@@ -1,0 +1,98 @@
+ 2. Materials and methods
+2.1. Bacterial strains, construction of negative mutants,
+media and growth conditions
+The strains used in this study are listed in Table 1.
+They were grown either in M17 medium (Terzaghi &
+Sandine, 1975) supplemented with 0.5% (wt vol1)
+lactose or in buffered (75mm b-glycerophosphate) milk
+reconstituted with NILAC milkpowder (NIZO, Ede,
+Netherlands) at 10% (wt vol1) in distilled sterilised
+water. When necessary, 5 mgmL1 erythromycin was
+added.
+All the constructions were made in the L. lactis subsp.
+cremoris strain TIL46 derived from NCDO763 and have
+already been described. The araT mutant (TIL313) was
+constructed by disruption of the araT gene by a single
+homologous recombination with the integrative vector
+pTag containing a 1-kb fragment of araT (Rijnen et al.,
+1999a). The bcaT mutant (TIL357) was constructed by
+double homologous recombination using pGhost9 containing
+an internal fragment of bcaT (Chambellon &
+Yvon, 2003). The double araT and bcaT mutant
+(TIL358) was constructed from the bcaT mutant in
+which the araT gene was disrupted as described above
+(Chambellon & Yvon, 2003).
+2.2. Cheese model trials
+Amino acid catabolism and formation of volatile
+compounds were studied under cheese ripening conditions
+using the Ch-easy model (Smit, Braber, van
+Spronsen, van den Berg, & Exterkate, 1995). For amino
+acid catabolism and free amino acid analysis, the trials  were performed in small sterile tubes containing
+27 0.05 g of cheese paste as described by Rijnen,
+Courtin, Gripon, and Yvon (2000) . For volatile
+compound analysis, the trials were performed using
+200 g of cheese paste.
+For each strain, resting cells, grown in milkand
+washed as described by Rijnen et al. (2000) , were added
+aseptically to the cheese paste at a concentration of
+5 109  cells g1 . Control cheeses contained water
+instead of cell suspension. An a -KG solution (15 mg g1
+ paste) was added to one-half of the trials carried out
+with each strain. To monitor amino acid catabolism,
+radiolabelled valine (Val), leucine (Leu), methionine
+(Met) and phenylalanine (Phe) (10 m Ci g1  in 50 m l) were
+added into different tubes of cheese paste as previously
+described (Rijnen et al., 2000 ). The paste mixture was
+homogenised before incubation at 13 C, and all
+analyses were performed at zero time and after 4 weeks
+incubation. All cheese model experiments were carried
+out in duplicate using cells harvested from separate
+cultures except the experiments for volatile compounds
+analysis, which was carried out only once. Volatile
+compounds were analysed in duplicate from one cheese
+sample.
+2.3. Microbiological analysis
+ Microbiological analysis was performed before incubation
+and after 4 weeks incubation. For this purpose,
+2.5mL of Ringer was added to 2 g of Ch-easy and the
+mixture was homogenised with an ultraturrax disperser
+at 11,000 rpm for 45 s. The mixture was then adjusted to
+20mL and cell enumeration was done on M17 medium
+containing 5 m gmL1  erythromycin when necessary.
+2.4. Analysis of cheese model for radiolabelled
+metabolites, free amino acid content, a-KG and volatile
+compounds
+ Radiolabelled metabolites were extracted and analysed
+as previously described (Yvon et al., 1998 ). a -KG
+and free amino acid contents were determined as
+previously described with minor modifications (Yvon
+et al., 1998 ). Volatile compounds were identified using
+purge-and-trap thermal desorption cold-trap (TDCT)
+gas chromatography mass spectrometry (GC-MS).
+Cheese paste was mixed with double distilled water
+(1:3 wt:vol) and homogenised and subsequently 20mL
+of this mixture was purged with 150mLmin1  helium
+gas for 30 min at room temperature. The volatile
+compounds were trapped on an absorbent trap containing
+carbotrap (80 mg, 20–40 mesh, Supelco, Belle Fonte,
+PA, USA) and carbosieve SIII (10 mg, 60–80 mesh,
+Supelco). The trapped compounds were transferred onto
+a capillary column of a gas chromatograph using a
+ChrompackPTI injector (Chrompack, Middelburg, The
+Netherlands) in the TCDT mode, by heating the trap for
+10 min at 250 C. A narrow injection band was achieved
+by cryofocusing at  100 C. The conditions for the
+chromatographic separation and mass spectrometry
+were as described previously (Engels, 1997 ). Structures
+were assigned by spectrum interpretation, comparison
+of the spectra with bibliographic data and comparison
+with retention times of reference compounds.
+Quantification of components was performed using a
+gas chromatograph equipped with a flame ionisation
+detector (GC-FID) (FID 40, Carlo Erba, Milan, Italy)
+as described by Ayad, Verheul, Wouters, and Smit
+(2000) . Sulphur compounds were analysed in duplicate
+by head space GC analysis using an FPD detector
+(Carbo Erba, Milan, Italy) as described by de Jong,
+Neeter, Boelrijk, and Smit (2000) . For quantification the
+average peakareas and the deviations were determined.

@@ -1,0 +1,124 @@
+Materials and methods
+Isolation of polysaccharide-producing bacteria
+Slime samples were collected from submerged and
+unsubmerged wet end surfaces of two Finnish ( Fin B) and one Spanish (Spa) paper mill. Ten grams of
+the slime sample was homogenised with 90 ml of sterile
+0.9% NaCl solution. Spread plate cultures were made of
+the dilutions 102 –106  on agar plates containing: glucose
+(20 g/l), yeast extract (0.5 g/l), (NH4 )2 SO4  (0.6 g/l),
+KH2 PO4  (3.18 g/l), K2 HPO4  (5.2 g/l), MgSO4· 7H2 O
+(0.3 g/l), CaCl2  (0.05 g/l), ZnSO4· 7H2 O (0.2 mg/l),
+CuSO4· 5H2 O (0.2 mg/l), MnSO4· H2 O (0.2 mg/l),
+CoCl2  (0.2 mg/l), FeSO4· 7H2 O (0.6 mg/l) agar (20 g/l).
+The plates were incubated inverted at 30 C and at 50 C.
+Slimy colonies were picked from the plates and twice
+purified on same agar medium.
+Identification of isolates
+The isolates were ribotyped using the standard method
+of the automated RiboPrinter  System (DuPont
+Qualicon, Wilmington, DE, USA) and Eco RI restriction
+enzyme as described by Bruce [3 ]. The similarity
+of the generated patterns was compared with the
+identification patterns existing in the RiboPrint databases
+of Oualicon (Release12.2 c 2000) and VTT
+Biotechnology [33 ]. In order to form a dendrogram
+the generated ribogroups were transferred to the Bio-
+Numerics programme (Applied Maths, Sint-Martens-
+Latem, Belgium), where clustering was carried out
+using Pearson correlation and a Ward dendrogram
+type. In addition, the patterns of 13 relevant type
+strains (T) and of Serratia fonticola  E-991258 were
+included from the database of VTT as references. The
+isolates were also subjected to partial 16S rDNA
+sequencing (around 450 nucleotides between 1 and
+600 bp of the 16S rRNA gene according to Escherichia
+coli  numbering) as described by Suihko and Stackebrandt
+[39 ] or Saarela et al. [35 ]. Finally, the sequences
+were compared to the GenBank sequences using the
+BLAST search [1 ]. In addition, the 16S rDNA of some
+strains was analysed by using the ARB program
+package [38 ]. The alignment was based on secondary
+structure, and performed using the automatic aligner
+function (Version 2.0) of the ARB aligner (ARB_EDIT4)
+including manual evaluation. The physiological
+properties were performed using API identification
+strips ID 32 GN and ID 32 E according to the manufacturer’s
+instructions (BiomeÅLrieux SA, Marcy-lÅLEtoile,
+France).
+Production of polysaccharides
+The isolates were cultivated for 5 days at 30 C in shake
+flasks in liquid medium with the same composition as
+the agar medium used for isolation containing
+(NH4 )2 SO4  (0.6 g/l) (medium I), Bacto tryptone (Difco)
+(5 g/l) (medium II) or Bacto tryptone (Difco) (1 g/l)
+(medium III) as nitrogen source. Culture filtrate viscosities
+were measured using a Brookfield DV II viscometer
+at 20 C.
+Isolation of polysaccharides
+A 0.9% NaCl was added to the culture medium, the
+medium was lightly homogenised for 30–45 s and centrifuged
+at +4 C, 14,700·g  for 45 min to separate the
+cells. Three volumes of ice-cold 100% ethanol was added
+to the supernatant. If the precipitate did not form at
+once, the solution was let to precipitate at 4 C overnight.
+The precipitate was either collected with a spoon and a
+strainer or it was centrifuged at +4 C, 4,000·g  for
+15 min. The precipitate was solubilised in a small volume
+of distilled water, dialysed using Medicell Visking
+(MWCO 12-14000 dalton) dialysis tube and freeze dried.
+Analysis
+Protein
+ Protein contents of the freeze-dried polysaccharides were
+estimated by Lowry method [23 ].
+Sugar composition
+ The EPS sugar composition was determined using
+methanolysis as described by De Ruiter et al. [9 ]. The
+EPS was treated with 2N HCl in dry methanol for 16 h
+at 80 C, followed by 1 h of 2N CF3 CO2 H (TFA) at
+121 C. The released sugars were analysed using High
+Performance Anion Exchange Chromatography
+(HPAEC) with Pulsed Amperometric Detection (PAD)
+as described by Verhoef et al. [43 ].  MALDI-TOF MS
+For Matrix-Assisted Laser Desorption/Ionisation Time-
+Of-Flight +Mass Spectrometry (MALDI-TOF MS) a
+Ultraflex workstation (Bruker Daltronics GmbH, Germany)
+was used. The mass spectrometer was calibrated
+with a mixture of malto-dextrins (mass range 365–
+2,309). The samples were mixed with a matrix solution
+(1 ll of sample in 9 ll of matrix). The matrix solution
+was prepared by dissolving 9 mg of 2,5-dihydroxybenzoic
+acid in a 1 ml mixture of acetonitrile : water
+(300 ll:700 ll). The prepared sample and matrix solutions
+2 ll were put on a gold plate and dried with warm
+air.
+ Sugar linkage analyses
+The EPS sample was methylated according to Hakomori
+[17] and subsequently dialysed against water and evaporated
+in a stream of dry air. The methylated samples
+were hydrolysed using 2 M TFA (2 h, 121C). After
+evaporation in a stream of air ( T<20C), the partially
+methylated sample was converted to alditol acetates
+and analysed by GC-FID [11]. Identification  compound was performed using GC-MS as described by
+van Casteren et al. [42 ].
+Determination of the pyruvate and O-acetyl content
+ The amount of pyruvate was determined according to
+Troyano et al. [41 ]. The EPSs (1 mg) were dissolved in
+1 ml of 1 N TFA and hydrolysed for 6 h at 120 C. The
+hydrolysate was centrifuged and analysed at 40 C using
+a Thermo Quest HPLC system equipped with both a
+Shodex RI71 refractive index detector and a Thermo
+Separation Products Spectra System UV2000 UV
+detector at 220 nm. HPLC separation was performed
+using a Bio-Rad Aminex HPX-87H column using
+0.01 N H2 SO4  (0.6 ml/min) as a mobile phase. The
+amount of pyruvate is calculated using a calibration
+curve of 0.2–2 mM sodium pyruvate. The acetyl content
+was determined after saponification with 0.4 M NaOH
+in 50%(v/v) isopropanol/water according to Voragen
+et al. [45 ] using the same chromatographic system.
+Partial hydrolysis
+ The EPS (3–4 mg) was dissolved in 1 ml 0.05 N TFA
+and subjected to partial hydrolysis for 1 h at 100 C.
+After hydrolysis the samples were cooled, dried in a
+stream of dry air and redissolved in water before
+MALDI-TOF MS analysis.

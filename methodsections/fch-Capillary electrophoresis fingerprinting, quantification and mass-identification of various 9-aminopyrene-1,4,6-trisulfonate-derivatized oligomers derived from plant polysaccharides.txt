@@ -1,0 +1,111 @@
+ 2. Experimental
+2.1. Materials
+Various standard mono and oligosaccharides were used:
+d-Glucose (Boom); d-xylose (Merck); d-galactose (Aldrich);
+l-rhamnose (Janssen-Chimica); d-arabinose (Sigma–Aldrich);
+d-mannose (Merck); d-glucuronic acid (Fluka); l-fucose
+(Merck).
+Maltodextrins (-1,4-gluco-oligomers) having a degree of
+polymerization (DP) of 1–25 (Beckman Coulter); cellulodextrins
+(-1,4-gluco-oligomers) DP 1–8 (gift of the Institute
+of Chemistry Slovak Academy of Sciences); -1,4-mannooligomers
+DP 1–6 (MegaZyme); -1,5-arabino-oligomers DP
+1–8 (MegaZyme); -1,4-xylo-oligomers DP 1–6 (Megazyme).
+Furthermore, acetylated -(1,4)-xylo-oligosaccharides
+(AcXOS) were purified from hydrothermally treated Eucalyptus
+wood as described previously [35,36]. The AcXOS-mixture
+(163 mg in 2 mL) was fractionated further [36] by using
+a Pharmacia system equipped with a BioGel P-2 column
+(900mm°ø26 mm; 200–400 mesh, Bio-Rad Laboratories)
+thermostated at 60 ◦C. Elution was performed at 0.5 mL/min
+with water (60 ◦C) and fractions were collected every 2 mL.
+The eluent was detected by a Shodex RI-72 detector. Two of
+these fractions, named X4Ac (about 1 mg/mL) and X3Ac (about
+1 mg/mL), were fractionated further by using reversed phase
+HPLC and analysed by CE-LIF.
+Linear unsubstituted -(1,4)-xylo-oligosaccharides (XOS)
+were prepared by alkali removal (50mMNaOH) of the O-acetyl
+substituents from acetylated -(1,4)-xylo-oligosaccharides.
+2.2. CE-LIF
+For capillary electrophoresis–laser induced fluorescence
+mono- and oligosaccharides were derivatized with 9-
+aminopyrene-1,4,6-trisulfonate (APTS) using the ProteomeLab
+Protein Characterisation kit (Beckman Coulter). Hereto, samples
+of 0 to 50 nmol of monosaccharide or of about 0.1 mg of
+carbohydrate were dried under liquid nitrogen (SpeedVac). To
+the dried saccharides, 2L of 0.2MAPTS diluted in 15% acetic
+acid (Beckman Coulter) and 2 L of 1M sodiumcyanoborohydride/
+THF (Sigma–Aldrich) were added. This blend was mixed
+thoroughly and incubated for 90 min in a 60 ◦C water bath.
+Before drying and labeling to each sample 5 nmol of maltose
+was added as internal quantification standard. Also, maltose was
+used as mobility marker. The derivatized sample was diluted
+5–50 times with pure water prior to CE-LIF or not at all prior to
+CE-ESI-MSn.
+The derivatized oligosaccharides were separated on a
+polyvinyl alcohol (N CHO) coated capillary (50.2 cm°ø50m
+I.D., detector after 40 cm, Beckman Coulter, Fullerton, USA)
+using a ProteomeLab PA 800 characterisation system (Beckman
+Coulter) and a laser induced fluorescence detector (LIF) at
+an excitation of 488 nm and an emission of 520 nm (Beckman
+Coulter). Samples (20–200L.) were subjected to CE analysis
+and aliquots (ca. 4.5 nL) were loaded hydrodynamically (4 s at
+0.5 Psi). The separation was carried out in the reversed polarity
+mode at 30 kV in a 25mM acetate buffer containing 0.4%
+polyethylene oxide at pH 4.75. The capillary was kept at 25 ◦C.
+2.3. CE-UV-ESI-MSn
+For identification of APTS-derivatized oligomers, separation
+was carried out on a P/ACE MDQ capillary electrophoresis
+system (Beckman Coulter) with a fused silica capillary
+(80 cm°ø50m I.D.) connected to a UV-detector (after 20 cm)
+and an ESI-MSn detector (LTQ Ion-trap, Thermo Electron) by
+inserting the capillary in a sheat-liquid coupled needle, made in
+our laboratory [37]. Samples (4 L) were subjected to CE-MS
+analysis and aliquots (ca. 22 nL) were loaded hydrodynamically
+(10 s at 1 Psi). The separation was carried out in reversed polarity
+at 28 kV in a 50mM ammonium acetate solution containing
+0.5% formic acid at pH 2.4. The capillary inside the cartridge
+was kept at 15 ◦C, to reduce an increase in temperature caused by
+current as much as possible, and outside the cartridge at room
+temperature (air-conditioned at 20 ◦C). For ESI-MSn a sheat
+flow of 3–4 L/min of 75% isopropanol in water was used. ESIMSn
+was operated in the negative mode using a spray voltage
+of 1.9 kV and a capillary temperature of 190 ◦C and auto-tuned on  APTS-derivatized glucohexaose (Sigma). MS2  and higher
+was performed using a window of 1m /z  and a relative collision
+energy of 30%.
+2.4. Reversed phase HPLC (offline) and CE
+ Reversed phase HPLC was performed on a HPLC system
+(Thermo Separation Products) equipped with a Thermohypersil
+Aquasil C18 column ((Keystone Scientific); 150mm°ø 4.6mm
+I.D.; 3 m) in combination with a Thermohypersil Aquasil
+C18 guard column (10mm°ø 4.6mm I.D.; 3 m). The RPcolumn
+was coupled to a splitter (Dionex) directing 10% of
+the eluent to an evaporative light scattering detector (ELSD
+2000; Alltech) and the remaining part to a fraction collector
+(0.4 min/fraction). Elution (0.8 mL/min) was performed using
+a gradient of degassed (Membrane degasser; Thermo Separation
+Products) methanol in pure water: 0–28% (v/v) methanol
+in 0–70 min. Each elution was followed by an equilibration step
+(isocratic pure water; 30 min).
+These fractions were analyzed on matrix-assisted laser desorption/
+ionisation time-of-flight mass spectrometry (MALDITOF-
+MS) and depending on the peak height 50–200  L per
+RP-HPLC-fraction was used for APTS-derivatization and analysis
+on CE.
+2.5. MALDI-TOF-MS
+ MALDI-TOF-MS was performed using an Ultraflex instrument
+(Bruker Daltonics) equipped with a nitrogen laser of 337-
+nm and operated in the positive mode. After a delayed extraction
+time of 200 ns, the ions were accelerated to a kinetic energy
+of 12 kV. Hereafter, the ions were detected using the reflector
+mode. The lowest laser power required to obtain good spectra
+was used and at least 100 spectra were collected. The mass spectrometer
+was calibrated with a mixture of maltodextrins (mass
+range 365–2309).
+The samples were mixed with a matrix solution (1 L of
+sample in 1  L of matrix). The matrix solution was prepared by
+dissolving 9mg of 2,5-dihydroxybenzoic acid (Bruker Daltonics)
+in a 1-mL mixture of acetonitrile:water (300  L:700 L).
+Of the prepared (sample + matrix) solutions 1  L was put on a
+MALDI-TOF-plate (Bruker Daltonics) and allowed to dry under
+a constant stream of air.

@@ -1,0 +1,135 @@
+Materials and methods
+Sample materials
+Three different nylon 12 films were used. Two were
+commercial sausage casings, the third material used
+in this study originated from an EU project for the
+development of a reference material for specific
+migration testing (StoÅN rmer 2002).
+. Film A: nylon 12 monofilm, sausage casing, 39 mm
+thickness.
+. Film B: bilayer sausage casing, 29 mm nylon 12,
+19 mm nylon 6, 40 mm thickness.
+. Film C: PA12 monofilm, certified reference material
+candidate, 196 mm thickness.
+Reagents
+All reagents and solvents were of analytical quality
+unless specified otherwise: water and methanol
+were HPLC grade from Fluka, Bucks, Switzerland.
+Olive oil was from Minerva, Voghera, Italy. The
+azeotropic mixture of ethyl acetate and cyclohexane
+was glass distilled in our laboratories. Nylon 12 dimer
+and trimer standards were produced in-house. Details
+are described by Stoffers (2003). Apparatus
+LC/MS. A Thermo Finnigan LCQ Deca (ion trap)
+applying atmospheric pressure chemical ionization
+(APCI, Vaporizer Temperature: 450C, Corona
+current: 5.0 mA, heated capillary: 225C) was used.
+Detection in full scan mode (m/z.100–1000), the
+following mass traces were used for quantification:
+laurolactam m/z.198.2, dimer m/z.395.4, trimer:
+m/z.592.6. A Hypersil ODS5 with 1254mm i.d.
+and 5 mm particle size was used; 0.8 ml min1 total
+flow of the mobile phase, injection volume 15 ml.
+Quantification by external standards. Isooctane
+samples (0.25 ml) and standards were evaporated
+using a stream of nitrogen and redissolved in
+0.25 ml methanol before injection. Other samples
+and standards were directly injected. Gradient: from
+30% A (methanol) 70% B (water) for 3 min, to 90%
+A in 6 min, held for 6 min, returning in 1 min to 30%
+A for 10 min. Retention times were: laurolactam: 8.1,
+dimer: 8.9, trimer: 9.9.
+Size exclusion chromatography (SEC). Pump:
+Gynkotek N480, mobile phase: azeotropic mixture
+of ethyl acetate and cyclohexane (56:44, w/w), flow:
+3ml min1, column: Pharmacia XK26/40, 26mm i.d.,
+bed height 370 mm, filled with Bio-Beads SX-3
+swollen in the eluent described above, refraction index
+detector: Gynkotek RI SE-51, autosampler: Gilson
+Abimed 231XL equipped with a syringe pump 402,
+fraction collector: Gilson Abimed 201.
+Olive oil sample clean-up. A 0.5 g oil aliquot
+was filled up to a total weight of 5 g using the GPC
+mobile phase mentioned above. A total of 4ml of this
+solution was injected into the SEC. The fraction
+containing the oil was determined by injection of
+a blank (10% w/w olive oil in eluent), the fraction
+containing laurolactam was determined by injection
+of a 10 000 mgml1 laurolactam standard in eluent.
+The olive oil peak eluted roughly at between 23
+and 34 min. The following fraction was completely
+collected and analysed as follows: the collected
+fraction (approximately 75 ml) was evaporated at
+60C and 350 mbar in a rotary evaporator to
+about 1 ml, quantitatively transferred into a 10-ml
+volumetric flask and dried down using a stream
+of nitrogen. The residue was redissolved in 10 ml
+methanol and a 15-ml aliquot was injected into
+the LC/MS system. For calibration, oil standards
+spiked with 0, 1, 5, 10, 25 and 50 mgg1 laurolactam,
+respectively, were cleaned-up along with the test
+samples. Oligomer concentrations were determined
+using response factors determined by injections of
+laurolactam, dimer and trimer standards.
+Determination of the initial concentration (CP,0)
+of laurolactam and oligomers in the polymer
+Film samples (1 g) cut into 0.5-cm squares were
+weighed accurately into 50-ml Erlenmeyer flasks
+(three replicates per film). A total of 25 ml 95%
+ethanol was added. The flasks were closed and
+stored at 60C for 24 h. 1ml aliquots were transferred
+to autosampler vials for analysis. The remaining
+solvent was discarded, the film pieces briefly rinsed
+with 95% ethanol, the solvent discarded and the film
+pieces dried. Then, another 25 ml solvent were filled
+into the flasks. A total of 1ml aliquots from the
+second extraction were transferred to autosampler
+vials for analysis. The samples were analysed by LC
+along with external standards. The first extraction
+was considered complete if <5% was found in the
+second extraction cycle.
+Migration experiments Migration experiments
+Migration into olive oil, isooctane, 95% ethanol, 50%
+ethanol and water. Migration tests were carried out
+according to European Standard EN1186 (CEN
+1998). The following test conditions were used: olive
+oil 2 h/100C; isooctane 1.5 h/60C; 95% ethanol
+3.5 h/60C; 50% ethanol 2 h/reflux 90C and water
+2 h/reflux 100C.
+Overall and specific migrations were determined
+by full immersion testing. A total of 1 dm2 film was
+folded fan-like so that it could be easily placed into
+a cylinder and full contact was ensured. The
+contact area was 2 dm2 (1dm2 on both sides), and
+the volume used was 100 ml. Before the incubation
+period, cylinders and solvents were preheated to the
+respective testing temperatures. Film B consisted of
+a PA6 side and a PA12 side, therefore only 1 dm2
+was considered as contact area. Upon exposure,
+1ml aliquots were filled into autosampler vials to
+determine specific migration (isooctane samples
+after a change of solvents as described above).
+952 N. H. Stoffers et al.
+Downloaded by The remaining volume was used to determine
+overall migration by evaporation of the solvent in a
+stainless steel beaker and subsequent gravimetric
+determination of the residue (CEN 1998).
+Cylinders as described above were also used for
+diffusion kinetics experiments. A total of 250-ml
+samples of isooctane or 0.5-g samples of olive oil
+were taken using a pipette after 1, 2, 4, 8, 24 and 48 h
+of incubation. Solvent samples were filled into
+autosampler vials and stored at 4C until analysis.
+Olive oil samples were diluted 10 times with an
+azeotropic mixture of ethyl acetate and cyclohexane
+and stored at 4C until analysis.
+Kinetic migration modelling
+Experimental data were used to estimate the diffusion
+coefficient DP, the partitioning coefficient KPF and
+the diffusion conductance AP. Numerical integration
+of Fick’s second law was applied using the software
+Athena Visual Workbench (http://www.athenavisual.
+com). The initial and boundary conditions were used
+as stated above. The parameters of the model were
+estimated using non-linear regression. Parameter output
+is given with 95% confidence intervals.

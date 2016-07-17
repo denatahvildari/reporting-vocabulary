@@ -1,0 +1,197 @@
+3. Experimental
+3.1. Materials
+pNP, pNPX, pNPA, D-arabinose, L-arabinose, D-lyxose, L-lyxose,
+L-fucose, L-rhamnose, D-galactose, D-mannose, D-talose, D-fructose,
+xylitol, sorbitol, maltose, sucrose, lactose, cellobiose, turanose,
+lactulose, isomaltose, trehalose, palatinose, melibiose, sophorose
+and gentibiose were purchased from Sigma Aldrich (St. Louis,
+MO). D-Xylose was from Carl Roth (Karlsruhe, Germany). D-Glucose
+was from Merck (Darmstadt, Germany). Xylobiose, xylotriose,
+xylotetraose, xylopentaose and xylohexaose were purchased from
+Megazyme (Wicklow, Ireland).  3.2. Cloning of bxlA and bxlB encoding GH3 b-xylosidases
+P. pastoris X-33 (FGSC database accession no. 10077 and
+10125; www.fgsc.net) harbouring A. nidulans FGSC A4 full-length
+bxlA (GenBank ID: EAA64470.1) and bxlB (GenBank ID:
+EAA67023.1)30 were purchased from Fungal Genetics Stock Center,
+School of Biological Sciences, University of Missouri, (Kansas
+City, MO). The two genes were recloned to encode mature polypeptides
+lacking Met1–Ser18 (BxlA) and Met1–Ser23 (BxlB)
+(http://www.cbs.dtu.dk/services/SignalP/).41 Expand High Fidelity
+DNA polymerase (Roche Diagnostics GmbH, Mannheim, Germany)
+was used for DNA amplification with oligonucleotide primers
+(Supplementary Table S1) based on the genomic sequence.42 A silent
+mutation (1374T?C) in the bxlB EcoRI site was introduced by
+overlap PCR43 using appropriate primers (Supplementary Table
+S2). PCR products were digested for bxlA by XhoI and XbaI and
+for bxlB by EcoRI and NotI (New England BioLabs, Ipswich, MA)
+and cloned in frame with the a-mating factor secretion signal
+in pPICZaA (Invitrogen, Carlsbad, CA). The plasmids were transformed
+into Escherichia coli DH5a (Invitrogen) and selected on
+low salt Luria Bertani medium supplemented with 25 lg/mL Zeocin.
+Fully sequenced plasmids (Eurofins MWG Operon, Ebersberg,
+Germany) were linearised by PmeI (New England BioLabs), transformed
+into P. pastoris X-33 (Invitrogen) by electroporation
+(Micropulser; Bio-Rad Laboratories Inc, Hercules, CA) and selected
+at 30 C for 3 days on yeast peptone dextrose plates (1% yeast extract,
+2% peptone, 2% dextrose) containing 1 M sorbitol and
+100 lg/mL Zeocin. 3.3. Production and purification of BxlA and BxlB
+P. pastoris transformants were grown in 3 L (BxlA) or 4 L (BxlB)
+buffered glycerol-complex medium (1% yeast extract, 2% peptone,
+100 mM potassium phosphate pH 6.0, 1.34% yeast nitrogen base
+with ammonium sulfate, 4  105% biotin, and 1% glycerol) at
+30 C for 24 h to OD600 of 25 (BxlA) and 52 (BxlB). Cells were harvested
+(3000g, 5 min, 4 C) and resuspended for induction in 1 L
+buffered minimal methanol medium (BxlA; 100 mM potassium
+phosphate pH 6.0, 1.34% yeast nitrogen base with ammonium sulfate,
+4  105% biotin, 1% methanol, 1% casamino acid) or in 1 L of
+buffered methanol-complex medium (BxlB; 0.5% methanol, 1%
+yeast extract, 2% peptone, 100 mM potassium phosphate pH 6.0,
+1.34% yeast nitrogen base with ammonium sulfate, 4  105% biotin)
+at 22 C for 72 (BxlA) and 120 h (BxlB). Methanol was supplemented
+every 24 h to a final concentration (v/v) of 1% (BxlA) and
+0.5% (BxlB), until harvest (13,500g, 4 C, 1 h).
+The BxlA culture supernatant was concentrated with buffer
+exchange to 10 mM MES pH 6.0 (Pellicon tangential flow filtration
+systems, nominal molecular weight limit (NMWL) 10 kDa;
+Millipore, Billerica, MA) and applied to a 6 mL Resource Q column
+(GE Healthcare, Uppsala, Sweden) equilibrated in the same buffer.
+After wash with 37.5 mM NaCl in the same buffer, protein was
+eluted by a linear 37.5–325 mM NaCl gradient (flow rate: 2 mL/
+min). Fractions containing BxlA were pooled, concentrated
+(Amicon Ultra-15, NMWL 30 kDa, Millipore) and applied to a
+Hiload 26/60 Superdex 200 column (GE Healthcare) equilibrated
+with 20 mM MES, 0.25 M NaCl pH 6.0 (flow rate: 1 mL/min). BxlA-containing fractions were pooled, concentrated and buffer exchanged
+to 10 mM MES pH 6.0. The BxlB culture supernatant was
+adjusted to pH 7.5 by 1 M K2HPO4, filtered (0.22 lm; TPP, Trasadingen,
+Switzerland) and applied to 5 mL HisTrap HP column (GE
+Healthcare) equilibrated with 20 mM HEPES, 0.5 M NaCl, 10 mM
+imidazole pH 7.5. Following wash with the above buffer containing
+22 mM imidazole, BxlB was eluted by a linear 22–400 mM imidazole
+gradient (flow rate: 1.0 mL/min). BxlB-containing fractions
+were pooled, concentrated (Centriprep YM30, Millipore) and applied
+to a Hiload 26/60 Superdex 200 column (GE Healthcare)
+equilibrated with 20 mM MES, 0.15 M NaCl pH 6.8 (flow rate:
+0.5 mL/min). Fractions containing BxlB were pooled, concentrated
+and buffer exchanged to 20 mM HEPES pH 7.0. All purification
+steps were performed using an ÄKTAexplorer chromatograph (GE
+Healthcare) at 4 C.
+3.4. Properties of BxlA and BxlB
+Protein concentration was determined spectrophotometrically
+at 280 nm using E0.1% = 1.79 and 0.97 for BxlA and BxlB, respectively,
+determined by aid of amino acid analysis. Molecular masses
+were estimated by SDS–PAGE (NuPAGE Novex Bis-Tris gels; Invitrogen)
+and gel filtration (precalibrated Hiload 16/60 Superdex 200
+column; flow rate: 1 mL/min; Gel Filtration Calibration Kits; GE
+Healthcare). Theoretical molecular masses were calculated using
+ExPASy–ProtParam tool (http://www.expasy.ch/tools/protparam.
+html).44 N-Glycosylation was predicted using NetNGlyc 1.0 Server
+(http://www.cbs.dtu.dk/services/NetNGlyc/).45 Endoglycosidase H
+(New England BioLabs) deglycosylation of BxlA (7 lg) and BxlB
+(5 lg) was performed according to the manufacturer’s protocol.
+Carbohydrate contents were determined on 400 lg enzyme using
+the phenol–sulfuric acid method46 with either glucose or mannose as standard. Isoelectric focusing of 600 ng BxlA and 400 ng BxlB
+was carried out (Pharmacia PhastSystem; GE Healthcare) at pH
+4.0–6.5 (4 cm polyacrylamide PhastGel IEF) using the low range
+pI (pH 2.5–6.5) calibration kit and PlusOne Silver Stain Kit, Protein
+(GE Healthcare).
+3.5. Enzyme activity assays of BxlA and BxlB
+pNPX (2 mM) was hydrolysed at 40 C for 10 min by BxlA
+(20150 nM; 50 mM sodium acetate pH 5.0) or BxlB (25250
+nM; 50 mM sodium acetate pH 5.2) in 50 lL reaction mixtures.
+The reaction was stopped by 1 M Na2CO3 (100 lL) and pNP was
+quantified spectrophotometrically at 410 nm using 0.050.5 mM
+pNP as standard. One unit was defined as the amount of enzyme
+liberating 1 lmol of pNP per min under the assay conditions.
+pH activity optima of BxlA (71 nM) and BxlB (179 nM) were
+determined for the pH range of 2.0–10.0 towards pNPX (2 mM)
+in 40 mM Britton–Robinson buffer.47 Activity was determined in
+the temperature range of 25–80 C using the above BxlA and BxlB
+concentrations in 50 mM sodium acetate pH 5.0 and 5.2, respectively.
+The stability at 40 C in the pH range of 2.0–10.0 (40 mM
+Britton–Robinson buffer) and at 25–80 C was deduced from residual
+activity towards pNPX of 355 nM BxlA and 895 nM BxlB after
+5 h incubation.
+Initial rates of hydrolysis at 8 concentrations of pNPX (0.1–
+8.0 mM), pNPA (0.2–2.0 mM) and b-xylo-oligosaccharides (X2–X6,
+0.4–6.0 mM) were measured using 40 nM (for pNPX), 465 nM
+(for pNPA), 32 nM (for X2X6) BxlA, and at 11 different concentrations
+of pNPX (0.1–8.0 mM), pNPA (0.1–8.0 mM), X2X6
+(1.0–8.0 mM) using 66 nM (for pNPX and X2X6) and 328 nM
+(for pNPA) BxlB. Hydrolysis of X2–X6 was assayed in 50 mM sodium
+acetate pH 5.0 for BxlA and pH 5.2 for BxlB (100 lL reaction mixture) and stopped by addition of 2% p-bromoaniline and 4%
+thiourea in glacial acetic acid (500 lL) and incubated in the dark
+at 70 C for 10 min, followed by 60 min at 37 C and quantified
+from the absorbance at 520 nm using 0.25–5.0 mM xylose as
+standard.48,49 Kinetic parameters, Km and kcat, were determined
+by fitting the Michaelis–Menten equation to initial rates using
+SigmaPlot v. 9.0.1 (Systat Software Inc. San Jose, CA). Due to poor
+affinity (Km >8 mM), kcat/Km of pNPA was obtained from the slope
+of the plot of initial rate (m/[E]) versus substrate concentration.
+3.6. Transxylosylation by BxlA and BxlB
+Transxylosylation with (1) 200 nM BxlA, 30 mM pNPX and
+200 mM acceptor (D-xylose, D-arabinose, D-lyxose, L-fucose,
+L-rhamnose, D-glucose, D-galactose, D-mannose, D-talose, D-fructose,
+xylitol, sorbitol, maltose, sucrose, lactose, cellobiose, turanose,
+or lactulose) in 50 mM sodium acetate pH 5.0 (1 mL) or (2)
+1.7 lM BxlB, 25 mM pNPX and 400 mM acceptor as above except
+for sugar alcohols and including also (L-arabinose, L-lyxose, xylobiose,
+isomaltose, trehalose, palatinose, melibiose, sophorose, or gentibiose)
+in 40 mM sodium acetate pH 5.2 (1 mL) occurred at 40 C
+during 5 h. Aliquots (5 lL for BxlA; 10 lL for BxlB) were removed
+at time intervals and added to 100 mM NaOH (195 lL for BxlA)
+and 500 mM NaOH (90 lL for BxlB). The BxlB samples were diluted
+to a suitable concentration level before analysis. Products were
+quantified based on peak areas in HPAEC-PAD (ICS-3000 IC system;
+Dionex Corporation, Sunnyvale, CA) equipped with CarboPac
+PA200 anion exchange column (3  250 mm and 3  50 mm guard
+column; Dionex) using a linear 0–75 mM sodium acetate gradient
+in 100 mM NaOH (35 min; 25 C; flow rate: 0.35 mL/min) calibrated
+with xylobiose and xylotriose for di- and trisaccharide products,
+respectively. Transxylosylation yields were calculated based
+on the pNPX concentration.
+3.7. Xylosyl-oligosaccharide purification
+For structural analysis of tranxylosylation products reactions in
+50 mM sodium acetate pH 5.0 (1 mL) were performed as described
+in Section 3.6 with (1) BxlA and D-xylose, D-arabinose, D-lyxose,
+L-fucose, D-glucose, D-mannose, D-talose, sucrose, or turanose and
+(2) BxlB and D-xylose, D-glucose, D-galactose, D-mannose, D-talose,
+D-fructose, xylobiose, sucrose, lactose, turanose, or lactulose at
+40 C for optimal reaction times (Fig. 4). Reactions were terminated
+by heat inactivation (95 C, 10 min) followed by centrifugation
+(18,000g, 4 C, 5 min), desalting (Amberlite MB-20; Fluka, Sigma
+Aldrich), and filtration (0.45 lm nylon filter; Frienette Aps, Kenbel,
+Denmark). Oligosaccharides were purified by HPLC (UltiMate 3000
+Standard LC system; Dionex) equipped with a TSKgel Amide-80
+column (5 lm, 4.6  250 mm and 4.6  10 mm guard column;
+TOSOH, Tokyo, Japan) and refractive index detector (RI-101; Showa
+Denko, Kanagawa, Japan) at 1 mL/min (for mobile phase composition
+and column temperature see Supplementary Table S3). The
+purity was assessed by thin layer chromatography (TLC; aluminium-
+coated Silica Gel 60 F254, Merck) developed by acetonitrile/
+water (80:20, v/v), sprayed with orcinol/sulfuric acid/water/ethanol,
+(2:10:10:80, w/v/v/v) or with a-naphthol/sulfuric acid/methanol
+(0.03:15:85, w/v/v) and tarred at 120 C.
+3.8. Nuclear magnetic resonance spectroscopy
+Purified oligosaccharide products (500 lL, 12 mM) were vacuum
+dried (from BxlA; Savant SVC100 SpeedVac Concentrator; Savant
+Instruments, Inc. Farmingdale, NY) or freeze dried (from BxlB;
+CoolSafe 55 C; ScanLaf A/S, Lynge, Denmark) and dissolved in
+deuterium oxide. Structures were determined by 1H and 13C NMR
+analysis. The majority of the spectra was recorded on a Varian
+Unity Inova 500 MHz NMR spectrometer and a few on a Bruker
+Avance 800 MHz spectrometer. A series of 2D homo- and heteronuclear
+correlated DQF-COSY, NOESY, gHSQC, and gHMBC spectra
+were obtained using standard pulse sequences. The proton chemical
+shifts were referenced to the solvent dH 4.78 ppm and the carbon
+shifts were referenced according to C5 of xylose at 66.1 ppm.
+3.9. Electrospray ionization mass spectrometry
+ESI-MS was performed (LTQ XL ion trap MS; Thermo Scientific,
+San Jose, CA) on vacuum dried or lyophilised samples (see Section
+3.8). Samples were dissolved in milliQ water (100 lg/mL) and
+applied to a Thermo Accela UHPLC system equipped with a Hypercarb
+(100  2.1 mm, 3 lm) column (Thermo Scientific). Elution
+was performed with a gradient of deionized water/acetonitrile
+and 0.2% trifluoroacetic acid (0.4 mL/min; 70 C). MS detection
+was performed in the positive mode using a spray voltage of
+4.5 kV and a capillary temperature of 260 C and auto-tuned on
+glucohexaose.50

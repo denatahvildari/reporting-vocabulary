@@ -1,0 +1,190 @@
+ 2. Materials and methods
+2.1. Chemicals
+S-Acetylmercaptosuccinic anhydride (S-AMSA), Orthophthaldialdehyde
+(OPA), 2-Ethyl-5-phenylisoxazolium-3V-sulfonate
+(Woodward’s reagent K) and 2-(N-morpholino)-ethanesulfonic
+acid (MES) buffer were obtained from Sigma-Aldrich.
+N,N-dimethyl-2-mercaptoethyl-ammoniumchloride (DMA)
+and di-sodiumtetraborate decahydrate (Borax) were purchased
+from Merck. Sodiumdodecylsulfate (SDS) was from Serva. All
+chemicals used were of analytical grade.
+2.2. Introduction of sulfhydryl groups into ovalbumin
+Chicken egg ovalbumin was purified (>98%) as described
+previously [37]. Primary amino groups in ovalbumin were
+thiolated essentially as described by Klotz [38]. In this method
+S-acetylmercaptosuccinic anhydride (S-AMSA) is covalently
+linked to lysine residues on the protein surface. The modification
+was performed as follows: 200 mL of a 25 mg/mL
+ovalbumin (0.55 mM) solution in demineralized water was
+adjusted to pH 8.0 by the addition of 1 M NaOH using a pHstat
+titration equipment (Metrohm) at room temperature. The
+reagent (S-AMSA) was added to the protein solution in small
+aliquots, while the pH was kept at 8.0 (T0.1) by the addition of
+1 M NaOH using the pH-stat apparatus. Two batches of
+modified ovalbumin were prepared by a total addition of 28.5
+and 97.5 mg S-AMSA respectively to obtain a low and a
+medium degree of modification. After addition, the solution
+was stirred for another 30 min., followed by extensive dialysis
+against demineralized water at 4 -C. After dialysis each batch
+was separated into two fractions. To one fraction, 125 mL 0.01
+M hydroxylamine (pH 7.3) was added, to remove the acetyl
+blocks. To the other fraction 125 mL distilled water was added
+to keep concentrations in both solutions equal. The deblocked
+fraction was then dialyzed against distilled water; both samples
+were frozen, but not freeze-dried in order to avoid oxidation of
+the free sulfhydryl groups. The material was stored at 20 -C
+until use.
+2.3. Chemical characterization
+2.3.1. Degree of modification
+The total number of active sulfhydryl groups in nonmodified,
+blocked and deblocked ovalbumin was determined
+using the Ellmann protocol [39]. The reagent, 5,5V-dithiobis(2-
+nitrobenzoic acid) (DTNB), reacts with free thiol groups of
+the protein. The reagent solution was prepared by dissolving
+4.8 mg DTNB in 1.0 mL, 10 mM Tris–HCl buffer (pH 8.0
+and 2% SDS) and subsequent addition of 2.5 mL Tris–HCl
+buffer (10 mM, pH 8.0). 50 AL DTNB solution was added to
+250 AL 5 mg/mL protein solution. The solution was mixed
+and incubated for 20 min at 25 -C; then the absorbance was
+measured at 412 nm. The calibration curve, obtained by using
+various dilutions of a 0.50 mM cysteine solution, provided
+an extinction coefficient for the reduced conjugate of
+13425 M1 cm1.
+2.3.2. Reactivity of sulfhydryl groups
+The chemical reactivity of the blocked and deblocked
+proteins was measured using the sulfhydryl–disulphide exchange
+index (SEI) as described by Owusu-Arpenten et al.
+[40]. The method determines both the number of available
+–SH groups and the reactivity of these groups. The method is
+based on the reaction between 2,2V-dipyridyldisulphide (PDS)
+and a free –SH group. The formation of the reaction product
+(2-thiopyridine; 2-TP) can be followed in time by measuring
+the absorbance at 343 nm. A stock solution of PDS was
+prepared by dissolving 40 mg PDS in 40 mL phosphate buffer
+(10 mM pH 7.0) and stirring for 3 h at 20 -C. Then the solution
+was filtered over a 0.45 Am filter and the concentration of PDS
+was determined at 281 nm, using a molar extinction coefficient
+of 9730 M1 cm1 [40]. For measurements the stock was
+diluted to 5I105 M; 2.7 mL of this solution was added to a
+cuvette and the absorbance at 343 was measured. Then 0.3 mL
+of sample solution was added and the adsorbance at 343 nm
+followed in time. Sample solutions used were 10 mg/mL
+protein (in 10 mM phosphate buffer, pH 7.0); Glutathion
+(0.1 mg/mL in 0.01 N HCl) was used for calibration. The total
+number of reactive –SH groups was calculated from the
+plateau value of the adsorbance (using a molar extinction
+coefficient of 7076 M1 cm1) [40]. The rate constant (k –SH)
+of this second-order reaction was calculated from the slope of
+the graph of the right-hand side of Eq. (1) against time.
+kSH4t .
+1
+.PDS0.SH0  4ln
+.PDS0 .2TP.SH0
+.SH0 .2TP.PDS0
+.1.
+When this rate constant is divided by the rate constant of
+glutathion, a standardized value called the SEI index is
+obtained; SEI=(k –SH/ kglutathion)*100%.
+2.3.3. Detection of quaternary structure
+Size exclusion chromatography (SEC) was used to study the
+aggregation state of the proteins. SEC was carried out on a
+Superdex S200 HR column (Pharmacia Biotech) with a bed
+volume of 24 mL. The column was equilibrated and run with
+10 mM phosphate-buffer pH 7.0 and 50 mM NaCl at 20 -C.
+The sample (200 AL, 5 mg/mL in the same buffer) was applied
+to the column and the flow-rate was set to 0.4 mL/min;
+detection took place at 280 nm.
+P.A. Wierenga et al. / Advances in Colloid and Interface Science 119 (2006) 131– 139 133
+2.3.4. Evaluation of secondary structure
+Far-UV circular dichroism (CD) spectra of 0.1 mg/mL
+protein solutions in 10 mM phosphate buffer (pH 7.0) were
+recorded at 20 -C in the range from 190 to 260 nm with a
+spectral resolution of 0.2 nm, on a Jasco J715-spectropolarimeter.
+The scan speed was 100 nm/min and the response time
+was 0.125 s with a bandwidth of 1 nm. Quartz cells with an
+optical path of 0.1 cm were used. Typically, 16 scans were
+accumulated and averaged. The spectra were corrected for the
+corresponding protein-free sample.
+2.3.5. Evaluation of tertiary structure
+The intrinsic fluorescence of the tryptophan and tyrosine
+residues of 0.1 mg/mL protein solutions in 10 mM phosphate
+buffer (pH 7.0) were measured on a Perkin Elmer Luminescence
+Spectrometer LS 50 B. The excitation and emission slits
+were set at 5 nm. The excitation wavelength was 295 or 274
+nm, the excitation maxima of tryptophan and tyrosine
+respectively. The emission spectra were recorded from 300 to
+450 nm with a scan speed of 120 nm/min. Each spectrum was
+the average of two scans and corrected for a protein-free
+sample.
+2.3.6. Iso-electric focusing
+The iso-electric points (IEP) of non-modified and modified
+ovalbumin variants were determined using the Phast System
+(Pharmacia). Ready to use PhastGel IEF 3-9 gels were used,
+which were stained with Coomassie brilliant blue. A calibration
+kit from Pharmacia was used with proteins that have isoelectric
+points ranging from 3.5 to 9.3.
+2.3.7. Protein aggregation in solution
+The chemical reactivity of the modified ovalbumin variants
+in bulk solution was tested under similar conditions as
+experienced at the interface by concentrating protein solutions
+to final concentrations of 100 or 200 mg/mL (using Centriprep
+centrifugal filtration units from Millipore). Further experiments
+were performed by heating 0.1 mg/mL protein solutions
+at 90 -C for 30 min, or by addition of ferricyanide. Any
+aggregation induced by these treatments was analysed with
+sodium dodecyl sulfate polyacrylamide gel electrophoresis
+(SDS-PAGE), SDS-PAGE 8-25 gradient gels (Pharmacia)
+were run on a Phast-System (Pharmacia). Samples were
+dissolved in sample buffer, containing 62.5 mM Tris–HCl
+(pH 6.8), 1.25% SDS, 5% glycerol, 0.00125% bromophenol
+blue in the presence or absence of 1.25% h-mercaptoethanol,
+and heated for 10 min at 100 -C before analysis. Gels were
+stained with Coomassie brilliant blue. A calibration kit with
+low molecular mass markers ranging from 14 to 94 kDa from
+Pharmacia was used.
+2.4. Surface shear rheology
+To study interfacial shear properties of adsorbed protein
+layers a Couette-type surface shear rheometer was used as
+described by Martin et al. [41]. The apparatus is schematically
+drawn in Fig. 1. First, 279 mL buffer (10 mM phosphate, pH
+7.0, containing 300 mM NaCl) was filtered over a 0.2 Am
+filter and then placed in the trough. A concentrated protein
+solution (4 mL) was injected under the interface using a
+syringe, to obtain a final protein concentration of 0.1 mg/mL.
+A stainless steel biconical disk (diameter 30 mm) was
+suspended from a torsion wire of 0.15 mm and placed in
+such a way that the disc edge was exactly at the air–water
+interface. The solution was left to adsorb and equilibrate for
+22 h while the surface tension was measured with a Wilhelmy
+plate (perimeter 18.1 mm) suspended from a NIMA tensiometer
+as illustrated in Fig. 1.
+In replicate measurements with and without the Wilhelmy
+plate at the interface it was found that the presence of the plate  did not affect the results from the surface shear measurements.
+Stress–strain curves were made as a function of time by
+rotating the sample dish at a fixed rate during 30 min. The
+stress acting on the inner disc (r  [mN/m]) resulted in rotation
+of this disc that was quantified by reading the reflection of a
+laser beam from a mirror on top of the inner disk on a circular
+scale with a radius of 600 mm. Assuming homogenous
+deformation of the surface layer the strain (c  [ ]) applied
+can be calculated by Eq. (2) [42] :
+
+ Where Ri  is the radius [m] and Hi  is the rotational
+displacement [rad] of the inner disc, and Ro  and ho  are the
+radius and rotational displacement of the outer dish; Ho  is
+given by the angular velocity of the trough and the time
+(x *t) and Hi  is measured from the displacement of the
+reflected laser light on the circular scale divided by two times
+the radius of the scale. The stress on the interface is calculated
+from Eq. (3):
+
+ with s  =KHi  as the torque [Nm] exerted on the disc, and K  as
+the torsion wire constant. The torsion wire constant was
+determined by measuring the oscillation time with a calibration
+weight of 75 g, which is close to the weight of the  pendulum disc. Values for the system parameters are:
+x =1.27I 103  m, Ri =1.50I 102  m, Ro =7.25I 102  m,
+K  =1.73 I 105  N m rad1 , the radius of the scale is 0.6 m.
+All experiments were performed at 20 - C. Duplicate
+measurements were performed after thorough cleaning of
+the trough by starting with new buffer and new injection of
+the protein solution.

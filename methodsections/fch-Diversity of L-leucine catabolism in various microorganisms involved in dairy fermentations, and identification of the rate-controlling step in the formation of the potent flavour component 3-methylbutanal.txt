@@ -1,0 +1,101 @@
+Materials and methods
+Microorganisms
+All microorganisms were obtained from the NIZO culture collection.
+The strains used and their growth conditions are summarised in
+Table 1. Strains were grown in 1 l M17-medium (Difco, Detroit,
+Mich.) with extra carbon source as indicated. Aerobic cultures were
+grown in 250 ml portions in 0.5 l Erlenmeyer flasks in a rotary
+shaker, shaking at 200 rpm. The other cultures were grown in closed
+flasks without headspace (HS; low oxygen).
+Flavour production by microorganisms
+Several samples were taken from cultures up to 72 h of incubation,
+and the OD600 was measured. A 3 ml aliquot of the sample was
+transferred to a 10 ml HS vial, incubated for 0.5 h at growth
+temperature, and subsequently stored at −25°C for HS analysis (see
+below).
+Aliquots (50 ml) of cultures in stationary phase were harvested by
+centrifugation (15 min, 5,000 g, 15°C). Pelleted cells were washed
+in 25 mM sodium citrate buffer (pH 5.5) and centrifuged again.
+Finally, the cells were resuspended in this buffer to a final OD600
+between 15 and 25. Aliquots (1 ml) of these cell suspensions were
+incubated with two different substrates for 8 h at 30°C in a closed
+10 ml HS vial with a total volume of 3.0 ml. The final
+concentrations in the first set of incubations were 100 mM sodium
+citrate buffer (pH 5.5), 20 mM leucine, 10 mM α-ketoglutaric acid
+and 0.25% glucose. The final concentrations in the second set of
+incubations were 100 mM sodium citrate buffer (pH 5.5), 5 mM α-
+ketoisocaproic acid and 0.25% glucose. After these incubations,
+samples were stored at −25°C for HS analysis (see below).
+Preparation of cell-free extract
+All steps were performed between 0 and 4°C. Cells were grown as
+described above, and were washed three times in 25 mM sodium
+phosphate buffer (pH 7.0). Washed cells were resuspended to an
+OD600 of about 100 in the same buffer and disrupted in a French
+press twice at 20,000 psi cell pressure (SLM-instruments, Rochester,
+N.Y.). The resulting suspension was centrifuged (30 min, 31,000 g,
+4°C) and the supernatants obtained were used for the enzyme assays
+described below.
+Transaminase activity
+Conversion of leucine to α-ketoisocaproic acid was assayed by
+incubation of different quantities of cell-free extract (CFE) with
+leucine for 2 h at 30°C. The reaction mixture (300 μl) contained
+25 mM potassium phosphate (pH 7.5), 0.5 mM EDTA, 100 μM
+pyridoxal-5-phosphate, 20 mM leucine and 10 mM α-ketoglutaric
+acid. After incubation, the reaction was stopped by lowering the pH
+to between 2 and 3 with 40 μl 0.50 N HCl. The samples were then
+frozen at −20°C. Before analysis, the samples were thawed and
+centrifuged in an Eppendorf centrifuge at maximum speed for
+15 min. Leucine and α-ketoisocaproic acid concentrations in 50 μl
+supernatant were determined by C18 reverse phase high performance
+liquid chromatography (RP-HPLC) as described below. Because of
+the non-linearity of the assay, each assay consisted of a series of
+diluted CFE for each strain. Only results with α-ketoisocaproic acid
+concentrations ranging from 100 to 500 μM were taken into
+account. The assay was performed three times on different days with
+different solutions and dilutions to obtain statistically justified
+results. The specific activity was expressed as micromoles of α-
+ketoisocaproic acid formed per milligram protein in 1 min.
+Decarboxylase activity
+Conversion of α-ketoisocaproic acid to 3-methylbutanal was
+assayed by incubation of CFE in a reaction mixture with a total
+volume of 3.0 ml in a closed 10 ml HS vial at 30°C for 3 h. The
+reaction mixture contained 50 mM sodium citrate (pH 6.3), 100 μM
+thiamin pyrophosphate, 500 μM MgCl2 and 20 mM α-ketoisocaproic
+acid. After incubation, the reaction was stopped by lowering
+the pH to between 2 and 3 with 70 μl 6.0 N HCl. The amount of 3-
+methylbutanal was determined by static HS gas chromatography
+(GC) (see description below). The specific activity was expressed as
+micromoles of 3-methylbutanal formed per milligram protein in
+1 min. As with the transaminase assay, several independent
+experiments were performed, with a range of diluted CFE samples.
+Hydroxyacid dehydrogenase activity
+Conversion of α-ketoisocaproic acid to α-hydroxyisocaproic acid
+was assayed by incubation of different quantities of CFE in a
+reaction mixture with a total volume of 300 μl in a 300 μl 96-well
+plate at 30°C for 30 min, measuring the OD340 every 30 s. The
+reaction mixture contained 50 mM potassium phosphate (pH 7.0),
+1.1 mM NADH and 10 mM α-ketoisocaproic acid. The specific
+activity was calculated from the change in OD with time, corrected
+for the change in the blank without substrate. The specific activity
+was expressed as micromoles of NADH consumed per milligram
+protein in 1 min. Again, a minimum of three independent
+experiments was performed, with a range of diluted CFE samples.
+Incubation of Lactococcus lactis subsp. cremoris B1157 CFE
+Two series of incubation mixtures were prepared in 10 ml HS vials.
+The 5 ml reaction mixture in each vial contained 50 mM sodium
+citrate (pH 6.0), 100 μM thiamin pyrophosphate, 500 μM MgCl2,
+2 mMα-ketoisocaproic acid and 25 or 500 μl CFE of B1157. Series
+2 also contained 2.0 mM NADH. The reaction was started by adding
+the substrate to the vial followed by tightly closing it with a septum
+and cap. At several time points the incubations were stopped by
+lowering the pH to between 2 and 3 with 100 μl 6.0 N HCl. After
+cooling the vial from 30°C to 4°C, 2 ml reaction mixture was
+withdrawn from the vial and frozen at −20°C for C18 RP-HPLC
+analysis as described below. The HS vials were also frozen at −20°C
+until static HS GC (see below) was performed. Production of 
+components is expressed per milligram of protein.
+Protein determination
+Protein content of CFE, needed for calculation of the specific
+activities, was determined by the BCA protein assay reagent kit
+from Pierce (Rockford, Ill.). A 30 μl sample was mixed with 240 μl
+“work reagent” from the kit. After incubation at 37°C for 20 min the Reversed phase high performance liquid chromatographyDetermination of leucine, α-ketoisocaproic acid, α-hydroxyisocaproicacid and isovaleric acid was performed on an HPLC systemconsisting of two M6000A peristaltic pumps (Waters, Milford,Mass.), a type 680 gradient controller (Waters), a Spectro flow 783UV detector at 220 nm (Kratos, Ramsey, N.J.) and a wide pore C184.6×250 mm RP column preceded by a C18 guard column (Bio-Rad,Richmond, Calif.). The column was equilibrated with 2% acetonitrile,0.1% trifluor acetic acid (TFA) in water before applying 50 μlsample. Components were eluted at 30°C at a flow rate of 0.8 ml/min using a 20 min gradient from 2% to 12% acetonitrile +0.1%TFA. The column was washed after each run by a 5 min gradientfrom 12 to 60% acetonitrile +0.1% TFA. Concentrations werecalculated by using calibration samples containing α-ketoisocaproicacid and leucine in water ranging from 100 to 500 μM.Headspace gas chromatographyThe equilibrium HS concentration of 3-methylbutanal and 3-methylbutanol was analysed by GC. A 1.0 ml HS sample wasinjected splitless on the column after 20 min of incubation at 60°C.The sample was concentrated on a Fisons MFA815 cold trap (CEInstruments, Milan, Italy) with the following settings: 300 s splitlesstime; 91 s waiting before heating the cold trap; −150°C initialtemperature and final temperature at injection 200°C. The separationwas performed on a GC-8000 top gas chromatograph (CEInstruments), equipped with a CP-SIL 5 CB low-bleed column(30 m ×0.25 mm, film thickness 1.0 μm, Chrompack, Middelburg,The Netherlands) and a flame ionisation detector. The oventemperature was initially 40°C for 5 min, then it was increased by15°C/min to 150°C and kept at 150°C for 5 min. Inlet and detectortemperatures were 250°C and 270°C, respectively. Carrier flow was1.8 ml/min helium. Calibration was performed by measuring severaldilutions of a 3-methylbutanal and 3-methylbutanol mix in water atconcentrations ranging from 5 to 500 μM.

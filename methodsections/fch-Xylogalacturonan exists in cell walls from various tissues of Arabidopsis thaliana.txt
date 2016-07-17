@@ -1,0 +1,143 @@
+ 3. Experimental
+3.1. Plant material
+Arabidopsis thaliana (L) Heyn. Ecotype Col-0 was used
+for all experiments.
+Plants were grown in peat at an 8 h photoperiod at 100–
+120 lmol photons m2 s1, 20C, 70% relative humidity
+and watered using tap water when necessary.
+Plant material (green tissue) was harvested as young
+leaves (small rosettes 10–12 leaf stage), mature leaves (12
+weeks), stems (including flowers and silliques) and seeds.
+Roots were obtained from plants grown hydroponically
+according to Husted et al. (2002).
+3.2. Preparation of cell wall material (CWM)
+Cell wall material was prepared as follows: alcohol
+insoluble residue (AIR) was prepared as described (Fry,
+1988) with adaptations. Tissue of interest was ground in
+liquid nitrogen with a mortar and pestle and boiled in
+96% ethanol for 30 min. The supernatant was removed
+after centrifugation at 10,000g for 5 min. The pellet was
+washed with 70% ethanol with subsequent centrifugation
+until it appeared free of chlorophyll. A final wash with
+100% acetone was performed and the pellet was dried
+under vacuum.
+Alcohol insoluble residue (AIR) was treated with
+enzymes for the removal of starch. For this, AIR was suspended
+in 10 volumes of a solution that had been preheated
+to 95 C containing 10 mM potassium phosphate
+buffer (pH 6.5), 1 mM CaCl2, and 0.05% NaN3. Starch
+was allowed to gelatinize for 30 s before addition of thermostable
+a-amylase  (Megazyme, Bray, Ireland) to a final  concentration of 1 U/ml. The suspension was incubated at
+85  C for 15 min. After the incubation the sample was
+cooled to 25  C and amyloglucosidase and pullulanase
+(both from Megazyme) were added to a final concentration
+of 1 U/ml. The a -amylase, amyloglucosidase and pullulanase
+preparation were investigated by SDS–PAGE and
+appeared to give one band only, except for an extra faint
+band for the pullulanase preparation. Additionally, no pectinolytic
+side activities were detected in these enzyme preparations.
+The suspension was incubated for 16 h at 25  C,
+with continuous shaking at 500 rpm. The suspension was
+centrifuged for 10 min at 6000g . The pellet was washed
+with 50 ml of a solution containing 10 mM potassium
+phosphate (pH 6.5), 1 mM CaCl2 , and 0.05% NaN3 , centrifuged
+again at 6000g  for 10 min, and finally dried under
+vacuum. The de-starched cell wall material was extracted
+with phenol:acetic acid:water (2:1:1, v/v/v) for 3 h (1:10
+(w/v) ratio between AIR and phenol:acetic acid:water
+2:1:1) at room temperature followed by centrifugation at
+6000g  for 5 min. The pellet (CWM) was washed three times
+with water to remove phenol and extracted proteins and
+finally dried under vacuum.
+3.3. Saponification of CWM
+ Pectin, as present in CWM from seeds, root, stem,
+young leaves and mature leaves was saponified in 0.1 M
+sodium hydroxide for 24 h at 4  C and subsequently neutralized
+with 0.1 M acetic acid. After neutralization, samples
+were dialyzed overnight against MilliQ water and
+freeze-dried until further use. Saponified CWM is referred
+to as CWM-s.
+3.4. Pectin extraction from CWM-s
+ Pectin was extracted from 200 mg, 100 mg, 130 mg,
+20 mg, and 105 mg of CWM-s from seeds, root, stem,
+young leaves and mature leaves of A. thaliana  according
+to the method of Voragen et al. (1983) . For this extraction
+a cold solution of 5 mM EDTA in 50 mM NaOH (4  C)
+was used.
+The obtained pectin and pellet fractions from each type
+of CWM-s were dialyzed overnight against distilled water.
+Aliquots of these fractions were freeze-dried prior to analysis
+of their sugar compositions (see Section 3.5 ). The total
+concentration of soluble polysaccharides in the pectin fractions
+as well as the total concentration of the residue in the
+pellet fractions was calculated using the yield of dry material
+from the freeze dried aliquots of these fractions.
+The remainder of the pectin fractions as well as the pellet
+fractions were dialyzed against 50 mM NaOAc (pH 3.5)
+prior to treatment by XGH, see Section 3.7 .
+3.5. Neutral sugar composition and uronic acid content
+ CWM-s, as well as the corresponding pectin and pellet
+fractions, were analyzed for their neutral sugar compositions
+using gas chromatography, after derivatization to
+alditol acetates (Englyst and Cummings, 1984 ). Inositol
+was used as internal standard. The samples were hydrolyzed
+in 72% (w/w) H2 SO4  for 1 h at 30  C, followed by a
+treatment in 1 M H2 SO4  for 3 h at 100  C. The uronic acid
+content of the samples was determined by an automated mhydroxydiphenyl
+assay (Blumenkrantz and Asboe-Hansen,
+1973; Thibault and Robin, 1975 ). Analysis of the neutral
+sugar composition and uronic acid content of the samples
+were performed in duplicate.
+3.6. Substrates and enzymes
+ Xylogalacturonan (XGA-29) was prepared from gum
+tragacanth by treatment with alkali and trifluoro acetic
+acid (TFA) as described (Beldman et al., 2003 ). This
+XGA had a Xyl:GalA ratio of 0.29.
+A set of XGA oligosaccharides with known structures
+and with different GalA/Xyl ratios were obtained as
+described (Zandleven et al., 2005 ).
+The enzyme xylogalacturonan hydrolase (XGH) from
+Aspergillus tubingensis  was cloned (Van der Vlugt-Bergmans
+et al., 2000 ) and expressed in the A. niger  ‘‘PlugBug’’
+(DSM Food Specialities, Delft, the Netherlands). This
+enzyme was purified as described (Beldman et al., 2003 )
+and had a specific activity of 150 U/mg.
+3.7. Enzyme incubations
+ One ml from the dialyzed pectin or pellet fraction (ranging
+in concentration between 1 and 6 mg/ml) from the different
+plant organs was incubated with XGH for 20 h at
+30  C. The final enzyme concentration was 0.35 l g/ml,
+which should be able to degrade all XGA possibly present
+in these samples during the incubation period. Subsequently,
+the enzyme was inactivated by heating the reaction
+mixtures for 10 min at 100  C. The XGH treated samples
+were analyzed by HPAEC using a set of known XGA-oligosaccharides
+for identification (Zandleven et al., 2005 ).
+GalA, GalA2 , and GalA3 , (all 10 mM) were taken as standards
+to calculate the concentration of the corresponding
+oligosaccharides, as well as of the xylogalacturonan oligosaccharides.
+For the calculation of the XGA oligosaccharides
+it was assumed that xylose substitution has no
+significant effect on the response factor of galacturonan oligosaccharides
+(Sakamoto et al., 2002 ). The standard GalA3
+ was also used to calculate concentrations of oligosaccharides
+with a degree of polymerization (DP) of 4 and higher,
+based on the experience that the differences in response fac factors
+for these larger oligosaccharides are relatively small.
+3.8. MALDI-TOF mass spectrometry
+ XGH-treated pectin samples were desalted by treatment
+with H+ -Dowex AG 50W X8 (Biorad, Hercules, CA),
+using a final concentration of 350 mg H+ -Dowex per ml
+digest. The desalted digests were mixed with a matrix  solution (1 l l of sample in 1 l l of matrix) and applied on a
+MALDI sample plate. The matrix solution was prepared
+by dissolving 9 mg of 2,5-dihydroxybenzoic acid in a 1-ml
+mixture of acetonitrile:water (300 l l: 700 l l). MALDITOF
+MS analysis was performed using an Ultraflex workstation
+(Bruker Daltonics, Hamburg, Germany) equipped
+with a nitrogen laser of 337 nm. The mass spectrometer
+was selected for positive ions, which were accelerated by
+an electric field of 12 kV, after a delayed extraction time
+of 200 ns. The ions were detected in the reflector mode.
+External calibration of the mass spectrometer was performed
+using a mixture of maltodextrines (mass range
+365–2309).

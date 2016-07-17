@@ -1,0 +1,94 @@
+2. Materials and methods
+2.1. Substrates
+The different substrates used within this study were obtained
+by enzymatic liquefaction of apple (MHRa and MHRB), carrot
+(MHRC), and potato (MHRP) according to Schols and Voragen.19
+All MHR samples were prepared using an experimental enzyme
+preparation called Rapidase C600 except for MHRB which was produced
+using Rapidase liq+. Both enzymes were obtained from DSM
+Food Specialties, Delft, the Netherlands.
+2.2. Monoclonal antibodies (MAbs)
+Different MAbs were used to detect pectic structures after chromatographic
+separation. Arabinogalactan type I (AG I) was detected
+using LM5,20 arabinan side chains were detected using
+LM6,21 Arabinogalactan type II (AG II) was detected using LM2,22
+and homogalacturonan (HG) was detected using JIM 7 toward partially
+methyl esterified HG.23
+2.3. Analytical methods
+2.3.1. Sugar composition
+Sugar compositions were determined using methanolysis followed
+by TFA hydrolysis according to de Ruiter et al.,24 and were
+analyzed on a Dionex HPAEC system according to Verhoef et al.25
+2.4. Linkage analyses
+Linkage analyses were performed according to the Hakomori
+procedure.26 Prior to permethylation of the different MHR samples,
+their uronic acid moieties were converted to their neutral sugar
+analogue and subsequently labeled at C-6 by deuterium according
+to Taylor and Conrad27 modified by Kim and Carpita and Sims and
+Basic.28,29
+The partly methylated alditol acetates were further analyzed by
+GC-FID and GC-MS according to Verhoef et al.25
+2.5. Weak anion exchange chromatography
+MHR samples (250 lL; 5 mg/mL) were separated and fractionated
+on a Dionex PropacTM WAX-10 column (250  4 mm) according
+to Guillotin et al.30 using a Akta Purifier (GE Healthcare).
+Separation was monitored using UV 210 nm absorption, and fractions
+of 0.5 mL were collected in 96-well plates. The fractions were
+subsequently pooled for sugar composition analysis or further analyzed
+using ELISA detection with MAbs against different pectic
+epitopes.
+2.6. HPSEC
+High performance size exclusion chromatography was performed
+on a ThermoQuest HPLC using a series of three TosoHaas
+TSK-Gel G columns (4000PWXL, 3000PWXL, 2500PWXL). Samples
+(100 lL; 5 mg/mL) were separated at 30 C using a 50 mM ammonium
+formiate buffer (pH 5.1) at 0.8 mL/min as eluent. Separation
+was monitored using a refractive index (RI) detector, and 0.5 mL
+fractions were collected in 96-well plates. The fractions were subsequently
+pooled for sugar composition analysis or further analyzed
+using MAb assays.
+2.7. Source 15Q separation
+MHRB was subjected to preparative separation based on their
+charge distribution using a Source 15Q column (115  60 mm,
+325 mL). MHRB (0.5 g) in 100 mL was applied to the column at
+25 mL/min. The sample was eluted off the column at 50 mL/min
+using a linear gradient from 0 to 600 mM phosphate buffer, pH 6.
+The gradient was applied using the following steps: 0–120 mM
+in 13 column volumes (CVs); 120–420 mM in 44 CVs; 420–
+600 mM in 2 CVs. Finally the column was washed with 8 CVs
+600 mM phosphate buffer followed by 1 M NaOH (5 CVs). Fractions
+of 250 mL were collected using a SuperFrac fraction collector (GE
+healthcare). The elution profile was visualized using both UV
+210 nm absorption and the neutral and uronic acid content of each
+fraction. Both neutral sugars and uronic acid were measured simultaneously
+using an automated colorimetric orcinol31 and mhydroxydiphenyl
+assay,32,33 respectively.
+2.8. ELISA assays
+Enzyme-Linked Immuno Sorbent Assay (ELISA) was used to detect
+the different pectic structures present within each of the fractions.
+An aliquot of each fraction (20 lL) was diluted 10 using
+0.01 M Phosphate Buffer Saline (PBS), pH 7.4, in an immunosorb
+96-well plate (Maxisorb, F96, NUNC). The diluted fractions were allowed
+to coat to the plates overnight at 4 C. After coating the plates
+were rinsed with tap water followed by blocking for 1 h at 4 C using
+200 lL PBS containing 3% (w/v) nonfat bovine milk powder (Sigma).
+After exhaustive washing with tap water, 100 lL primary antibody
+(10 diluted in PBS) was added and incubated for 2 h at room temperature.
+Again the plates were washed, and 100 lL of anti-rat IgG
+coupled to horseradish peroxidase (HRP, Sigma), 1000-fold dilution
+in PBS containing 1% (w/v) milk powder, was added and incubated
+for 1 h followed by another washing step.
+The plates were developed by adding 150 lL 3,30,5,50-tetramethylbenzidine
+liquid substrate (Sigma). The reaction was
+stopped by adding 30 lL of 2M H2SO4, resulting in the formation
+of a yellow color measured at 450 nm with a lQuant Microbiology
+ELISA reader.
+2.9. Radial Yariv gel diffusion
+Detection of AGII was performed by applying 8 lL MHR solution
+(3 mg/mL) to an 1% agarose gel with 0.15 MNaCl and 0.03 g/L Yariv
+phenylglycoside according to van Holst and Clarke.34 After leaving
+the gel with the samples overnight the formed halo was compared
+to a calibration series of gum Arabic ranging from 0.1 to 2.5 mg/mL.
+The Yariv phenylglycoside was prepared as described by Yariv
+et al.35 Yariv phenylglycoside positive material was precipitated
+from MHRC according to Immerzeel et al.14

@@ -1,0 +1,87 @@
+2.5. Determination of monomers, oligomer and polymer fractions
+For determining what fraction of the a-lactalbumin monomers
+was incorporated into protein oligomers and protein polymers, size
+exclusion chromatography (SEC) was performed on 100 mL aliquots
+taken from the reaction mixture at various reaction times. The aliquots
+were injected on a Bio-Silect SEC 400-5300 mm  7.8 mm
+column, connected to a Biologic DuoFlow Chromatography system.
+Elution was done using 0.1 M NH4Ac (pH 6.8), detection at 280 nm.
+Prior to injection, the column was equilibrated with the elution
+buffer. For determining (weight) fractions of monomers, oligomer
+and protein polymers, chromatograms were divided into three regions.
+The non (intermolecularly) cross-linked a-lactalbumin
+monomers eluted from 11 mL to 12.2 mL. The exclusion limit of the
+Bio-Silect SEC 400-5 columnwas reported to be around 106 g/mol
+for globular proteins, and for the purpose of the present determination,
+any cross-linked protein products eluting in the void (that
+is, at elution volumes smaller than 7.5 mL) were classified as
+???protein polymer??? whereas cross-linked protein products at intermediate
+elution volumes (from 7.5 mL to 12.2 mL) were classified as
+???protein oligomers???. For all aliquots, the estimated error in the total
+area under chromatograms was about 5%. The fraction of each
+species was taken to be the ratio of the area in the chromatogram
+for that particular species, divided by the total area for the three
+species combined. The whole experiment has been carried out in
+duplicate, with very similar results. The duplicate experiment was
+performed by using a Superose 6 10/300 GL column (GE Healthcare,
+Uppsala, Sweden) connected to an Akta Purifier system at room
+temperature. Samples were eluted with 0.1 M NH4Ac buffer pH 6.8
+at a flow rate of 0.5 mL/min, detection was done at 280 nm.
+2.6. Determination of size-mass scaling exponent
+For determining the relation between the size and molar mass
+of the species present in the final cross-linked reaction product, the
+latter was separated into chromatographic fractions on a Sephacryl S-500HR (GE Healthcare) column (exclusion limit is between
+4  104 and 2  107 kDa for Dextran standards), connected to an
+AKTA purifier system (GE Healthcare). A volume of 100 mL of final
+reaction product was injected onto the column, and eluted with
+0.1MNH4Ac (pH 6.8), at room temperature, at a flowrate of 0.8 mL/
+min. Prior to injection, the column was equilibrated with elution
+buffer. Detection was done using at 280 nm and 318 nm. Fractions
+of 0.5 mL were collected for elution volumes from 8 mL to 18 mL.
+For the light scattering analysis, the fractions were concentrated
+about 10 times using Amicon Ultra centrifugal filters (Cat No.
+UFC8000396). The protein concentration of the concentrated
+fractions was determined spectroscopically at 280 nm (see sample
+preparation). Static and dynamic light scattering experiments were
+done on each of the concentrated fractions using a Malvern
+Nanosizer ZS (Malvern) equipped with an Argon ion laser emitting
+vertically polarized light with a wavelength of 633 nm. The scattering
+angle was 12.8. Hydrodynamic radii RH reported are the
+major peak from the peak analysis as performed by the Malvern
+DTS software, version 6.20. Weight-averaged molar masses Mw
+were determined from the static light scattering intensities using
+the Rayleigh expression
+KRC
+Rq
+. 1
+Mw
+(1)
+where C is the weight concentration. The weight concentration C of
+cross-linked protein was determined using spectrophotometry,
+using the same molar extinction coefficient for protein polymers as
+that of the a-lactalbumin monomer. This is reasonable since crosslinking
+hardly affects the absorption at 280 nm (we have found
+changes of max. 5%) (see Supplementary data). The constant KR is
+the Rayleigh constant and Rq is the Rayleigh ratio at the scattering
+angle of 12.8. The constant KR is given by:
+KR .
+4p2n2
+solvent
+.dn=dC.2
+l4NA
+(2)
+We find KR . 2.46  105 m2 mol/kg2 using a refractive index
+increment dn/dC . 0.188 mL g1 for a-lactalbumin (McGuffey,
+2004). The Rayleigh ratio Rq was calculated from
+Rq
+.
+Isample  Isolvent
+Itoluene
+n2
+solvent
+n2
+toluene
+Rtoluene (3)
+using Rtoluene . 1.4  105 cm1 (Gimel, Durand, & Nicolai, 1994)
+where Isample, Isolvent, and Itoluene are the scattered intensities of the
+sample, the solvent and the toluene standard, respectively.

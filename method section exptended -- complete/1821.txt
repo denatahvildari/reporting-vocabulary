@@ -1,0 +1,13 @@
+Purification. Virus from the two 350-L (working volume)
+bioreactors was harvested via a sieve (mesh 75 ??m) to obtain a
+virus harvest free of micro-carriers [13]. Clarification was done
+using normal flow filtration with a Millipore POD-holder
+containing C0HC depth filters followed by an Express SHC
+0.45/0.22 ??m combination filter (Millipore) [3,13] .
+Concentration was done by tangential flow filtration using 100
+kDa filters [13]. Purification was done by size exclusion
+chromatography (Sepharose CL-6B (GE Healthcare) [11,29];
+elution buffer 20mM phosphate buffer pH 7.0) and ion
+exchange chromatography (DEAE-Sephadex A50 (GE
+Healthcare) [11,30]; elution buffer 20mM phosphate buffer
+pH7.0).

@@ -1,0 +1,6 @@
+Minerals were
+analyzed by inductively coupled plasma atomic emission spectroscopy
+(ICP-OES) (iCAP 6300, Thermo Fisher Scientific Inc.), whereas
+lactose was determined by high-performance anion-exchange
+chromatography (HPAEC) and pulsed electrochemical detection
+(PED) (Dionex ICS-5000, Thermo Scientific, Sunnyvale, CA, USA).

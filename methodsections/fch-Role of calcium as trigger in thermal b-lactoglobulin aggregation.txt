@@ -1,0 +1,526 @@
+Materials and methods
+Materials
+Bovine milk b-Lg was purified to homogeneity using a
+nondenaturing protocol as described previously [13].
+Succinic anhydride and N-(3-dimethylaminopropyl)-
+N0-ethylcarbodiimide hydrochloride (EDC) were purchased
+from Fluka. Ortho-phtaldialdehyde (OPA),
+methylamine, and Hepes buffer were obtained from
+Sigma. N,N0-dimethyl-2-mercaptoethylammonium chloride
+(DMA) and disodiumtetraboratdecahydrat (Borax)
+were purchased from Merck. 2-Ethyl-5-phenylisoxazolium-
+30-sulfonate (Woodward reagent K) was obtained
+from Aldrich. Sodium dodecylsulfate (SDS) was from
+Serva. The standard 1M CaCl2 solution was purchased
+from Fluka and the exact calcium concentration was
+verified by atomic absorption spectrometry.
+Calcium-binding measurements
+Calcium-binding data were obtained by titration of a
+standard CaCl2 solution into a b-Lg solution of defined
+concentration, while the calcium concentration in solution
+was monitored using a calcium-specific electrode
+(Ankersmit, The Netherlands). To minimize effects of
+different ionic strength KCl was added (final concentration
+of 150 mM). The millivolt response of the electrode
+was measured at constant ionic strength and
+constant temperature (20  1C) and used to calculate
+the free [Ca2ﬂ] in the incubation mixture. A calibration
+curve was obtained by preparing CaCl2 solutions in
+10mM Hepes buffer (pH 7.2) ranging from 0 to 80mM.
+The final calcium concentrations were checked using
+atomic absorption spectroscopic analysis, demonstrating
+that the error of the approach used was less than
+1%. For the titration of CaCl2 to b-Lg, 10 ml of a 20 mg/
+ml b-Lg (1.1mM) solution in 10mM Hepes (pH 7.2)
+was titrated with a 1 M standard CaCl2 solution. The
+free [Ca2ﬂ] (F) at each point of the titration was determined
+from the calibration curve, and the calcium
+bound to b-Lg (Cab) was calculated by subtracting the
+free [Ca2ﬂ] from the total [Ca2ﬂ] at equilibrium. Scatchard
+plots were obtained by plotting the ratio of bound
+calcium per protein (mol/mol) (B) over the free calcium
+concentration (B/F, mM1) against B. From the slope of
+the plot the calcium dissociation constants (Kd) is obtained,
+while the x-axis intercepts gives the numbers of
+calcium-binding sites ›nﬁ.
+Chemical modification of b-Lg
+Conversion of amino groups into carboxylic acid
+groups. Amino groups in b-Lg were succinylated essentially
+as described by Klotz [23]. To this end, two 400-ml
+solutions of 25 mg/ml b-Lg in deionized water were set
+at pH 8.0 by the addition of 3M NaOH using a pH-stat
+titration equipment (room temperature). Next, 0.4 and
+1 g of solid succinic anhydride were added in small
+portions yielding final concentrations of 9.9 and
+24.75mM succinic anhydride. During the addition of
+succinic anhydride, the pH was kept at 8.0 ›0:2ﬁ by the
+addition of 1M NaOH. After addition, the solutions
+were stirred for another 24 h, followed by extensive dialysis
+(four times an 20-fold excess of volume) against
+deionized water at 4 C and subsequent freeze-drying
+and stored at )20 C.
+Elimination of carboxylic acid groups. Carboxylic acid
+groups in b-Lg were eliminated by using a modification
+of the procedure described by Hoare and Koshland [24].
+To this end, two 500-ml solutions of 10 mg/ml b-Lg
+containing 1M methylamine were set to pH 4.6 and
+144 J.-W.F.A. Simons et al. / Archives of Biochemistry and Biophysics 406 (2002) 143–152
+stirred at room temperature. Subsequently, solid EDC
+(0.12 and 0.48 g) was added stepwise to give final concentrations
+of 1.25 and 5mM, while the pH was kept at
+4.6 by the addition of 1M NaOH using a pH-stat
+equipment. When all added EDC was dissolved, the
+solutions were stirred for another 2 h. Next, the pH was
+raised to 8.0 by the addition of NaOH (1 M). After
+another 24 h of stirring at room temperature, the mixtures
+were dialyzed extensively against deionized water
+(4 C) followed by freeze-drying of the material. All
+modification reactions took place at room temperature
+in the presence of 150 lg/ml sodium azide to prevent
+microbial growth.
+Analytical methods for product characterization
+SDS–PAGE. The purity of b-Lg, before and after
+modification, was checked using sodium dodecyl sulfate
+polyacrylamide gel electrophoresis (SDS–PAGE) according
+to Laemmli [25]. Homogeneous 15% Tris–HCl
+Ready Gels (Bio-rad) were run on a Mini-Protean II
+Electrophoresis system (Bio-rad). Samples were dissolved
+in sample buffer, containing 62.5mM Tris–HCl
+(pH 6.8), 1.25% SDS, 5% glycerol, 0.00125% bromophenol
+blue, and 1.25% b-mercaptoethanol, and were
+heated for 10 min at 100 C before analysis. Gels were
+stained in 0.1% Coomassie brilliant blue R-250 in 40%
+methanol and 10% acetic acid solution and destained in
+30% methanol and 10% acetic acid solution. A calibration
+kit with low-molecular-weight markers ranging
+from 14 to 94 kDa from Pharmacia was used. Comparison
+of SDS–PAGE gels run under reducing and
+nonreducing conditions demonstrated that the materials
+used in this study appeared monomeric in SDS and
+contained no significant covalent dimers or other
+aggregated material (results not shown).
+Isoelectric focusing. The apparent isoelectric points
+(IEPs) of nonmodified and modified b-Lg species were
+determined using the Phast System (Pharmacia). Ready
+to use PhastGel IEF 3-9 gels were used, which were
+stained with Coomassie brilliant blue R-250 and destained
+in 30% methanol and 10% acetic acid solution. A
+calibration kit (Parmacia) with proteins having IEPs
+ranging from 3.5 to 9.0 was used.
+Chromogenic OPA assay. The available number of
+primary amino groups on the protein was determined by
+the method described by Schmidt and Robben [26]. This
+method is based on the specific reaction between orthophtaldialdehyde
+and free primary amino groups in
+proteins in the presence of DMA, to give alkyl-isoindole
+derivatives that show absorbency at 340 nm. The
+OPA reagent was prepared by dissolving 40 mg OPA in
+1ml methanol, followed by the addition of 25 ml 0.1M
+Borax buffer, 200 mg DMA, and 5 ml 10% SDS. Finally,
+the volume was adjusted to 50 ml with demineralized
+water. A quartz cuvette was filled with 3ml of this
+reagent and the absorbency at 340nm was determined.
+Subsequently, 15 ll of a b-Lg solution was added and
+after an incubation time of 30 min at room temperature,
+the absorbency at 340nm was determined again. A
+calibration curve was obtained by adding 10, 20, 30, 40,
+80, 100, and 150 ll of a 2mML-leucine solution in water
+to 3ml of OPA reagent, yielding concentrations in the
+range from 6.6 to 95 lM L-leucine. All measurements
+were performed in triplicate.
+Chromogenic Woodward reagent K assay. The available
+number of carboxylic acid groups on the protein
+was determined by a modified method as originally described
+by Sinha and Brewer [27]. This method is based
+on the reaction between Woodward reagent K (2-ethyl-
+5-phenylisoxazolium-30-sulfonate; WRK) and free carboxylic
+acid groups in proteins. As shown by several
+research groups [28,29] this reaction results in an increase
+in absorbency at 269 nm. Typically, proteins were
+dissolved at a concentration of approximately 1mM
+carboxylate groups in 4.5 ml 50mM Mes buffer of pH
+5.0 containing 1% SDS. After addition of 0.5 ml of
+WRK (200mM in 0.01N HCl), the mixture was incubated
+for 20 min at room temperature using a pH-stat to
+maintain the pH at 5.0 with 0.2M NaOH. The reacted
+protein was isolated from unbound WRK using a PD-10
+gel-filtration column that was equilibrated with 50mM
+Mes at a pH of 5.0. Subsequently the absorbency at
+269nm was determined. From a linear calibration curve
+using different concentrations of b-Lg, a molar extinction
+coefficient for the WRK-protein complex of 3400
+(200)M1 cm1 was calculated. This molar extinction
+coefficient was used to determine the number of available
+carboxylate groups on modified proteins. All
+measurements were performed at least in duplicate.
+Matrix-assisted laser desorption ionization time of
+flight (MALDI-TOF) analysis. To determine the masses
+of the native and modified b-Lg’s, mass spectrometric
+analyses were performed on a PerSeptive Biosystems
+(Foster City, CA) Voyager-DE RP equipped with a
+nitrogen laser of 337nm with 3-ns pulsewidth. The mass
+spectrometer was operating in the positive-ion mode
+with a delayed extraction time of 200 ns. The ions entering
+the TOF compartment had an energy of 12 kV.
+Protein samples were prepared by using C18 reversephase
+Ziptips (Millipore), essentially as described by the
+manufacturer.  The elution step was performed in 10 l l
+of 80% acetonitrile and 0.1% trifluoroacetic acid. A
+saturated solution of sinapinic acid, 10 mg in 500 l l
+acetonitrile, 400 l l deionized water, and 100 l l 3%
+trifluoroacetic acid, was used as matrix solution.
+Typically, 9 l l of matrix solution was mixed with 1 l l
+of protein sample. Of this solution, 1 l l was spotted
+onto a golden welled plate and air-dried. Spectra were
+accumulated in the 2–40-kDa region and samples of
+cytochrome c  were included as control in each run
+of analyses.  Determination of protein structure
+Far-UV circular dichroism (CD) spectra of 0.1 mg/ml
+of nonmodified and modified b-Lg in 2.5mM Hepes
+buffer (pH 7.2) were recorded on a Jasco J-715 spectropolarimeter
+at 20 C in the range from 190 to 260nm
+with a spectral resolution of 0.2 nm. The scan speed was
+100 nm/min and the response time was 0.125 s with a
+spectral bandwidth of 1 nm. Quartz cells with an optical
+path of 0.1 cm were used. The spectra were corrected for
+the corresponding protein-free sample. Far-UV CD
+spectra were analyzed for the secondary structure
+content of the proteins using a standard nonlinear leastsquares
+fitting procedure making use of reference
+spectra.
+ Determination of protein stability
+Circular dichroism spectroscopy. Near-UV CD spectra
+of 1 mg/ml solutions of nonmodified and modified
+b-Lg in 2.5mM Hepes buffer (pH 7.2) were recorded on
+a Jasco J-715 spectropolarimeter from 260 to 350 nm at
+a temperature of 20 C. Solutions contained urea in
+the concentration range from 0 to 7M. The spectral
+resolution was 0.2 nm, the scan speed was 100 nm/min,
+and the response time was 0.125 s with a bandwidth of
+1 nm. Quartz cells with an optical path of 0.1 cm were
+used. All spectra were corrected for the corresponding
+protein-free sample.
+ Differential scanning calorimetry. Differential scanning
+calorimetry (DSC) was performed on a Micro-DSC
+III (Perkin–Elmer). Typically, 50 mg/ml of non-modified
+and modified b-Lg in 10mM Hepes buffer at pH 7.2
+was heated from 20 to 95 C with a heating rate of
+1 K/min. The denaturation temperature ( TD) and the
+onset temperature of denaturation ( Ton) were determined
+using standard software provided by the supplier.
+ Calcium-induced aggregation experiments
+Solutions of 1ml 20 mg/ml b-Lg (2% w/w) in
+10mM Hepes buffer, pH 7.2, were placed into a
+thermostated spectrophotometer U-3000 (Shimadzu),
+equipped with a Peltier sample-holder. The temperature
+control was within 0.3 C. After 3 min of incubation,
+different volumes of a 1M CaCl2 solution
+were added to give end concentrations varying
+between 1 and 100mM CaCl2. The turbidity was followed
+as a function of time by measuring the absorbency
+at 500 nm at regular time intervals. The cuvettes
+pathlength was 0.5 cm. Experiments were also done at
+pH 5.5 and at pH 8.5, in 10mM sodium acetate and
+10mM Tris–HCl buffer, respectively. The experimental
+errors in these aggregation experiments as monitored
+by the half-time of kinetics were in the order of 10
+and 15%.
+Results
+ Calcium-induced aggregation
+Heating a 20 mg/ml solution of b-Lg in 10mM Hepes
+(pH 7.2) at a temperature of 70 C for 2 h does not result
+in changes in the turbidity of this solution, as monitored
+by the optical density at 500 nm (Fig. 1). In the presence
+of calcium, however, a clear increase in the absorbency
+takes place in time, indicative of the formation of protein
+aggregates. This calcium-triggered aggregation of b-
+Lg at 70 C depends on the concentration of calcium
+added. A maximum optical density level is reached after
+addition of approximately 15mM calcium, while the
+maximal turbidity decreases again at higher calcium
+concentrations. The protein solutions with 10 and
+15mM of CaCl2 added have turned into a firm gel after
+30 min of heating, while all other incubations appeared
+viscous. To illustrate the specific effect of calcium compared
+to the monovalent sodium ion, NaCl was added
+instead of CaCl2 in a concentration that gives a comparable
+ionic strength to the solution. Addition of
+50mM NaCl yields clear solutions after 30 min of
+heating, and only at a concentration as high as 500mM,
+the b-Lg solution became slightly turbid (data not
+shown). From the latter experiment it is concluded that
+the ion-induced effect cannot be a simple charge
+screening effect.
+ Calcium-binding
+It has been suggested that the molecular role of calcium
+in the aggregation of b-Lg involves the formation
+of site-specific intermolecular salt bridges between negatively
+charged groups on two (partially) unfolded
+protein molecules [11]. To determine the b-Lg calciumbinding
+properties a calcium-selective electrode was
+used. The calcium-binding curve (Fig. 2A; closed circles)  shows that with increasing calcium concentration the
+number of calcium ions bound to b -Lg increases.
+Clearly, the binding-curve does not show a saturation
+level for the binding in this calcium concentration range.
+b -Lg contains in total 27 carboxylates and in principle
+each of these groups could act as binding site for calcium.
+The relatively slow increase of moles calcium
+bound per protein at higher concentration indicates that
+the affinity is, however, very low. When the binding data
+of Fig. 2A at low calcium concentrations are converted
+into a Scatchard plot, some care must be taken since a
+quantitative interpretation could be hindered by the very
+low affinity binding at high calcium concentrations, as
+reported previously (see, e.g., [30]). It can be seen that at
+20  C b -Lg binds about 3 molecules of calcium (intercept
+of x -axis) with an affinity constant of 3.4mM (1/slope).
+These values are summarized in Table 1.
+Increasing the number of negative surface charges
+ To study the role of the calcium-binding properties of
+b -Lg for calcium-induced aggregation, we decided to
+modify these binding properties by chemical modification
+of the protein. The number of negative charges on
+the surface of the protein was increased by chemical
+reaction of the primary amines (lysines and N -terminus)
+with succinic anhydride, resulting in the introduction of
+carboxylates at the expense of positive charges (at pH
+7.2). The degree of succinylation can be controlled by
+the molar ratio of succinic anhydride over b -Lg added
+(not shown). For this study, two batches were prepared
+with a 7- and 18-fold molar excess of reagent over
+protein. The degree of succinylation in the product was
+determined by measuring the number of primary amines
+before and after modification using a chromogenic assay
+based on the reaction of primary amines with orthophtaldialdehyde.
+With this method, 17 ( 1) primary
+amines were detected in nonmodified b -Lg (theoretical
+number is 16). For the succinylated preparations 13 and
+10 ( 0: 7) primary amines were determined, indicating
+average degrees of succinylation of 19 and 38%, respectively
+(Table 1). The heterogeneity of the modified
+preparation was studied using mass spectrometry. In
+Fig. 3 the MALDI-TOF mass spectra of nonmodified
+and 19 and 38% succinylated b -Lg are shown. The
+spectrum of the nonmodified b -Lg consists of two major
+peaks with masses of 18,365 and 18,278 Da, close to the
+calculated theoretical mass of the A and B genotypes,
+respectively. Upon succinylation Gaussian mass distributions
+are obtained, illustrating that the preparations
+are heterogeneous with average degrees of modification
+of 3 and 6 succinate groups per protein. The average
+mass increase is 303 and 606 Da, respectively, but for
+both preparations species with  1,  2 and ﬂ 1 or ﬂ 2
+succinate groups can be recognized in the spectra (theoretic
+mass increase per succinate group is 101 Da).
+These results are in full agreement with the average
+number of modified amino groups as determined by
+OPA analysis.
+Decreasing the number of negative surface charges
+ To decrease the number of negative charges of b -Lg
+the protein was subjected to a two-step modification
+procedure to neutralize the negatively charged carboxylates
+on the protein. The carboxylates were first activated
+by reaction with an excess of water-soluble
+c carbodiimide (EDC). Next, the activated groups were
+allowed to react with the nucleophile methylamine, resulting
+in methylation of the carboxylates. Based on
+initial experiments, the conditions were chosen such that
+two batches of modified b -Lg were obtained. To quantify
+the degree of methylation, the number of free
+carboxylates was determined before and after modification
+using a chromogenic assay (Woodward reagent
+K). With this method 28 ( 3) carboxylic acid groups
+were detected in nonmodified b -Lg (27 carboxylates are
+present in the protein). For the two methylated preparations,
+25 ( 1) and 23 ( 1) carboxylates were  determined, indicating degrees of methylation of about 7
+and 15%, respectively (Table 1). Despite serious efforts it
+was not possible to record MS spectra of these methylated
+variants to check the heterogeneity, most probably
+due to the poor ionization properties of the methylated
+proteins.
+Apparent surface charge
+ Changing the number of potential calcium-binding
+sites by protein modification might also affect the isoelectric
+point of these materials. The IEP of (modified)
+b -Lg was determined using isoelectric focussing (not
+shown) and the apparent values are listed in Table 1.
+Compared to the nonmodified b -Lg (IEP of 5.2), the
+IEPs of the succinylated b -Lgs are slightly lower, while
+the methylated proteins have somewhat higher IEPs.
+For all modified materials ranges of isoelectric points
+are observed of approximately 0.3–0.4 units, except for
+the 15% methylated material that displayed a range of
+0.7 units. Capillary zone electrophoresis confirmed the
+trend in IEP for the various materials (results not
+shown).
+Protein structure and stability
+ Since b -Lg aggregation requires thermo destabilization
+of the protein, differences in the structural integrity
+by protein modification might interfere with the interpretation
+of the results. For this reason the structure and
+stability of the modified b -Lgs were compared to those
+of the nonmodified protein. To obtain secondary
+structure information of the (modified) b -Lgs we used
+far-UV circular dichroism spectroscopy. From the CD
+spectra the contributions of a -helix, b -structures
+(b -strand and b -turn), and random coil were estimated
+and are summarized in Table 2. These results show that
+the low degree of modification as applied in this work
+does not give rise to significant changes in secondary
+structure. In addition, near-UV CD and tryptophan
+fluorescence spectra of native and the modified proteins
+were very similar (results not shown), showing that also
+at a tertiary folding level no significantly conformational
+changes can be observed. Since under physiological
+conditions b -Lg exists as a dimer, we checked whether
+this was also the case after chemical modification. This
+was checked using gel-permeation chromatography on a
+Superdex-75 column ran in 10mM Hepes buffer (pH
+7.2), containing 50mM NaCl to prevent nonspecific
+interactions with the column material. Under these
+conditions all b -Lg variants proteins eluted as single
+symmetric peaks representing the dimer form of the  protein with an apparent mass of 36 kDa based on
+elution profiles of calibration proteins (results not
+shown).
+To determine the protein stability we used urea
+unfolding experiments and differential scanning calorimetry
+(DSC). In Fig. 4A near-UV CD spectra of nonmodified
+b -Lg are shown in the absence and presence of
+different urea concentrations. Without urea at least two
+distinct negative extremes at 285 and at 293nm can be
+recognized. Upon addition of urea both signals decrease
+in intensity and are not visible anymore at a concentration  of 6M, indicating that the protein has completely
+unfolded. The ellipticity at 293nm is plotted in Fig. 4B as
+a function of the urea concentration. From this plot a
+midpoint of urea-induced unfolding of 3.8M can be
+observed for the nonmodified protein. From identical
+experiments with 38% succinylated and 15% methylated
+b -Lgs (Fig. 4B; closed and open squares, respectively)
+midpoints for unfolding of respectively 3.2 and 4.2M
+urea were determined, while the intermediate degrees of
+modification show also intermediate values. The free
+energies of unfolding (DGu ) at 20 C determined from
+these curves, assuming a two-state unfolding according
+to Pace [31], are presented in Table 2. These results illustrate
+that the stability of all these proteins is comparable
+with a free energy for unfolding around 20 kJ/mol
+(with an estimated error of 2–3 kJ/mol). In addition to
+urea-unfolding studies differential scanning calorimetry
+was used to characterize the heat stability of the (modified)
+proteins. The thermograms (not shown) all had
+comparable shapes representing a major endothermic
+transition and an additional smaller contribution at
+lower temperatures as reported frequently for
+b -Lg in the literature. From the thermograms the midpoint
+of heat denaturation (TD ) for the nonmodified
+b -Lg was 76  C, while for the 38% succinylated and 15%
+methylated proteins the Td  were respectively 86 and
+78  C (Table 2). The enthalpy change associated with
+denaturation decreased for both the succinylated and the
+methylated variants by approximately 15%. The less
+modified materials exhibited denaturation properties
+intermediate to these high modified variants and the
+nonmodified protein. In conclusion, these results show
+that all modified proteins resemble the nonmodified b -Lg
+with respect to the protein structure (on the secondary,
+tertiary, and quaternary level) and have comparable
+conformational stabilities, but slightly different denaturation
+temperatures.
+Calcium-binding of modified b-lactoglobulins
+ To determine the calcium-binding properties of the
+different b -Lg variants, calcium-binding curves were
+measured in a similar way as described for the nonmodified
+protein. The results are presented in Fig. 2A.
+Clearly, the calcium-binding has increased for the  succinylated species as compared to the nonmodified
+protein, with 12 and 16 mol of calcium ions bound per
+mol of protein for the 19 and 38% succinylated b -Lgs,
+respectively, at a CaCl2  concentration of 50mM. In
+contrast, the methylated proteins bind less calcium ions
+(up to 3–4) under the conditions used here. From
+Scatchard plots based on the results shown in Fig. 2A
+for the low calcium concentration range, dissociation
+constants (KD ) and the number of binding sites ›nﬁ  were
+determined and are summarized in Table 1. Typical
+examples of these Scatchard plots are shown in Fig. 2B
+for the 19% succinylated and 7% methylated protein. It
+can be concluded from these data that both the binding
+affinity and the number of binding sites improved upon
+increasing the number of carboxylates per protein, while
+those for the methylated b -Lgs have been impaired.
+Calcium-induced aggregation of modified b-lactoglobulins
+ To study a possible relation between calcium-binding
+and calcium-induced aggregation, we compared the
+calcium-induced aggregation kinetics of the modified b -
+Lgs with those of the nonmodified protein using turbidity
+measurements. To allow a proper comparison, the
+aggregation kinetics was studied for each species 6K
+below the denaturation temperature listed in Table 2
+(i.e., 70  C for nonmodified b -Lg, 76 and 80  C for 19
+and 38% succinylated proteins, respectively, and 72  C
+for both methylated proteins). Fig. 5 shows the turbidity
+measurements in the presence of 10mM calcium. Both
+succinylated b -Lgs, which not only show an increase in
+the number of calcium ions bound per protein molecule
+but also in the affinity of binding (Table 1), do not aggregate
+at this time scale and under these conditions.
+Surprisingly, however, the aggregation kinetics of the
+7% methylated b -Lg improved compared to the nonmodified
+b -Lg, despite its lower calcium-binding affinity
+and number of calcium-binding sites. Like nonmodified
+b -Lg, this protein does not aggregate in the absence of
+calcium under the conditions used here (not shown). The
+same holds for the 15% methylated protein, for which
+we have demonstrated that this protein calcium-binding
+affinity was strongly reduced (Table 1).
+pH dependence
+ Since the IEP of the methylated proteins is more close
+to pH 7.2 compared to nonmodified and succinylated
+protein (Table 1), we investigated whether there is a
+relation between the IEP of the protein and the pH of
+the solution in which calcium-induced aggregation.
+However, similar to the results found at pH 7.2, also at
+pH 5.5 and at pH 8.5, the 7 and 15% methylated b -Lgs
+did aggregate faster than the nonmodified protein upon
+addition of 10mM CaCl2 , while the succinylated species
+did not show any sign of turbidity under these conditions
+(results not shown).
+Effective net charge
+ The observation that calcium does not trigger aggregation
+of b -Lg after succinylation might be due to the
+increase in negative surface charge, hindering the thermo-
+denatured proteins to aggregate due to repulsive
+interactions. To compensate for this additional electrostatic
+repulsion, sodium chloride (150mM) was added to
+the 38% succinylated protein prior to addition of calcium
+chloride, to screen surface charges and make the
+electric double-layer thickness comparable to that of
+nonmodified b -Lg. The amount of additional salt added
+even exceeds the amount required (64mM) to assume
+a comparable Debeye length despite the differences
+in surface charge density. However, also under these
+conditions no aggregation of succinylated proteins
+was observed (not shown).
+Calcium concentration dependence
+ Both for the succinylated and the methylated b -Lg
+variants the aggregation was investigated in the presence
+of different concentrations of calcium, in a similar way
+as described for the nonmodified protein (see Fig. 1).
+Typical examples are shown in Fig. 6. Although the
+turbidity of the 38% succinylated b -Lg does not increase
+in the presence of 10mM CaCl2 , Fig. 6A shows that
+aggregation does occur, but only at higher concentrations
+of calcium ions (> 30 mM). In contrast, the 7%
+methylated b -Lg that in the presence of 10mM calcium
+aggregates faster than the nonmodified b -Lg shows already
+an increased turbidity in the presence of 3mM  CaCl2  (Fig. 6B). Similar dependencies are found for the
+19% succinylated and 15% methylated proteins (not
+shown). In Table 1 (last column) the calcium ion concentrations
+are summarized for all b -Lg variants studied
+here that yield the fastest aggregation kinetics under
+these conditions. Although the kinetics of aggregation is
+temperature dependent for a particular variant of b -Lg,
+the sensitivity for the calcium concentration is not significantly
+affected as demonstrated by studying the effect
+at different temperatures in the range from 70 to 86  C
+for various b -Lg variants (results not shown).
+

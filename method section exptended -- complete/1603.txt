@@ -1,0 +1,5 @@
+ The enzymatic method of Cyr et al. [10]  was used. Briefly,
+the method employs a synthetic fluorescein-labeled oligopeptide
+that is ribosylated by PT. The ribosylated oligo-peptide
+is separated from the non-ribosylated peptide on HPLC,
+using peak area as a measure for PT activity.

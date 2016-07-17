@@ -1,0 +1,84 @@
+II. EXPERIMENT
+Seeds originating from one seed lot of ‘‘Green Coronet’’
+cabbage ~Brassica oleracea L. Group. Capitata! were kindly
+provided by American Takii Inc., Salinas, CA. Different seed
+quality levels were prepared using seeds from the same seed
+lot by aging them in the laboratory in two independent steps.
+Seeds were first equilibrated to 70% relative humidity, heatsealed
+in aluminum-foil plastic-laminate packets and then
+aged at 40 °C for 0, 14, and 28 days.2 Following each ageing
+period, the quality of seed was assessed as based on the
+outcome of the standard germination test conducted at 25 °C.
+Seeds were kept in a refrigerator ~about 5 °C! in sealed Ziplock
+baggies. Prior to opening the baggies were allowed to
+warm up for about an hour to avoid possible condensation.
+To obtain large concentrations of volatiles within a relatively
+short time, aged seeds ~initial moisture content 6.5%
+by mass! were partially imbibed. The amount of distilled
+water added to seeds ~72 ml to 0.2 g corresponding to a 1:2.7
+water-to-seed ratio by mass! hydrated them to 0.45 MCf
+(MCf is the percent moisture content when seeds are fully
+hydrated!. At 0.45 MCf seeds are both hydrated and in an
+aerobic condition.
+Low quality seeds produce more EtOH and acetaldehyde
+than high quality seeds; this is due to fermentation associated
+with seed ageing.3 Acetaldehyde, an intermediate compound
+in the formation of EtOH is expected to rise initially and then
+decrease with time after hydration. Most measurements are
+made after 6 and more commonly 24 h after hydration.3
+However, this article reports LPAS measurements of EtOH
+and acetaldehyde after only 3 h of imbibition.
+A. LPAS
+The PAS study was performed using three resonant ~1.3
+kHz! PA cells ~the volume of each was 26 ml! placed behind
+one another and inside the cavity of a cryogenic CO laser the
+intensity of which was modulated by a mechanical chopper.
+Imbibed seeds of different ages were distributed in three
+separate glass ‘‘reservoirs;’’ each of them was connected
+with one PA cell. The transport of volatiles accumulated in
+the headspace above the seeds towards the PA cell was
+achieved by a flow ~2 l/h! of conditioned air.
+During the initial 3 h of imbibition ~the uptake of liquid
+water by seeds was completed! the PA cells were flushed
+continuously with dry air. Then reservoirs were connected to
+PA cells and the carrier gas diverted to flow above the seeds.
+The PA signals were measured at six preselected CO laser
+lines: three of them coincided with the absorption lines of
+acetaldehyde, EtOH, and water, respectively, while the remaining
+ones were used to estimate the level of a background
+signal. The measuring sequence implied tuning of the
+laser, optimization of power, and recording of PA signals
+from either of the three cells; this sequence was repeated
+three times. What follows is the measurement of laser power,
+averaging, and normalization of PA signals. After 40 s the
+laser is tuned to another emission line and the whole procedure
+repeated; present resolution is 4 min. The interference
+of longer alcohols and of other large molecules was  avoided by using the cold trap. The response of the LPAS
+system was calibrated using a 10 ppmv mixture of ethanol in
+nitrogen.
+B. FTIR
+ Unlike LPAS that operates in the flow through regime,
+GC and FTIR use a closed system that requires ample quantities
+of air because seeds need oxygen to respire. If for a
+given weight of seeds the headspace above the seeds is too
+small, oxygen will be depleted ~ anaerobic fermentation!
+ leading to substantial production of EtOH even from high
+quality seeds. Accommodating 0.2 g seeds within 10 ml air
+space is usually recommended.
+Three homemade cylindrical FTIR cells ~ 125 ml each!
+ were constructed from Pyrex glass and sealed with a pair of
+KCl windows. To reach the targeted 0.45 MCf  each cell was
+loaded with 2 g seeds ~ aged for either 0, 2, or 4 weeks!  and
+720 m l distilled water added. Under these conditions the
+above-mentioned criterion ~ 0.2 g seeds within 10 ml air
+space!  for avoiding hypoxia is met. The concentration of
+EtOH was monitored at 1394.22 cm21 ; at this wave number
+the absorption is quite strong ~ absorption coefficient of EtOH
+vapor is 17 atm21  cm21! .
+C. Gas chromatography
+ Seeds were hydrated to 0.45 MCf ~ 0.2 g seeds added to
+72 m l distilled water!  and kept in a 10 ml vial. Following
+imbibition seeds were incubated and agitated for 10 min in
+the glass container maintained at 60 °C. Two millilitres of the
+headspace ~ above the seeds!  were then withdrawn and injected
+on DB Carbowax GC column. 

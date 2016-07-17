@@ -1,0 +1,9 @@
+Fractionation of polyol dehydrogenases was performed by anionexchange
+chromatography. A cell extract was prepared as described
+above using either 20 mM Tris pH 7?5 or 20 mM Bistris pH 6?5 as a
+buffer, in both cases containing 1 mMMgCl2, 5 mM2-mercaptoethanol
+and 0?5 mMEDTA. Four millilitres of desalted cell extract was applied
+to a ResourceQ column (Amersham Biosciences) and, following
+rinsing with extraction buffer, protein bound to the column was eluted
+with a linear gradient of 0???0?5 M NaCl in extraction buffer. Polyol
+dehydrogenase activities were measured in the fractions obtained.

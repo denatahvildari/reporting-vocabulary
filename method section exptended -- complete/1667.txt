@@ -1,0 +1,21 @@
+After heat inactivation of the enzyme and freeze-drying the reaction
+mixture, the HA products were separated using flash column
+chromatography with Silica Gel 60 as column material and n-butanol/
+water/acetic acid (3:1:1) as eluent [17]. The tubes containing
+the same compound were pooled and dried with a rotavap. As a final
+step, the purified HA oligosaccharides were identified using
+HPLC and matrix-assisted laser desorption/ionization time-offlight
+(MALDI-TOF). The prepared stock of HA4 still contained minor
+traces of HA2.
+The derivatized HA-fluor products were purified in three separation
+steps on an .KTA explorer fast protein liquid chromatography
+(FPLC) system monitoring the eluents at 215 and 340 nm: (i)
+desalting the derivatized oligosaccharides with a Sephadex G10
+column and 50 mM ammonium acetate as eluent, (ii) separating
+the fluorescent saccharides from the unreacted ones using a Source
+30Q column with an NaCl gradient from 0 to 0.5 M over 100 min at
+a flow rate of 2 ml/min, and finally (iii) removing the NaCl through
+desalting with a Sephadex G10 column and 50 mM ammonium
+acetate. Samples containing the same compound were pooled
+and freeze-dried after each separation step. After the last separation
+step, the products were identified with MALDI-TOF.

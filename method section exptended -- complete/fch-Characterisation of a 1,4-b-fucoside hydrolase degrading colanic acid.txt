@@ -1,0 +1,131 @@
+ 2. Experimental
+2.1. Production of enzyme degrading colanic acid
+Cultures degrading colanic acid were obtained by
+enrichment cultivation of a sample of compost, containing
+paper machine fines, chicken manure and wood
+bark. The enrichment medium contained 5 g/L colanic
+acid from a Citrobacter sp. (VTT E-011941, produced
+as described in12) and 6.7 g/L yeast nitrogen base (Difco)
+in 50 mM potassium phosphate buffer, pH 7. About 1 g
+of mechanically homogenised compost sample was
+suspended in 5 mL of physiological NaCl solution, the
+suspension was mixed and the solids were allowed to
+settle. Suspension (250 lL) was inoculated in 5 mL of
+enrichment medium. Sterile water was added to the reference
+cultures instead of compost sample. Enrichment
+cultures were incubated at 50 C without mixing for
+3 days. Polysaccharide-degrading activity was detected
+by following the decrease in the viscosity using a
+Brookfield DV II viscometer (+20 C, sample size
+0.5 mL). When the viscosity in the 1st enrichment culture
+had clearly decreased, 250 lL of culture medium
+was re-inoculated into 5 mL of fresh enrichment medium.
+After 3 day of cultivation when the viscosity of
+the second enrichment culture was lowered, 500 lL
+of the culture medium was re-inoculated into 10 mL
+of fresh medium for the third enrichment culture. After
+1–2 days of incubation the enrichment cultures were
+stored in the culture medium at +4 C for immediate
+use or stored in 5% glycerol at 80 C for longer
+periods.
+ 2.2. Activity assay
+To follow the purification and to measure the kinetic
+parameters of the enzyme, the bicinchoninic acid (BCA)
+assay according to Meeuwsen et al.13 was used. The substrate
+solution consisted of 0.5 mg/mL colanic acid in
+50 mM phosphate buffer pH 7. This substrate solution
+was mixed with variable amounts of enzyme solution until
+a total volume of 100 lL and was incubated at variable
+temperatures. The amount of reducing sugars released
+upon degradation was determined using a fucose calibration
+curve (5–500 lM). Specific activities were expressed
+as U/mg protein where U stands for lmol reducing sugar
+released per minute. The protein content was measured
+according to Bradford14 using bovine serum albumin as
+a standard.
+ 2.3. Anion exchange chromatography
+The crude culture filtrate was ultra-filtered (Amicon
+10 kDa cut off) and washed with Millipore water
+(<20 lS/cm2) followed by 25 mM Tris/HCl buffer
+pH = 7 and then applied on a Mono Q 5/50 GL
+(Amersham Biosciences) anion exchange column
+equilibrated with the same buffer. The protein was
+eluted from the column by increasing the ionic strength
+at a flow rate of 1 mL/min from 0 to 1 M NaCl in
+20 column volumes, and fractions (0.5 mL) were
+collected.
+Figure 1. Structure of the repeating unit of colanic acid.9,10
+R. Verhoef et al. / Carbohydrate Research 340 (2005) 1780–1788 1781
+ 2.4. Gel permeation chromatography
+The pool containing enzyme activity after MonoQ separation
+was applied to a HiLoad 16/60 Superdex 200
+Prepgrade (Amersham Biosciences) gel filtration column
+and eluted at 1 mL/min using 100 mM Tris/HCl buffer
+pH 7.0 and fractions (2 mL) were collected.
+ 2.5. pH optimum and temperature optimum
+The pH optimum was determined in McIlvaine buffers
+in the pH range from 3 to 8. The colanic acid solutions
+(1 mL; 0.5 mg/mL) were incubated with 20 lL of enzyme
+solution (pooled after Superdex 200 separation;
+23 lg protein/mL) at 30 C for 5 h. The temperature
+optimum was measured using 0.5 mg/mL colanic acid
+in 50 mM phosphate buffer pH 7 in the range from 20
+to 80 C. The colanic acid solutions (1 mL) were incubated
+with 25 lL of the same enzyme pool for 5 h. Temperature
+stability was measured by first heating 20 lL of
+the same enzyme solution at the same temperature range
+without substrate for 1 h, followed by addition of 1 mL
+0.5 mg/mL colanic acid in 50 mM phosphate buffer pH 7
+and 5 h incubation at 30 C.
+ 2.6. Native and SDS-PAGE
+SDS-PAGE was run on a PhastGelTM Gradient 4–15%
+gel (Phastsystem), using low-molecular weight protein
+standards from Amersham Biosciences. The gel was
+stained using silver staining. Native PAGE was run
+using a BioRad MiniProtean electrophoresis unit on a
+5–15% gradient PAGE gel (ready gel BioRad). Part
+of the gel was Coomasie stained and three unstained
+lanes were cut into slices of 2 mm. The sections from
+one lane were incubated with 1 mL 0.5 mg/mL colanic
+acid (30 C, 50 mM phosphate buffer pH 7, 18 h) to
+determine the active protein band. The BCA reducing
+sugar assay as well as HPSEC were used for analysis
+of degradation products. The other two lanes were used
+for enzyme and substrate blanks. After incubation of
+the enzyme blank, the enzyme diffused into the buffer.
+This active enzyme fraction was concentrated and
+subjected to SDS-PAGE under denaturing conditions
+with and without prior reduction with b-mercaptoethanol.
+ 2.7. Substrate modifications
+Native colanic acid was obtained as described by Verhoef
+et al.3 Colanic acid was de-O-acetylated by dissolving
+60 mg of colanic acid in 25 mL 100 mM NaOH and
+stirring for 18 h at 4 C. After this saponification, the de-
+O-acetylated substrate was dialysed by ultra-filtration
+using a 10 kDa cut off Amicon filter. The ultra filtrated
+solution was freeze dried to obtain the de-O-acetylated
+substrate. Colanic acid (60 mg) was depyruvated as described
+by Verhoef et al.15 using autohydrolysis.
+ 2.8. MALDI-TOFmass spectrometry
+MALDI-TOF MS(matrix-as sisted laser desorption/
+ionisation time-of-flight mass spectrometry) and Post
+Source Decay (PSD)/MALDI-TOF MS was performed
+on an Ultraflex workstation (Bruker Daltronics GmbH,
+Germany). MALDI-TOF MSspectr a were recorded in
+the negative mode using a mixture of galacturonic acid
+oligosaccharides for calibration. PSD/MALDI-TOF
+MSwas recorded in the positive mode using a mixture
+of malto-dextrins for calibration. The samples were
+mixed with a matrix solution (1 lL of sample in 9 lL
+of matrix). The matrix solution was prepared by dissolving
+9 mg of 2,5-dihydroxybenzoic acid in a 1 mL
+mixture of acetonitrile–water (300:700 lL). Of the prepared
+sample and matrix solution 2 lL was put on a
+gold plate and dried with warm air.
+ 2.9. HPSEC of colanic acid
+Colanic acid (2 mg) was dissolved in 1 mL of distilled
+water and analysed by high-performance size exclusion
+chromatography (HPSEC) using three TOSOHAAS
+TSK-Gel columns in series (4000-, 3000-, 2500-PWXL)
+preceded by a TSK guard column (40 · 6 mm) according
+to Verhoef et al.3

@@ -1,0 +1,1987 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/terms/"
+xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+xmlns:owl="http://www.w3.org/2002/07/owl#"
+xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+xml:base="http://www.wurvoc.org/miape">
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+<dc:title><![CDATA[miapevocabulary]]></dc:title>
+<dc:description><![CDATA[minimum information about proteomic experiment]]></dc:description>
+<skos:hasTopConcept rdf:resource="http://www.wurvoc.org/miape/db45f825-4103-496a-ae05-55ff3934711e"/>
+
+</rdf:Description>
+<owl:Ontology rdf:about="">
+<owl:imports rdf:resource="http://purl.org/dc/elements/1.1/"/>
+<owl:imports rdf:resource="http://www.w3.org/2004/02/skos/core"/>
+</owl:Ontology>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/ab4c1389-77a4-4c5c-ae89-fa14d04aeaf1">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">%</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/e4b2b9f9-713a-4660-93f0-dbda77f4ef15"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/77deed1e-8053-4a08-8f17-f2a0dce3635a">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">2D chromatography</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:broader rdf:resource="http://www.wurvoc.org/miape/db45f825-4103-496a-ae05-55ff3934711e"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/dc80fbdd-e983-46d0-bd81-53b1fe4f74a2">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">abundance</skos:prefLabel>
+	<skos:altLabel xml:lang="en">amount</skos:altLabel>
+	<skos:altLabel xml:lang="en">Occurrence</skos:altLabel>
+	<skos:altLabel xml:lang="en">quantity</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/a3b71f08-9927-4b19-93f4-629ab83707c2">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">acetic acid</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/e4b2b9f9-713a-4660-93f0-dbda77f4ef15"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/2e033646-d8cf-4d8a-b2af-504a54616515">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">Acetonitrile</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/e4b2b9f9-713a-4660-93f0-dbda77f4ef15"/>
+	<skos:altLabel xml:lang="en">AcN</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/e626c0b6-3427-4cdc-bc4a-9eb09628ef0d">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">acid</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/e4b2b9f9-713a-4660-93f0-dbda77f4ef15"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/6923c9b5-3cc8-42fd-9896-1dabfd3060c7">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">affinity chromatography</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:broader rdf:resource="http://www.wurvoc.org/miape/db45f825-4103-496a-ae05-55ff3934711e"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/2e9f904c-9eb2-4a39-ba63-0ad37659d9c4">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">agilent</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/2fea56be-6d29-49e4-b307-fb11feec43d8">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">Akta</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/2780068f-79e9-4697-b369-10b6615bbcb3">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">alditol acetate</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/9eaa1ffd-c260-4999-a2ed-d76969653f6b">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">aluminium cap</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/be908b54-0300-48a8-a36d-e0a0e7209d48">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">amide</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/a1c81c95-d623-4e9c-a8b3-155e40521340">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">ammonia</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/e4b2b9f9-713a-4660-93f0-dbda77f4ef15"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/c1776a4c-8a2b-435b-896d-f0501a26a44d">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">analytical LC</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/695ae243-4201-4d48-9cd3-53d38496e4cf">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">anion exchange</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:altLabel xml:lang="en">RP</skos:altLabel>
+	<skos:altLabel xml:lang="en">RP-UPLC</skos:altLabel>
+	<skos:broader rdf:resource="http://www.wurvoc.org/miape/db45f825-4103-496a-ae05-55ff3934711e"/>
+	<skos:narrower rdf:resource="http://www.wurvoc.org/miape/71d2679f-fe16-4a72-a94b-e42273034856"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/8389b5dc-a0be-46bb-acf3-d38fdf7b9b1a">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">anorganic aqueous solution</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/e4b2b9f9-713a-4660-93f0-dbda77f4ef15"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/4ef298f2-2386-4520-b96a-a5f9ce7a928d">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">arabinose</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/da121362-76ca-47f2-94f0-ba296dc3ed8e">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">area</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/953bf06c-2981-411d-ba9c-572f70969967">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">authentic standard</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/8f28ca3b-e050-435a-9d75-6babf4cdc1fb">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">autosampler</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/082ee0ef-f062-4f22-95f4-d834ac3cac2a">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">bar</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/67415909-4f89-4473-8b10-13c7fac8814d">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">BEH</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/cd975e15-b9e5-4b15-a44d-9872825644f6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/83dae8d6-de3d-49b3-b39c-f5b94689a0f3">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">BEH AMIDE Column</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/cd975e15-b9e5-4b15-a44d-9872825644f6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/e8cde320-ecab-4cf3-9714-0883b66d1622">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">brand</skos:prefLabel>
+	<skos:altLabel xml:lang="en">company</skos:altLabel>
+	<skos:altLabel xml:lang="en">manufacturer</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/899979ba-27b8-47c5-9722-08aa58e28a81">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">buffer</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/e4b2b9f9-713a-4660-93f0-dbda77f4ef15"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/1b827d02-fdb1-442e-b802-31290e64a29a">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">C-18</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/cd975e15-b9e5-4b15-a44d-9872825644f6"/>
+	<skos:altLabel xml:lang="en">C18</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/cd036459-8dfe-4fbe-9092-1e0556703978">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">C4</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/cd975e15-b9e5-4b15-a44d-9872825644f6"/>
+	<skos:altLabel xml:lang="en">C-4</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/944f9350-7955-4777-a6f7-686b10f49887">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">C-8</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/cd975e15-b9e5-4b15-a44d-9872825644f6"/>
+	<skos:altLabel xml:lang="en">C8</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/0ceaafb6-4b55-49ef-928c-7726d89487c6">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">calibration</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/24ab4851-7f6f-457d-973a-293b37148fb3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/102a0657-2cbd-4ddf-9fc8-7328cce0ab34">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">Calibration curve</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/73997ee7-7f0e-41ef-83c6-f2708bed7954">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">calibration samples</skos:prefLabel>
+	<skos:altLabel xml:lang="en">Calibrant</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/c1a2c115-4963-4d62-9a52-9e399cf4a340">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">carbopac</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/5d09224a-912c-4992-8827-84f7c3a99e27">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">catalyst</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/c771bd0e-b4ae-4b9e-9305-4320e2cda7e1">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">cation exchange</skos:prefLabel>
+	<skos:broader rdf:resource="http://www.wurvoc.org/miape/db45f825-4103-496a-ae05-55ff3934711e"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/799c4b41-116e-4f09-8fba-728e677b47d5">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">cellulose</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/f09e1456-d2f0-477a-b1e3-3af16c57a773">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">centrifuge</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/98ce076d-32da-4da1-914a-c05bd8300b68">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">channel</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/ac444ac1-1f33-40b7-b9a8-66a9f62ae029">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">charge</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/db45f825-4103-496a-ae05-55ff3934711e">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">chromatography type</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:narrower rdf:resource="http://www.wurvoc.org/miape/77deed1e-8053-4a08-8f17-f2a0dce3635a"/>
+	<skos:narrower rdf:resource="http://www.wurvoc.org/miape/6923c9b5-3cc8-42fd-9896-1dabfd3060c7"/>
+	<skos:narrower rdf:resource="http://www.wurvoc.org/miape/695ae243-4201-4d48-9cd3-53d38496e4cf"/>
+	<skos:narrower rdf:resource="http://www.wurvoc.org/miape/c771bd0e-b4ae-4b9e-9305-4320e2cda7e1"/>
+	<skos:narrower rdf:resource="http://www.wurvoc.org/miape/e770fd9b-f30f-4d14-84c8-c37c01fc4fdc"/>
+	<skos:narrower rdf:resource="http://www.wurvoc.org/miape/42daf852-c7b8-46d9-b33c-b8f7125ba061"/>
+	<skos:narrower rdf:resource="http://www.wurvoc.org/miape/842c4e2c-a9dc-455a-8fa7-044f9f93e50f"/>
+	<skos:narrower rdf:resource="http://www.wurvoc.org/miape/aaa9fffe-0ef7-4218-8c8f-9d12233a242a"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/3ba9d649-2449-448d-94a8-5dfac934e8e1">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">chromeleon</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/d67d28f0-89c9-4907-a933-258038f22bec"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/028869a9-b64f-4b0c-bc47-2ad35ed59d4f">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">cid</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/1b16492e-5b39-4f59-abd8-7a3dd99ea182">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">cleaning</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/7f2d1fa5-bae1-4bb8-b7e5-a33f4b295a88">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">cm/h</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/398a376a-fb36-465c-a2dd-712feef774ed">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">CO2</skos:prefLabel>
+	<skos:altLabel xml:lang="en">carbon dioxide</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/1b2662b2-f488-40fc-838f-146343a3f3d1">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">co-elution</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/cd975e15-b9e5-4b15-a44d-9872825644f6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/b67ff636-0995-435d-8acc-d0a10dbdae1e">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">column dimentions</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/26fb5264-9e70-4f83-b2ba-5a323a767b5f">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">column output</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/ef4396d2-d3a3-4b26-9df1-6501453e4f60"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/36c019c7-f45d-44c5-8f08-32b61422bd40"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c285ce6e-34ff-44ca-b96d-30de6a6b08ab"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/d98b3758-7baf-4ba7-8e1e-f5bbb8042495"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/870224e5-a599-44bb-b664-45cd09fbd560"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/fb1e2bbc-834c-44cf-ae08-898c93eb4880"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/83451cdd-bb35-42fb-af09-99e1b07d2811"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/f5234de9-7cfb-4e42-8bdf-2f75801764dd"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/8a320152-d947-4010-be73-456b5960787e"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/fd15b145-33c1-4c3a-bbbd-25f09b0fd8d8"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c2688b43-3924-42bd-b6b3-72713ac8df51"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/d67d28f0-89c9-4907-a933-258038f22bec"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/275be5c0-7c5e-4004-ba2c-e776f8f9ca2b">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">column oven</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/f078d37b-e91d-4e65-8264-c3c71c4ce290">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">column temperature</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/cd975e15-b9e5-4b15-a44d-9872825644f6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/e0c2b154-154a-4839-af3e-36d94a20cac0">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">combustion</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/3fd1f18f-4cfc-4ecc-8727-dafb294bcedf">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">concentration</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/6bbe8b47-e207-4908-8973-20c92d06e498">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">conductivity</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/cd975e15-b9e5-4b15-a44d-9872825644f6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/072e7a5b-8063-435c-8869-02250f07f6d1">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">control</skos:prefLabel>
+	<skos:altLabel xml:lang="en">blank</skos:altLabel>
+	<skos:altLabel xml:lang="en">comparison</skos:altLabel>
+	<skos:altLabel xml:lang="en">external standard</skos:altLabel>
+	<skos:altLabel xml:lang="en">internal standard</skos:altLabel>
+	<skos:altLabel xml:lang="en">standards</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/2ecfcce8-4830-45ff-840a-f4c0a2e18462">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">copper</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/1e97d9a0-28e0-4d8f-9b6e-f5297a6a1e41">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">country</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/ef4396d2-d3a3-4b26-9df1-6501453e4f60">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">curve</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/26fb5264-9e70-4f83-b2ba-5a323a767b5f"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/5b50d3ee-e13d-4841-81e9-49f669c04af0">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">cut off</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/8d26e86b-2cc7-432f-a89b-5f042437533f">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">CV</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/e4b2b9f9-713a-4660-93f0-dbda77f4ef15"/>
+	<skos:altLabel xml:lang="en">column volume</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/cbe4e051-fd76-45f1-be64-671743317ad6">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">desalting column</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/e63e4e91-a5aa-467d-b281-b6c9d2c05b24">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">detection</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/36c019c7-f45d-44c5-8f08-32b61422bd40">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">detector</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/26fb5264-9e70-4f83-b2ba-5a323a767b5f"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/d67d28f0-89c9-4907-a933-258038f22bec"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/826691e6-4f78-4e5f-b551-e0fc5bd2782b">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">difficult</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/c75ac2e0-a8ee-4cff-848a-4da3df2c48f9">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">dilute</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/e643a563-f775-449b-9a64-f06cf9a18846">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">dionex</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/02611d23-5949-4106-9447-c69f2982993e">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">disperse</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/38aac023-b1f4-433a-a99f-a3d01975c1a5">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">dissolve</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/e4b2b9f9-713a-4660-93f0-dbda77f4ef15"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/7eaeb5a7-b69f-4e7d-b931-c5bc9f25ada4">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">distilled water</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/e4b2b9f9-713a-4660-93f0-dbda77f4ef15"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/c285ce6e-34ff-44ca-b96d-30de6a6b08ab">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">DLS</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/26fb5264-9e70-4f83-b2ba-5a323a767b5f"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:altLabel xml:lang="en">dynamic light scattering</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/9f024bdb-d2cd-4cc0-9946-b6f8a93ba7bb">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">drymatter</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980"/>
+	<skos:altLabel xml:lang="en">DB</skos:altLabel>
+	<skos:altLabel xml:lang="en">DM</skos:altLabel>
+	<skos:altLabel xml:lang="en">dry-matter</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/c91081ff-d78b-492d-a819-6d507c10685c">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">dumas</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/a9f64b17-6bc8-41b4-902a-27bc6d207275">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">duplicate</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980"/>
+	<skos:altLabel xml:lang="en">in duplo</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/ea82b24f-edc5-463d-9ad3-d0915a4ec813">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">elution volume</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/cd975e15-b9e5-4b15-a44d-9872825644f6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/ba126f41-5cbc-427d-bd5d-1762a6877ac2">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">equilibrate</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/24ab4851-7f6f-457d-973a-293b37148fb3"/>
+	<skos:altLabel xml:lang="en">equilibration</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/7b3f294d-cb84-48cf-850b-4cb4590655d9">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">equilibrium</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/24ab4851-7f6f-457d-973a-293b37148fb3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">equipment</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/77deed1e-8053-4a08-8f17-f2a0dce3635a"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/6923c9b5-3cc8-42fd-9896-1dabfd3060c7"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/2e9f904c-9eb2-4a39-ba63-0ad37659d9c4"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/2fea56be-6d29-49e4-b307-fb11feec43d8"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1776a4c-8a2b-435b-896d-f0501a26a44d"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/695ae243-4201-4d48-9cd3-53d38496e4cf"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/082ee0ef-f062-4f22-95f4-d834ac3cac2a"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/67415909-4f89-4473-8b10-13c7fac8814d"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/83dae8d6-de3d-49b3-b39c-f5b94689a0f3"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/1b827d02-fdb1-442e-b802-31290e64a29a"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/cd036459-8dfe-4fbe-9092-1e0556703978"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/944f9350-7955-4777-a6f7-686b10f49887"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/98ce076d-32da-4da1-914a-c05bd8300b68"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/db45f825-4103-496a-ae05-55ff3934711e"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/1b2662b2-f488-40fc-838f-146343a3f3d1"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/b67ff636-0995-435d-8acc-d0a10dbdae1e"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/275be5c0-7c5e-4004-ba2c-e776f8f9ca2b"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/e0c2b154-154a-4839-af3e-36d94a20cac0"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/6bbe8b47-e207-4908-8973-20c92d06e498"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/cbe4e051-fd76-45f1-be64-671743317ad6"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/e63e4e91-a5aa-467d-b281-b6c9d2c05b24"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/36c019c7-f45d-44c5-8f08-32b61422bd40"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/e643a563-f775-449b-9a64-f06cf9a18846"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c285ce6e-34ff-44ca-b96d-30de6a6b08ab"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c91081ff-d78b-492d-a819-6d507c10685c"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/ea82b24f-edc5-463d-9ad3-d0915a4ec813"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/7b3f294d-cb84-48cf-850b-4cb4590655d9"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/067f2606-5883-4231-9fb4-166f281a2c19"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/32f323a7-d35c-452a-89c5-8c372b481999"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/d98b3758-7baf-4ba7-8e1e-f5bbb8042495"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/870224e5-a599-44bb-b664-45cd09fbd560"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/83451cdd-bb35-42fb-af09-99e1b07d2811"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/0b3a4acf-30ee-4a64-8141-260b84d45bc0"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c49eeeab-3973-484e-b4ef-40b64dc924bc"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/48b4c3df-7246-4fda-b44d-0807f3edd205"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/be12cdcb-061c-49c5-8240-2d3b3531811d"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c46d49f3-496e-478e-96e1-3f72d4350c45"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/71d2679f-fe16-4a72-a94b-e42273034856"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/5866b2dc-394a-4a27-8308-51e581f66ea0"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/e770fd9b-f30f-4d14-84c8-c37c01fc4fdc"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/16adb2f8-87dc-4c69-9294-5fc3ce697844"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/5f15078b-b30a-495f-94ad-b81478c555c2"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/1183050a-2e06-4b91-9f25-2aa1dffc456d"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/87a6bdf9-8902-4831-b3ef-30cf945d6e26"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/d37064df-5760-4b7e-8b6a-5dbf3eb767a3"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/42daf852-c7b8-46d9-b33c-b8f7125ba061"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/f9d089a3-7d87-4145-9d7b-308ceb1b85f1"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/0800fcf3-d3b0-43c3-bffa-8f504d4ba65b"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/3c3dbe2b-8bdf-4ad6-a0f2-6d6075214d1b"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/47fbc571-a6d1-42fd-8cbf-28b7a28b08e1"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/66067d0d-2681-4062-b2ee-ff4da46eaef0"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/b8d7e232-3e56-449c-ae4d-0fd71a7bd3a3"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/05c6ca77-6aef-4bbb-8b3c-b71becdd9399"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c2688b43-3924-42bd-b6b3-72713ac8df51"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/4cea18a5-410c-412d-9788-c79fe5c1d248"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/793408ce-7770-43d7-9d2c-11606f41a7ce"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/fd4ecbff-d7ca-486a-889b-948682975905"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/a1d09aa9-e77c-4542-863f-a58701eb85d5"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/bce96bd3-1996-4564-9232-b6c852fd24b9"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/a65c3930-7cd6-46db-bb76-e68bd74f2289"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/fe36284c-4d43-4f96-b064-e466b532e1c9"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/17101868-34d9-47c8-9302-9271c79a20ff"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/79433136-b3cb-4719-bbb5-c6d7321279d7"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/842c4e2c-a9dc-455a-8fa7-044f9f93e50f"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1a28d29-ec77-4588-b2ad-87f7a4fd1ced"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/8db8673a-1ad4-4a9b-898d-87455b073fe8"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/60753ee0-0860-4263-aa3c-f98ef934e956"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/aaa9fffe-0ef7-4218-8c8f-9d12233a242a"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/10b2b35b-2f13-446b-af84-d2a4fbd1fbc5"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/60717f44-72a0-487f-bcdd-5f21b2735d73"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/3322085a-f25e-40ee-bf7c-a4dba5530a7e"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/d2d394b6-8c6a-421f-899d-b57e3c977fa4"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/09356f0f-b302-4646-af5f-222b8ebf3809"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/28a45f41-5207-4238-8b42-564c9150ca35"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/89e678f6-b425-4f07-878b-9895252c7e31"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/dd2acdc7-965d-460f-901d-c0a2688b9a6f"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/a4da7ebc-ba35-4fe4-9d6e-361953a51636"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/f47c3601-ed62-4654-8a4e-30ecc3f23036"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/2a243798-2dd2-4cf8-b56e-9cc88e8ed297"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/acd700dd-1afe-439d-93e6-aac4ca95dceb"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/195421dc-9431-49fc-9b4a-887b2e892d66"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/fd1ee9c0-c8e9-461e-801e-441974476490"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/76cef385-985d-4931-9079-bcafb65d8e98"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/6ad0b60e-db59-45d8-b92e-ed4a5f4f9b5f"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/60809b87-f7d2-48f0-b614-2a0a297f4023"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/e01bd968-ce20-491a-8076-ee1e033f6ba9"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/16c45208-519a-42f3-b459-f637ed56bc4f"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/dc676d1e-4bee-49d5-859d-e453cfff4a05"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/636c9eae-83e3-4c76-a9e3-2089409f4ea6">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">equivalent</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/067f2606-5883-4231-9fb4-166f281a2c19">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">exclusion volume</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/eb0ef52e-6f8f-4521-8fb0-76a44b3c828a">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">extraction</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/b8ccb476-726c-4221-bad3-e92afd41851f">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">filter</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/32f323a7-d35c-452a-89c5-8c372b481999">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">flow rate</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/cd975e15-b9e5-4b15-a44d-9872825644f6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/d98b3758-7baf-4ba7-8e1e-f5bbb8042495">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">Fluorescence</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/26fb5264-9e70-4f83-b2ba-5a323a767b5f"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/b405b802-cf95-4ec0-80e4-ba176bbed213">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">formic acid</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/e4b2b9f9-713a-4660-93f0-dbda77f4ef15"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/870224e5-a599-44bb-b664-45cd09fbd560">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">fraction collector</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/26fb5264-9e70-4f83-b2ba-5a323a767b5f"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/fb1e2bbc-834c-44cf-ae08-898c93eb4880">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">fraction size</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/26fb5264-9e70-4f83-b2ba-5a323a767b5f"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/83451cdd-bb35-42fb-af09-99e1b07d2811">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">fraction volume</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/26fb5264-9e70-4f83-b2ba-5a323a767b5f"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/f5234de9-7cfb-4e42-8bdf-2f75801764dd">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">fractionation</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/26fb5264-9e70-4f83-b2ba-5a323a767b5f"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/f6565ad2-9cb5-448d-8485-c82e8847875a">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">fragmentation</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/d75cffa1-c717-4a7a-940c-aa97afd6fcca">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">fructose</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/2c40095a-9dd6-4e41-82e1-c3ffdd829143">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">fucose</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/89d69a86-32ce-4703-a6a9-1d8a507e30f7">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">galacturonic acid</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/43d7414c-53cb-41e7-8658-119b89e4abbc">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">gas</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/e4b2b9f9-713a-4660-93f0-dbda77f4ef15"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/0b3a4acf-30ee-4a64-8141-260b84d45bc0">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">GC-MS</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/a0118b36-8933-4239-8f5e-67ff65495e7d">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">general feature</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/994d59b6-a9e5-46d2-9325-c8fef7286bd0">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">glucoronic acid</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/64687fba-8d3b-4443-b5f2-de982ad6d55e">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">glucose</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/ad588ded-f5d8-4b2a-8718-4dc119953874">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">gradient</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/cd975e15-b9e5-4b15-a44d-9872825644f6"/>
+	<skos:altLabel xml:lang="en">elution profile</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/8a320152-d947-4010-be73-456b5960787e">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">graph</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/26fb5264-9e70-4f83-b2ba-5a323a767b5f"/>
+	<skos:altLabel xml:lang="en">chromatogram</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/c49eeeab-3973-484e-b4ef-40b64dc924bc">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">guard column</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/cd975e15-b9e5-4b15-a44d-9872825644f6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/83020028-7a9e-4098-b167-ae657ebb0e46">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">He</skos:prefLabel>
+	<skos:altLabel xml:lang="en">helium</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/127d58aa-0c49-4480-ab7f-f90695610048">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">heat</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/48b4c3df-7246-4fda-b44d-0807f3edd205">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">heater</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/be12cdcb-061c-49c5-8240-2d3b3531811d">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">High performance LC</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:altLabel xml:lang="en">HPLC</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/c46d49f3-496e-478e-96e1-3f72d4350c45">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">Hilic</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/71d2679f-fe16-4a72-a94b-e42273034856">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">HPAEC</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:broader rdf:resource="http://www.wurvoc.org/miape/695ae243-4201-4d48-9cd3-53d38496e4cf"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/5866b2dc-394a-4a27-8308-51e581f66ea0">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">HPSEC</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:broader rdf:resource="http://www.wurvoc.org/miape/aaa9fffe-0ef7-4218-8c8f-9d12233a242a"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/e770fd9b-f30f-4d14-84c8-c37c01fc4fdc">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">hydrophobic interaction chromatography</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:altLabel xml:lang="en">reverse phase</skos:altLabel>
+	<skos:broader rdf:resource="http://www.wurvoc.org/miape/db45f825-4103-496a-ae05-55ff3934711e"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/fd15b145-33c1-4c3a-bbbd-25f09b0fd8d8">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">identification</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/26fb5264-9e70-4f83-b2ba-5a323a767b5f"/>
+	<skos:altLabel xml:lang="en">annotate</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/16adb2f8-87dc-4c69-9294-5fc3ce697844">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">injection</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/cd975e15-b9e5-4b15-a44d-9872825644f6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/5f15078b-b30a-495f-94ad-b81478c555c2">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">injection volume</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/cd975e15-b9e5-4b15-a44d-9872825644f6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/e7e07c01-6277-4820-8540-db4e33dea41b">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">inlet</skos:prefLabel>
+	<skos:altLabel xml:lang="en">connected to</skos:altLabel>
+	<skos:altLabel xml:lang="en">connected with</skos:altLabel>
+	<skos:altLabel xml:lang="en">coupled with</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/a37c4def-f404-4397-b6d3-2b7ef7c9fe7f">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">inline</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/122e1fdc-952b-4125-8a2e-abf750ddd7e7">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">inositol</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/1183050a-2e06-4b91-9f25-2aa1dffc456d">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">integration</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/50d4b667-6ef1-4a3c-aa03-7b679fc9a928">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">intensity</skos:prefLabel>
+	<skos:altLabel xml:lang="en">signal intensity</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/87a6bdf9-8902-4831-b3ef-30cf945d6e26">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">ion exchange</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/f9011af9-c82e-4726-8ccd-e0674be4f3f0">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">ionic strenght</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/d37064df-5760-4b7e-8b6a-5dbf3eb767a3">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">isocratic</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/cd975e15-b9e5-4b15-a44d-9872825644f6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/5318e709-21c5-49e3-ad55-927baacd68b9">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">Kw803</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/42daf852-c7b8-46d9-b33c-b8f7125ba061">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">ligand binding chromatography</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:broader rdf:resource="http://www.wurvoc.org/miape/db45f825-4103-496a-ae05-55ff3934711e"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/f9d089a3-7d87-4145-9d7b-308ceb1b85f1">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">light scattering</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:altLabel xml:lang="en">LSD</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/42027e31-c32e-4c1c-9440-1dc8c75eb153">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">limit</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/fc4e4a2a-06e6-4431-8fb3-81e888a4c7a0">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">linear</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/cd975e15-b9e5-4b15-a44d-9872825644f6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/0800fcf3-d3b0-43c3-bffa-8f504d4ba65b">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">MALLS</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/e3e167ae-881c-4fb4-867d-aea304b7ff5d">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">mannose</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/d24db5a2-02c2-4b90-8262-cceea66d23b4">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">mass range</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/3c3dbe2b-8bdf-4ad6-a0f2-6d6075214d1b">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">mass spectroscopy</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:altLabel xml:lang="en">mass spectrometry</skos:altLabel>
+	<skos:altLabel xml:lang="en">MS</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/52803dc7-cf26-47cf-a06d-624d70510375">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">Masslynx</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/d67d28f0-89c9-4907-a933-258038f22bec"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/c5b50acc-8a2a-4afb-b496-8800fd76f37e">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">methanol</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/e4b2b9f9-713a-4660-93f0-dbda77f4ef15"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/96955160-4ed2-47c4-9ddf-3506070ba7b4">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">methionine</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/c5ebce96-8edc-4856-a7e2-d7c29f3fa56b">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">mg/mL</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980"/>
+	<skos:altLabel xml:lang="en">µg/mL</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/72a05a2a-936a-4b4c-8369-d1f440068c1e">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">microlitres</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/7b768aa4-a5d3-4742-ba60-07fb23e2da8f">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">minutes</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/e4b2b9f9-713a-4660-93f0-dbda77f4ef15"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/0f801b65-9d40-4f63-91d0-955ba1fbf085">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">mL</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980"/>
+	<skos:altLabel xml:lang="en">mililitre</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/ae9530bd-b473-4b59-939c-f7651650f5a4">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">mL/min</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/e4b2b9f9-713a-4660-93f0-dbda77f4ef15">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">mobile phase</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/ab4c1389-77a4-4c5c-ae89-fa14d04aeaf1"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/a3b71f08-9927-4b19-93f4-629ab83707c2"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/2e033646-d8cf-4d8a-b2af-504a54616515"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/e626c0b6-3427-4cdc-bc4a-9eb09628ef0d"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/a1c81c95-d623-4e9c-a8b3-155e40521340"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/8389b5dc-a0be-46bb-acf3-d38fdf7b9b1a"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/899979ba-27b8-47c5-9722-08aa58e28a81"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/8d26e86b-2cc7-432f-a89b-5f042437533f"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/38aac023-b1f4-433a-a99f-a3d01975c1a5"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/7eaeb5a7-b69f-4e7d-b931-c5bc9f25ada4"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/b405b802-cf95-4ec0-80e4-ba176bbed213"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/43d7414c-53cb-41e7-8658-119b89e4abbc"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c5b50acc-8a2a-4afb-b496-8800fd76f37e"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/7b768aa4-a5d3-4742-ba60-07fb23e2da8f"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/1b725897-da37-471d-a76d-7c1f7e209a76"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/bba17780-1763-41bd-91c0-cc3bdc4e4439"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/1b727c8a-4e69-4793-b9be-3a5cc466fc98"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/889a4b3b-b131-4cac-b28b-e396031b15ea"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/d87b5225-08da-47f3-b241-ffc458e6e2cf"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/5572ee19-26fd-4d4f-ba92-c6b598d16413"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/5f6d87aa-e31e-4032-b277-918d92568478"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/543f52b9-0233-4bb4-b9b4-b65b80950b0d"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/b3ad5600-4b05-4fee-b85d-55e42c115144"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/996b5cb1-c207-46ae-8caf-7d2fa03059b4"/>
+	<skos:altLabel xml:lang="en">eluent</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/8f1f34f9-9807-40cc-8dec-4ce0918d0671">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">molar</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980"/>
+	<skos:altLabel xml:lang="en">M</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/8d36a325-5054-43c2-9167-9fe12c0eb676">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">monosaccharide</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/1b725897-da37-471d-a76d-7c1f7e209a76">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">MQ</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/e4b2b9f9-713a-4660-93f0-dbda77f4ef15"/>
+	<skos:altLabel xml:lang="en">milliq water</skos:altLabel>
+	<skos:altLabel xml:lang="en">MQ water</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/beb5f4d7-8958-4596-8e10-58ef93cd8832">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">MWCO</skos:prefLabel>
+	<skos:altLabel xml:lang="en">molecular mass</skos:altLabel>
+	<skos:altLabel xml:lang="en">molecular weight</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/7d6313ff-4180-40bc-85b3-1f628ce1bc8a">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">N2</skos:prefLabel>
+	<skos:altLabel xml:lang="en">nitrogen</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/47fbc571-a6d1-42fd-8cbf-28b7a28b08e1">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">Nano LC</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:altLabel xml:lang="en">nano liquid chromatography</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/0e0ba642-3460-4a66-82ce-9afaa5d0846c">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">nanometer</skos:prefLabel>
+	<skos:altLabel xml:lang="en">nm</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/d71b8426-f802-4d9a-be42-4ee17397254f">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">NaOH</skos:prefLabel>
+	<skos:altLabel xml:lang="en">sodium hydroxide</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/66067d0d-2681-4062-b2ee-ff4da46eaef0">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">needle wash</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/24ab4851-7f6f-457d-973a-293b37148fb3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/58049e08-9a8f-42d7-b546-762f52175c51">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">neutral</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980"/>
+	<skos:altLabel xml:lang="en">non-charged</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/fd108cba-8ca7-4b12-b7b0-1f0f4eb1a40e">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">neutral oligosaccharides</skos:prefLabel>
+	<skos:altLabel xml:lang="en">non-charged oligosaccharides</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/5b63d600-6832-4631-82b3-5ab497facc67">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">non-reducing</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/b8d7e232-3e56-449c-ae4d-0fd71a7bd3a3">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">normal phase</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/cd975e15-b9e5-4b15-a44d-9872825644f6"/>
+	<skos:altLabel xml:lang="en">NP</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/da1e5933-da4e-4950-bf23-5ae7c8e83232">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">offline</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/34d91cf8-4696-4984-a66c-077546744b2c">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">oligosaccharide</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/d947764b-f3f4-42d0-ad66-6e76b5fa35c6">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">online</skos:prefLabel>
+	<skos:altLabel xml:lang="en">real-time</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/bba17780-1763-41bd-91c0-cc3bdc4e4439">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">organic acid</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/e4b2b9f9-713a-4660-93f0-dbda77f4ef15"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/1b727c8a-4e69-4793-b9be-3a5cc466fc98">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">organic solvent</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/e4b2b9f9-713a-4660-93f0-dbda77f4ef15"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/46ad6c7d-9d53-456d-a9aa-f7053677d552">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">outlet</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/05c6ca77-6aef-4bbb-8b3c-b71becdd9399">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">oven</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/19a2d7fb-6afe-4430-9fd6-21f4eb5a942e">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">oven temperature</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/cd975e15-b9e5-4b15-a44d-9872825644f6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/9bf049b6-25ae-438d-815b-bf8ba70d8a65">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">oxygen</skos:prefLabel>
+	<skos:altLabel xml:lang="en">O2</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/c17e430a-134b-4254-9c9f-a05acf04a3d6">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">pascal</skos:prefLabel>
+	<skos:altLabel xml:lang="en">Pa</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/c2688b43-3924-42bd-b6b3-72713ac8df51">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">PDA</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/26fb5264-9e70-4f83-b2ba-5a323a767b5f"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/d67d28f0-89c9-4907-a933-258038f22bec"/>
+	<skos:altLabel xml:lang="en">Photo diode array</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/27589fb3-2a70-4af9-ba25-d260cfe839a8">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">peak</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/d67d28f0-89c9-4907-a933-258038f22bec"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/557f9aad-6683-4fe5-81fe-07258fdc659d">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">peak area</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/d67d28f0-89c9-4907-a933-258038f22bec"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/889a4b3b-b131-4cac-b28b-e396031b15ea">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">pH</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/e4b2b9f9-713a-4660-93f0-dbda77f4ef15"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/d87b5225-08da-47f3-b241-ffc458e6e2cf">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">phase</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/e4b2b9f9-713a-4660-93f0-dbda77f4ef15"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/5572ee19-26fd-4d4f-ba92-c6b598d16413">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">phosphate</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/e4b2b9f9-713a-4660-93f0-dbda77f4ef15"/>
+	<skos:altLabel xml:lang="en">PO4</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/3576e0e4-a657-474b-9440-f9002ca50305">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">place</skos:prefLabel>
+	<skos:altLabel xml:lang="en">location</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/ea99c742-1006-4bc9-a7ed-c37c7325c2a7">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">polyphenols</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980"/>
+	<skos:altLabel xml:lang="en">phenolics</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/af4c279b-3499-4bd5-9015-9fde038790b4">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">polysaccharide</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/4cea18a5-410c-412d-9788-c79fe5c1d248">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">pore size</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:altLabel xml:lang="en">poresize</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/05847152-0d12-4cb9-999d-58e1192ef26b">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">post column</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/cd975e15-b9e5-4b15-a44d-9872825644f6"/>
+	<skos:altLabel xml:lang="en">post-column</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/d67d28f0-89c9-4907-a933-258038f22bec">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">post run process</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/3ba9d649-2449-448d-94a8-5dfac934e8e1"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/26fb5264-9e70-4f83-b2ba-5a323a767b5f"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/36c019c7-f45d-44c5-8f08-32b61422bd40"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/52803dc7-cf26-47cf-a06d-624d70510375"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c2688b43-3924-42bd-b6b3-72713ac8df51"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/27589fb3-2a70-4af9-ba25-d260cfe839a8"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/557f9aad-6683-4fe5-81fe-07258fdc659d"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/24b727e4-9354-4329-b34f-b69ed0c3f497"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/09356f0f-b302-4646-af5f-222b8ebf3809"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/195421dc-9431-49fc-9b4a-887b2e892d66"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/24ab4851-7f6f-457d-973a-293b37148fb3">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">pre run process</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/0ceaafb6-4b55-49ef-928c-7726d89487c6"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/ba126f41-5cbc-427d-bd5d-1762a6877ac2"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/7b3f294d-cb84-48cf-850b-4cb4590655d9"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/66067d0d-2681-4062-b2ee-ff4da46eaef0"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/19cb92b1-595a-457d-a988-d006977e6c28"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/84a713c6-dc04-4f33-a535-ce2e1c2b7b5f"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/fe36284c-4d43-4f96-b064-e466b532e1c9"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/dbcba93c-872a-4edb-8e16-a50fa2a9d566"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/97282d89-17b6-4335-8667-ad46d6ba95a5"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/793408ce-7770-43d7-9d2c-11606f41a7ce">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">pre-column</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/cd975e15-b9e5-4b15-a44d-9872825644f6"/>
+	<skos:altLabel xml:lang="en">pre column</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/19cb92b1-595a-457d-a988-d006977e6c28">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">preparation</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/24ab4851-7f6f-457d-973a-293b37148fb3"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/8b91bc9a-86a1-4007-b7dd-e6d850c23095">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">preparative</skos:prefLabel>
+	<skos:altLabel xml:lang="en">medium scale</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/fd4ecbff-d7ca-486a-889b-948682975905">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">preparative LC</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:altLabel xml:lang="en">preparative liquid chromatography</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/a1d09aa9-e77c-4542-863f-a58701eb85d5">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">pressure</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/cd975e15-b9e5-4b15-a44d-9872825644f6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/bce96bd3-1996-4564-9232-b6c852fd24b9">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">pressure detector</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/cd975e15-b9e5-4b15-a44d-9872825644f6">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">properties of the column run</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/67415909-4f89-4473-8b10-13c7fac8814d"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/83dae8d6-de3d-49b3-b39c-f5b94689a0f3"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/1b827d02-fdb1-442e-b802-31290e64a29a"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/cd036459-8dfe-4fbe-9092-1e0556703978"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/944f9350-7955-4777-a6f7-686b10f49887"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/1b2662b2-f488-40fc-838f-146343a3f3d1"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/f078d37b-e91d-4e65-8264-c3c71c4ce290"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/6bbe8b47-e207-4908-8973-20c92d06e498"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/ea82b24f-edc5-463d-9ad3-d0915a4ec813"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/32f323a7-d35c-452a-89c5-8c372b481999"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/ad588ded-f5d8-4b2a-8718-4dc119953874"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c49eeeab-3973-484e-b4ef-40b64dc924bc"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/16adb2f8-87dc-4c69-9294-5fc3ce697844"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/5f15078b-b30a-495f-94ad-b81478c555c2"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/d37064df-5760-4b7e-8b6a-5dbf3eb767a3"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/fc4e4a2a-06e6-4431-8fb3-81e888a4c7a0"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/b8d7e232-3e56-449c-ae4d-0fd71a7bd3a3"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/19a2d7fb-6afe-4430-9fd6-21f4eb5a942e"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/05847152-0d12-4cb9-999d-58e1192ef26b"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/793408ce-7770-43d7-9d2c-11606f41a7ce"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/a1d09aa9-e77c-4542-863f-a58701eb85d5"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/79433136-b3cb-4719-bbb5-c6d7321279d7"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/842c4e2c-a9dc-455a-8fa7-044f9f93e50f"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/743213cb-56ad-411a-b093-f5758400eb6c"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/10b2b35b-2f13-446b-af84-d2a4fbd1fbc5"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/28a45f41-5207-4238-8b42-564c9150ca35"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/dd2acdc7-965d-460f-901d-c0a2688b9a6f"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/f47c3601-ed62-4654-8a4e-30ecc3f23036"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/84a713c6-dc04-4f33-a535-ce2e1c2b7b5f">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">protocol</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/24ab4851-7f6f-457d-973a-293b37148fb3"/>
+	<skos:altLabel xml:lang="en">procedure</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/686a1918-b638-4a9e-a7a3-a73fa34b61b0">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">psi</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/a65c3930-7cd6-46db-bb76-e68bd74f2289">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">pump</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/fe36284c-4d43-4f96-b064-e466b532e1c9">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">purging</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/24ab4851-7f6f-457d-973a-293b37148fb3"/>
+	<skos:altLabel xml:lang="en">flushing</skos:altLabel>
+	<skos:altLabel xml:lang="en">purge</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/dbcba93c-872a-4edb-8e16-a50fa2a9d566">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">purification</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/24ab4851-7f6f-457d-973a-293b37148fb3"/>
+	<skos:altLabel xml:lang="en">isolation</skos:altLabel>
+	<skos:altLabel xml:lang="en">purifying</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/24b727e4-9354-4329-b34f-b69ed0c3f497">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">quantification</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/d67d28f0-89c9-4907-a933-258038f22bec"/>
+	<skos:altLabel xml:lang="en">amounts were determined</skos:altLabel>
+	<skos:altLabel xml:lang="en">area under the curve</skos:altLabel>
+	<skos:altLabel xml:lang="en">quantify</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/a8f30d8c-21c5-474d-952e-5d9fb4533564">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">reducing</skos:prefLabel>
+	<skos:altLabel xml:lang="en">break disulfide bridges</skos:altLabel>
+	<skos:altLabel xml:lang="en">reduction</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/17101868-34d9-47c8-9302-9271c79a20ff">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">resolution</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:altLabel xml:lang="en">quality</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/a74852ec-2447-4188-8f8f-827ca522d6d1">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">result</skos:prefLabel>
+	<skos:altLabel xml:lang="en">data</skos:altLabel>
+	<skos:altLabel xml:lang="en">end result</skos:altLabel>
+	<skos:altLabel xml:lang="en">outcome</skos:altLabel>
+	<skos:altLabel xml:lang="en">output</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/79433136-b3cb-4719-bbb5-c6d7321279d7">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">retention time</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/cd975e15-b9e5-4b15-a44d-9872825644f6"/>
+	<skos:altLabel xml:lang="en">elution time</skos:altLabel>
+	<skos:altLabel xml:lang="en">RT</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/842c4e2c-a9dc-455a-8fa7-044f9f93e50f">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">reversed phase</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/cd975e15-b9e5-4b15-a44d-9872825644f6"/>
+	<skos:altLabel xml:lang="en">RP</skos:altLabel>
+	<skos:broader rdf:resource="http://www.wurvoc.org/miape/db45f825-4103-496a-ae05-55ff3934711e"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/c1a28d29-ec77-4588-b2ad-87f7a4fd1ced">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">RI</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:altLabel xml:lang="en">refractive index</skos:altLabel>
+	<skos:altLabel xml:lang="en">RI</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/bd7da3fa-6680-49f6-b919-d1408a3807c1">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">room temperature</skos:prefLabel>
+	<skos:altLabel xml:lang="en">25 degrees</skos:altLabel>
+	<skos:altLabel xml:lang="en">ambient temperature</skos:altLabel>
+	<skos:altLabel xml:lang="en">rt</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/8db8673a-1ad4-4a9b-898d-87455b073fe8">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">run time</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">sample</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/ab4c1389-77a4-4c5c-ae89-fa14d04aeaf1"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/4ef298f2-2386-4520-b96a-a5f9ce7a928d"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/5d09224a-912c-4992-8827-84f7c3a99e27"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/799c4b41-116e-4f09-8fba-728e677b47d5"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/f09e1456-d2f0-477a-b1e3-3af16c57a773"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/1b16492e-5b39-4f59-abd8-7a3dd99ea182"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/3fd1f18f-4cfc-4ecc-8727-dafb294bcedf"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/1e97d9a0-28e0-4d8f-9b6e-f5297a6a1e41"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c75ac2e0-a8ee-4cff-848a-4da3df2c48f9"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/02611d23-5949-4106-9447-c69f2982993e"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/38aac023-b1f4-433a-a99f-a3d01975c1a5"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/9f024bdb-d2cd-4cc0-9946-b6f8a93ba7bb"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/a9f64b17-6bc8-41b4-902a-27bc6d207275"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/eb0ef52e-6f8f-4521-8fb0-76a44b3c828a"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/b8ccb476-726c-4221-bad3-e92afd41851f"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/83451cdd-bb35-42fb-af09-99e1b07d2811"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/d75cffa1-c717-4a7a-940c-aa97afd6fcca"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/2c40095a-9dd6-4e41-82e1-c3ffdd829143"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/89d69a86-32ce-4703-a6a9-1d8a507e30f7"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/64687fba-8d3b-4443-b5f2-de982ad6d55e"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/127d58aa-0c49-4480-ab7f-f90695610048"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/122e1fdc-952b-4125-8a2e-abf750ddd7e7"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/e3e167ae-881c-4fb4-867d-aea304b7ff5d"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c5ebce96-8edc-4856-a7e2-d7c29f3fa56b"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/0f801b65-9d40-4f63-91d0-955ba1fbf085"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/8f1f34f9-9807-40cc-8dec-4ce0918d0671"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/58049e08-9a8f-42d7-b546-762f52175c51"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/5b63d600-6832-4631-82b3-5ab497facc67"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/34d91cf8-4696-4984-a66c-077546744b2c"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/bba17780-1763-41bd-91c0-cc3bdc4e4439"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/1b727c8a-4e69-4793-b9be-3a5cc466fc98"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/ea99c742-1006-4bc9-a7ed-c37c7325c2a7"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/af4c279b-3499-4bd5-9015-9fde038790b4"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/19cb92b1-595a-457d-a988-d006977e6c28"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/97282d89-17b6-4335-8667-ad46d6ba95a5"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/62b825ec-19f2-4e86-af5a-7068138f2f7e"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c2c947c6-cb0f-4f66-9ae9-5e2848975e57"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/5fbec029-5091-4e6d-83cc-4af94c42b17d"/>
+	<skos:altLabel xml:lang="en">specimen</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/97282d89-17b6-4335-8667-ad46d6ba95a5">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">sample preparation</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/24ab4851-7f6f-457d-973a-293b37148fb3"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980"/>
+	<skos:altLabel xml:lang="en">sample pre-treatment</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/60753ee0-0860-4263-aa3c-f98ef934e956">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">sample tray</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/aaa9fffe-0ef7-4218-8c8f-9d12233a242a">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">SEC</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:altLabel xml:lang="en">size exclusion</skos:altLabel>
+	<skos:altLabel xml:lang="en">size exclusion chromatography</skos:altLabel>
+	<skos:broader rdf:resource="http://www.wurvoc.org/miape/db45f825-4103-496a-ae05-55ff3934711e"/>
+	<skos:narrower rdf:resource="http://www.wurvoc.org/miape/5866b2dc-394a-4a27-8308-51e581f66ea0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/743213cb-56ad-411a-b093-f5758400eb6c">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">separation</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/cd975e15-b9e5-4b15-a44d-9872825644f6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/10b2b35b-2f13-446b-af84-d2a4fbd1fbc5">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">sequence</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/cd975e15-b9e5-4b15-a44d-9872825644f6"/>
+	<skos:altLabel xml:lang="en">elution order</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/60717f44-72a0-487f-bcdd-5f21b2735d73">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">signal</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/3322085a-f25e-40ee-bf7c-a4dba5530a7e">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">silica</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/d2d394b6-8c6a-421f-899d-b57e3c977fa4">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">size</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/09356f0f-b302-4646-af5f-222b8ebf3809">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">software</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/d67d28f0-89c9-4907-a933-258038f22bec"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/62b825ec-19f2-4e86-af5a-7068138f2f7e">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">solubilize</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/5f6d87aa-e31e-4032-b277-918d92568478">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">solvent</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/e4b2b9f9-713a-4660-93f0-dbda77f4ef15"/>
+	<skos:altLabel xml:lang="en">eluent</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/190d4c76-a1fa-44b8-ba95-84c557ab21f2">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">state</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/28a45f41-5207-4238-8b42-564c9150ca35">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">stationary phase</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/cd975e15-b9e5-4b15-a44d-9872825644f6"/>
+	<skos:altLabel xml:lang="en">column material</skos:altLabel>
+	<skos:altLabel xml:lang="en">column packing</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/9e674f75-bdef-4919-88fc-df7de30a0e02">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">stirr</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/c2c947c6-cb0f-4f66-9ae9-5e2848975e57">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">sugar</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980"/>
+	<skos:altLabel xml:lang="en">carbohydrate</skos:altLabel>
+	<skos:altLabel xml:lang="en">saccharide</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/d1329f59-cd42-4478-8e82-12dc9007bcb9">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">superdex</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/f381b9dc-b836-4c1f-aaa0-3f1b503dca6d">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">Superdex 200</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/b0e6a9d3-dda0-49fb-9997-13a9314302e8">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">Superdex 75</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/a5aa0fad-ec55-488a-bdfb-ef897d464236">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">supernatant</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/55a2b490-3314-4ceb-8f01-58eebf8ce64d">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">supply</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/89e678f6-b425-4f07-878b-9895252c7e31">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">syringe</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/dd2acdc7-965d-460f-901d-c0a2688b9a6f">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">temperature</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/cd975e15-b9e5-4b15-a44d-9872825644f6"/>
+	<skos:altLabel xml:lang="en">°C</skos:altLabel>
+	<skos:altLabel xml:lang="en">degree celsius</skos:altLabel>
+	<skos:altLabel xml:lang="en">T</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/543f52b9-0233-4bb4-b9b4-b65b80950b0d">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">TFA</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/e4b2b9f9-713a-4660-93f0-dbda77f4ef15"/>
+	<skos:altLabel xml:lang="en">trifluoracetic acid</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/a4da7ebc-ba35-4fe4-9d6e-361953a51636">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">Thermo scientific</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/b8c1aaae-f433-4164-ade2-37f023727148">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">time shifting</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/f47c3601-ed62-4654-8a4e-30ecc3f23036">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">tray temperature</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/cd975e15-b9e5-4b15-a44d-9872825644f6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/2a243798-2dd2-4cf8-b56e-9cc88e8ed297">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">tune file</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/acd700dd-1afe-439d-93e6-aac4ca95dceb">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">U(H)PLC</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:altLabel xml:lang="en">UHPLC</skos:altLabel>
+	<skos:altLabel xml:lang="en">ultra high performance</skos:altLabel>
+	<skos:altLabel xml:lang="en">UPLC</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/b3ad5600-4b05-4fee-b85d-55e42c115144">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">Urea</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/e4b2b9f9-713a-4660-93f0-dbda77f4ef15"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/26ee1021-33e7-445d-b9fd-11e58ee9a0e1">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">uronic acid</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/195421dc-9431-49fc-9b4a-887b2e892d66">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">UV</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/d67d28f0-89c9-4907-a933-258038f22bec"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/ac7feea7-5fa9-487a-8451-9d48856b2247">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">V0</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/fd1ee9c0-c8e9-461e-801e-441974476490">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">vacuum</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/76cef385-985d-4931-9079-bcafb65d8e98">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">valve</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/6ad0b60e-db59-45d8-b92e-ed4a5f4f9b5f">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">vial</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/60809b87-f7d2-48f0-b614-2a0a297f4023">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">vials</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/daa62fc9-099c-4b85-bdde-340d17691adb">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">volume</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/1e21f3f7-2223-466b-b7d1-24760588fbe2">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">Vt</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/996b5cb1-c207-46ae-8caf-7d2fa03059b4">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">water</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/e4b2b9f9-713a-4660-93f0-dbda77f4ef15"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/e01bd968-ce20-491a-8076-ee1e033f6ba9">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">waters</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/16c45208-519a-42f3-b459-f637ed56bc4f">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">wavelength</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/4e331a9e-0de0-484f-9887-8ad9182f6337">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">weigh in</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/dc676d1e-4bee-49d5-859d-e453cfff4a05">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">Xcalibur</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/c1827126-3fc9-4e8d-a87e-4418a386c959"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.wurvoc.org/miape/5fbec029-5091-4e6d-83cc-4af94c42b17d">
+<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+<skos:inScheme rdf:resource="http://www.wurvoc.org/miape/"/>
+<skos:prefLabel xml:lang="en">xylose</skos:prefLabel>
+	<skos:related rdf:resource="http://www.wurvoc.org/miape/70ae7b00-407e-4840-93a4-911b0d209980"/>
+</rdf:Description>
+
+
+</rdf:RDF>

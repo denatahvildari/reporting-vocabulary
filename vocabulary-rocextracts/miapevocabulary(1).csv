@@ -1,0 +1,238 @@
+Label,Synonyms,Parent(s),Children,RelatedTo
+%,,,,mobile phase; sample
+2D chromatography,,chromatography type,,equipment
+abundance,amount; Occurrence; quantity,,,
+acetic acid,,,,mobile phase
+Acetonitrile,AcN,,,mobile phase
+acid,,,,mobile phase
+affinity chromatography,,chromatography type,,equipment
+agilent,,,,equipment
+Akta,,,,equipment
+alditol acetate,,,,
+aluminium cap,,,,
+amide,,,,
+ammonia,,,,mobile phase
+analytical LC,,,,equipment
+anion exchange,RP-UPLC; RP,chromatography type,HPAEC,equipment
+anorganic aqueous solution,,,,mobile phase
+arabinose,,,,sample
+area,,,,
+authentic standard,,,,
+autosampler,,,,
+bar,,,,equipment
+BEH,,,,properties of the column run; equipment
+BEH AMIDE Column,,,,properties of the column run; equipment
+brand,manufacturer; company,,,
+buffer,,,,mobile phase
+C-18,C18,,,properties of the column run; equipment
+C4,C-4,,,properties of the column run; equipment
+C-8,C8,,,properties of the column run; equipment
+calibration,,,,pre run process
+Calibration curve,,,,
+calibration samples,Calibrant,,,
+carbopac,,,,
+catalyst,,,,sample
+cation exchange,,chromatography type,,
+cellulose,,,,sample
+centrifuge,,,,sample
+channel,,,,equipment
+charge,,,,
+chromatography type,,,2D chromatography; anion exchange; ligand binding chromatography; reversed phase; cation exchange; affinity chromatography; hydrophobic interaction chromatography; SEC,equipment
+chromeleon,,,,post run process
+cid,,,,
+cleaning,,,,sample
+cm/h,,,,
+CO2,carbon dioxide,,,
+co-elution,,,,properties of the column run; equipment
+column dimentions,,,,equipment
+column output,,,,fractionation; post run process; graph; fraction collector; identification; fraction size; DLS; Fluorescence; fraction volume; PDA; curve; detector
+column oven,,,,equipment
+column temperature,,,,properties of the column run
+combustion,,,,equipment
+concentration,,,,sample
+conductivity,,,,properties of the column run; equipment
+control,comparison; standards; external standard; internal standard; blank,,,
+copper,,,,
+country,,,,sample
+curve,,,,column output
+cut off,,,,
+CV,column volume,,,mobile phase
+desalting column,,,,equipment
+detection,,,,equipment
+detector,,,,post run process; equipment; column output
+difficult,,,,
+dilute,,,,sample
+dionex,,,,equipment
+disperse,,,,sample
+dissolve,,,,mobile phase; sample
+distilled water,,,,mobile phase
+DLS,dynamic light scattering,,,equipment; column output
+drymatter,DM; DB; dry-matter,,,sample
+dumas,,,,equipment
+duplicate,in duplo,,,sample
+elution volume,,,,properties of the column run; equipment
+equilibrate,equilibration,,,pre run process
+equilibrium,,,,equipment; pre run process
+equipment,,,,resolution; HPSEC; guard column; exclusion volume; injection volume; injection; Akta; tray temperature; column dimentions; Hilic; C-18; oven; 2D chromatography; RI; dionex; equilibrium; anion exchange; C-8; HPAEC; pre-column; waters; ion exchange; needle wash; valve; detection; Xcalibur; BEH AMIDE Column; conductivity; signal; silica; stationary phase; BEH; isocratic; vial; fraction collector; pressure; ligand binding chromatography; bar; pressure detector; wavelength; mass spectroscopy; pump; DLS; Fluorescence; sequence; UV; U(H)PLC; reversed phase; normal phase; High performance LC; light scattering; vials; purging; co-elution; elution volume; channel; MALLS; chromatography type; affinity chromatography; temperature; fraction volume; column oven; desalting column; hydrophobic interaction chromatography; retention time; software; analytical LC; C4; agilent; dumas; run time; PDA; integration; size; heater; Thermo scientific; sample tray; syringe; GC-MS; pore size; flow rate; vacuum; de
+equivalent,,,,
+exclusion volume,,,,equipment
+extraction,,,,sample
+filter,,,,sample
+flow rate,,,,properties of the column run; equipment
+Fluorescence,,,,equipment; column output
+formic acid,,,,mobile phase
+fraction collector,,,,equipment; column output
+fraction size,,,,column output
+fraction volume,,,,sample; equipment; column output
+fractionation,,,,column output
+fragmentation,,,,
+fructose,,,,sample
+fucose,,,,sample
+galacturonic acid,,,,sample
+gas,,,,mobile phase
+GC-MS,,,,equipment
+general feature,,,,
+glucoronic acid,,,,
+glucose,,,,sample
+gradient,elution profile,,,properties of the column run
+graph,chromatogram,,,column output
+guard column,,,,properties of the column run; equipment
+He,helium,,,
+heat,,,,sample
+heater,,,,equipment
+High performance LC,HPLC,,,equipment
+Hilic,,,,equipment
+HPAEC,,anion exchange,,equipment
+HPSEC,,SEC,,equipment
+hydrophobic interaction chromatography,reverse phase,chromatography type,,equipment
+identification,annotate,,,column output
+injection,,,,properties of the column run; equipment
+injection volume,,,,properties of the column run; equipment
+inlet,coupled with; connected with; connected to,,,
+inline,,,,
+inositol,,,,sample
+integration,,,,equipment
+intensity,signal intensity,,,
+ion exchange,,,,equipment
+ionic strenght,,,,
+isocratic,,,,properties of the column run; equipment
+Kw803,,,,
+ligand binding chromatography,,chromatography type,,equipment
+light scattering,LSD,,,equipment
+limit,,,,
+linear,,,,properties of the column run
+MALLS,,,,equipment
+mannose,,,,sample
+mass range,,,,
+mass spectroscopy,mass spectrometry; MS,,,equipment
+Masslynx,,,,post run process
+methanol,,,,mobile phase
+methionine,,,,
+mg/mL,µg/mL,,,sample
+microlitres,,,,
+minutes,,,,mobile phase
+mL,mililitre,,,sample
+mL/min,,,,
+mobile phase,eluent,,,water; ammonia; formic acid; Urea; phase; solvent; TFA; minutes; distilled water; %; phosphate; pH; gas; buffer; organic solvent; CV; MQ; anorganic aqueous solution; methanol; organic acid; acid; dissolve; acetic acid; Acetonitrile
+molar,M,,,sample
+monosaccharide,,,,
+MQ,MQ water; milliq water,,,mobile phase
+MWCO,molecular mass; molecular weight,,,
+N2,nitrogen,,,
+Nano LC,nano liquid chromatography,,,equipment
+nanometer,nm,,,
+NaOH,sodium hydroxide,,,
+needle wash,,,,equipment; pre run process
+neutral,non-charged,,,sample
+neutral oligosaccharides,non-charged oligosaccharides,,,
+non-reducing,,,,sample
+normal phase,NP,,,properties of the column run; equipment
+offline,,,,
+oligosaccharide,,,,sample
+online,real-time,,,
+organic acid,,,,mobile phase; sample
+organic solvent,,,,mobile phase; sample
+outlet,,,,
+oven,,,,equipment
+oven temperature,,,,properties of the column run
+oxygen,O2,,,
+pascal,Pa,,,
+PDA,Photo diode array,,,post run process; equipment; column output
+peak,,,,post run process
+peak area,,,,post run process
+pH,,,,mobile phase
+phase,,,,mobile phase
+phosphate,PO4,,,mobile phase
+place,location,,,
+polyphenols,phenolics,,,sample
+polysaccharide,,,,sample
+pore size,poresize,,,equipment
+post column,post-column,,,properties of the column run
+post run process,,,,peak; peak area; chromeleon; Masslynx; UV; software; PDA; column output; quantification; detector
+pre run process,,,,calibration; equilibrium; needle wash; preparation; sample preparation; purging; purification; equilibrate; protocol
+pre-column,pre column,,,properties of the column run; equipment
+preparation,,,,sample; pre run process
+preparative,medium scale,,,
+preparative LC,preparative liquid chromatography,,,equipment
+pressure,,,,properties of the column run; equipment
+pressure detector,,,,equipment
+properties of the column run,,,,separation; gradient; guard column; linear; injection volume; injection; column temperature; tray temperature; C-18; post column; C-8; pre-column; oven temperature; BEH AMIDE Column; conductivity; stationary phase; BEH; isocratic; pressure; sequence; reversed phase; normal phase; co-elution; elution volume; temperature; retention time; C4; flow rate
+protocol,procedure,,,pre run process
+psi,,,,
+pump,,,,equipment
+purging,purge; flushing,,,equipment; pre run process
+purification,isolation; purifying,,,pre run process
+quantification,area under the curve; amounts were determined; quantify,,,post run process
+reducing,reduction; break disulfide bridges,,,
+resolution,quality,,,equipment
+result,output; end result; outcome; data,,,
+retention time,elution time; RT,,,properties of the column run; equipment
+reversed phase,RP,chromatography type,,properties of the column run; equipment
+RI,RI; refractive index,,,equipment
+room temperature,rt; 25 degrees; ambient temperature,,,
+run time,,,,equipment
+sample,specimen,,,extraction; oligosaccharide; mL; filter; inositol; polysaccharide; preparation; molar; sample preparation; cleaning; xylose; concentration; polyphenols; sugar; glucose; solubilize; non-reducing; %; mannose; drymatter; disperse; fucose; fraction volume; arabinose; duplicate; cellulose; heat; mg/mL; centrifuge; organic solvent; galacturonic acid; neutral; organic acid; country; fructose; dissolve; catalyst; dilute
+sample preparation,sample pre-treatment,,,sample; pre run process
+sample tray,,,,equipment
+SEC,size exclusion chromatography; size exclusion,chromatography type,HPSEC,equipment
+separation,,,,properties of the column run
+sequence,elution order,,,properties of the column run; equipment
+signal,,,,equipment
+silica,,,,equipment
+size,,,,equipment
+software,,,,post run process; equipment
+solubilize,,,,sample
+solvent,eluent,,,mobile phase
+state,,,,
+stationary phase,column material; column packing,,,properties of the column run; equipment
+stirr,,,,
+sugar,carbohydrate; saccharide,,,sample
+superdex,,,,
+Superdex 200,,,,
+Superdex 75,,,,
+supernatant,,,,
+supply,,,,
+syringe,,,,equipment
+temperature,T; °C; degree celsius,,,properties of the column run; equipment
+TFA,trifluoracetic acid,,,mobile phase
+Thermo scientific,,,,equipment
+time shifting,,,,
+tray temperature,,,,properties of the column run; equipment
+tune file,,,,equipment
+U(H)PLC,UPLC; ultra high performance; UHPLC,,,equipment
+Urea,,,,mobile phase
+uronic acid,,,,
+UV,,,,post run process; equipment
+V0,,,,
+vacuum,,,,equipment
+valve,,,,equipment
+vial,,,,equipment
+vials,,,,equipment
+volume,,,,
+Vt,,,,
+water,,,,mobile phase
+waters,,,,equipment
+wavelength,,,,equipment
+weigh in,,,,
+Xcalibur,,,,equipment
+xylose,,,,sample

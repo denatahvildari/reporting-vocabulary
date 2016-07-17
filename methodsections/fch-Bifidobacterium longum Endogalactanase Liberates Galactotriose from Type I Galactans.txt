@@ -1,0 +1,70 @@
+MATERIALS AND METHODSBacterial strains and growth conditions. Bifidobacterium longum strainNCC490 was kindly provided by the Nestle´ Research Centre (Lausanne, Switzerland).The strain was grown anaerobically using MRS medium, pH 6.0 (BectonDickinson, Franklin Lakes, New Jersey) supplemented with 0.5 g/liter cysteineat 37°C. DNA cloning was performed using the Escherichia coli strainXL1-Blue MRF (Promega, Madison, Wisconsin). The E. coli strain was grownin Luria-Bertani (LB) broth or solidified LB medium (15 g agar/l) supplementedwith 100 g/ml ampicillin, when appropriate.The E. coli cells containing the galA gene were grown in LB broth or solidifiedLB medium, supplemented with 100 g/ml ampicillin and 1 mM isopropyl -Dthiogalactopyranoside(IPTG).Chemicals, substrates, and enzymes. Chemicals were purchased from Sigma(St. Louis, MO), unless stated otherwise. Potato arabinogalactan was obtained asdescribed by van de Vis (40). Azurine-cross-linked galactan (AZCL-galactan)was purchased from Megazyme (Bray, Ireland). Endogalactanase from Aspergillusaculeatus was purified as described by van de Vis et al. (41). Arabinofuranosidasefrom Aspergillus niger was purchased from Megazyme. Restriction enzymesand other enzymes used for DNA manipulation were obtained from MBIFermentas (St. Leon Rot, Germany) and were used according to the instructionsof the manufacturer. The mixture of transgalactooligosaccharides (TOS) waskindly provided by Borculo Domo Ingredients (Zwolle, The Netherlands) andwas fractionated as described by Van Laere et al. (43). [-D-Galp-(134)]m-DGalpand [-D-Galp-(134)]n--D-Galp-(133)-D-Galp oligosaccharides, with m 1 to 3 and n  1 or 2, were obtained as described by Hinz et al. (16).Cloning of the endogalactanase gene. Genomic DNA of B. longum was isolatedusing a modified Marmur procedure as described by Johnson (18). A PCRwas carried out on the genomic DNA with Easy A polymerase (Stratagene, La Jolla, California), using two primers for amplification of the galA gene without
+the transmembrane domain (XbaI restriction sites were introduced at the beginning
+and at the end of the gene for cloning purposes). Primers used were (with
+the XbaI site underlined) 257F (5-CCCCCCCTCTAGACAAAGGAGAAAA
+AGCATGCG), and 257R (5-CCCCCCCTCTAGATCAGCTACCGGTATTG
+CTCAG). The forthcoming DNA fragments were ligated into a pGEM T-easy
+vector (Promega) and transformed into E. coli XL1-Blue MRF cells. The cells
+were grown for 16 h at 37°C on solid S-Gal (3,4-cyclohexenoesculetin--Dgalactopyranoside)/
+LB agar plates (Sigma), supplemented with 100 g/ml ampicillin.
+Colonies containing a PCR fragment were identified as white colonies.
+Plasmid DNA was prepared by following the QIAGEN plasmid purification
+method (QIAGEN, Hilden, Germany). The galA genes were cut out from the
+plasmids with XbaI and purified and cloned into an XbaI-digested pBluescript
+vector (Stratagene). This vector was transformed into E. coli XL1-Blue MRF
+cells.
+Isolation and characterization of endogalactanase. E. coli cells containing the
+galA gene were grown overnight at 37°C (1 liter) and harvested by centrifugation
+(15 min, 8,000  g, 4°C). The supernatant was used for activity measurement,
+and the cells were suspended in 90 ml 50 mM sodium acetate buffer, pH 5, and
+disrupted by sonic treatment (10 min; amplitude, 30%; duty cycle, 0.3 s on and
+0.7 s off; Digital Sonifier; Branson, Danbury, CT) on ice. Subsequently, the
+suspension was centrifuged (15 min, 8,000  g, 4°C), the cell extract was collected,
+the pellet was suspended in 40 ml 50 mM sodium acetate buffer (pH 5),
+and a second sonic treatment was performed. This step was repeated twice. The
+cell extracts were pooled and applied onto a Q-Sepharose (Amersham, Little
+Chalfont, United Kingdom) anion-exchange column, using a BioPilot pump
+system (Amersham). Elution was done with a linear gradient of 0 to 0.5 M NaCl
+in 50 mM sodium acetate, pH 5, at a flow rate of 57 cm/h. Fractions with the
+highest endogalactanase activity were pooled and further purified on a Superdex
+200 PG (Amersham) size exclusion column. Elution was performed with 0.15 M
+NaCl in 20 mM potassium phosphate buffer, pH 6.0, at a flow rate of 76 cm/h.
+Fractions with the highest endogalactanase activity were pooled and concentrated
+with anion-exchange chromatography under the same conditions as described
+above.
+Protein concentration was determined by the method of Bradford (5) using
+bovine serum albumin as a standard. Sodium dodecyl sulfate-polyacrylamide gel
+electrophoresis (SDS-PAGE) was carried out on the Pharmacia Phastsystem
+according to the instructions of the supplier (Amersham). Coomassie brilliant
+blue staining was used for the detection of proteins on PhastGel 10 to15%
+gradient gels (Amersham). The native molecular mass was estimated by size
+exclusion chromatography using the Akta Purifier equipped with a Superdex 200
+PG column (Amersham), as described above. The column was calibrated with
+thyroglobulin (669 kDa), ferritin (440 kDa), catalase (232 kDa), aldolase (158
+kDa), bovine serum albumin (67 kDa), ovalbumin (43 kDa), chymotrypsinogen
+A (25 kDa), and RNase A (13.7 kDa).
+Enzyme assays. Endogalactanase activity was measured by determining the
+hydrolysis of AZCL-galactan (according to instructions of the supplier) at 37°C
+after 15 min of incubation. The reaction mixture (250 l) consisted of 1.85 g of
+enzyme, 16 mM potassium phosphate buffer (pH 6.0), and 2.5 mg AZCLgalactan.
+The reaction was stopped by adding an equal volume of 0.5 M glycine-
+NaOH buffer (pH 9.0) containing 2 mM EDTA. After centrifugation (15 min,
+10,000  g), the absorbance of the supernatant was measured at 595 nm (A595).
+The absorbance at 595 nm is a measure for the activity of the enzyme. In a
+parallel experiment, the A595 of a number of representative incubations with
+AZCL-galactan was related to the amount of reducing end groups formed. From
+this, a conversion factor was calculated, which enabled the conversion of the A595
+readings to enzyme activity units. One unit of activity was defined as 1 mol of
+reducing sugars liberated per min under the specified conditions. This assay was
+also used to measure the enzyme’s optimum temperature and pH and for kinetic
+experiments. The optimum temperature was determined between 4 and 70°C.
+For determination of the optimum pH, McIlvain buffers (0.1 M citric acid, 0.2 M
+disodium phosphate) in the range of pH 2.6 to 7.6 were used. For kinetic
+experiments, the AZCL-galactan concentration was varied in the range of 0.08 to
+16.0 mg/ml.
+The mode of action of GalA was determined by high-performance anionexchange
+chromatography (HPAEC) and high-performance size exclusion chromatography
+(HPSEC). The incubations were performed in triplicate with 5
+mg/ml potato galactan in 5 mM sodium acetate buffer, pH 5.0, and 3.3 U/ml
+enzyme at 37°C for different time intervals. The incubations were stopped by
+heating the incubation mixtures for 10 min at 100°C. After centrifugation (10 min, 10,000  g), the supernatant was analyzed by HPAEC, HPSEC, and theNelson-Somogyi method.The substrate specificity was also measured by HPAEC in triplicate. Theincubations were performed with 1 mg/ml substrate in 45 mM sodium acetatebuffer, pH 5.0, and 0.067 U/ml enzyme at 37°C for 30 and 120 min. The incubationswere stopped and analyzed as described above.The influence of arabinosyl side chains on the hydrolytic activity of GalA wasmeasured by HPAEC. The incubations were performed with 5 mg/ml potatogalactan in 5 mM sodium acetate buffer, pH 5.0, and 13.6 U/ml arabinofuranosidaseat 30°C for 24 h. The incubations were stopped by heating the incubationmixtures for 10 min at 100°C. After cooling to 37°C, 3.3 U/ml GalA was addedand the samples were incubated at 37°C for 48 h. The incubations were stoppedand analyzed as described above. All reactions were carried out in triplicate.Analytical methods. HPAEC was performed using a Thermo-Quest highperformanceliquid chromatography system equipped with a Dionex CarboPacPA-1 (4 mm ID by 250 mm) column in combination with a CarboPac PA guardcolumn (3 mm ID by 25 mm) and a Dionex ED40 PAD detector (Dionex Co.,Sunnyvale). A flow rate of 1 ml/min was used with the following gradient ofsodium acetate in 0.1 M NaOH: 0 to 40 min, 0 to 400 mM; 40 to 41 min, 400 to1,000 mM. Each elution was followed by a washing step for 5 min with 1,000 mMsodium acetate in 0.1MNaOH and an equilibration step of 15 min 0.1MNaOH.HPSEC was performed on three TSKgel columns (7.8 mm ID by 30 cm percolumn) in series (G4000 PWXL, G3000 PWXL, G2500 PWXL; Tosohaas,Stuttgart, Germany), in combination with a PWX-guard column (Tosohaas).Elution took place at 30°C with 0.2 M sodium nitrate at 0.8 ml/min. The eluatewas monitored by refractive index detection using a Shodex RI-72 detector(Kawasaki, Japan). Calibration was performed using dextrans (Amersham).For matrix-assisted laser desorption ionization–time of flight mass spectrometry(MALDI-TOF MS), an Ultraflex workstation (Bruker Daltronics GmbH,Germany) was used. The mass spectrometer was calibrated with a mixture ofmaltodextrins. The samples were mixed with a matrix solution (1 l each). Thematrix solution was prepared by dissolving 9 mg of 2,5-dihydroxybenzoic acid and3 mg 1-hydroxyisoquinoline in a 1-ml mixture of acetonitrile and water (3:7). Theprepared sample and matrix solutions were put on a gold plate and dried undera stream of warm air.The concentration of reducing sugars was determined according to the Nelson-Somogyi method (29), using galactose as standard.DNA sequencing and sequence analysis. An automated model 373 DNAsequencer (Applied Biosystems) was used to determine the nucleotide sequenceof the gene. The DNA sequence data are available at the GenBank nucleotidedatabases under the accession number NC_004307. The BLAST2 program (1;available at http://www.ncbi.nlm.nih.gov/) was used for detecting sequence homologies.The SWISS-MODEL version 36.0003 program (14, 31, 37) (availablefrom http://www.expasy.org/swissmod/SWISS-MODEL.html) was used for homologymodeling.

@@ -1,0 +1,145 @@
+ 2. Experimental
+2.1. Isolation of bacterial species and extraction and
+purification of the EPS produced
+The bacterial species Methylobacterium sp. VTT-E-
+11929 was isolated from a slime sample obtained from
+a Finnish cardboard producing paper machine. After
+isolation and purification of the strain the EPS was
+produced in laboratory scale. The EPS was produced
+using shale flasks at 30 8C in a medium containing
+glucose (20 g/L), yeast extract (0.5 g/L), (NH4)2SO4 (0.6
+g/L), KH2PO4 (3.18 g/L), K2HPO4 (5.2 g/L), MgSO4 /7
+H2O (0.3 g/L), CaCl2 (0.05 g/L), ZnSO4 /7 H2O (0.2 mg/
+L), CuSO4 /5 H2O (0.2 mg/L), MnSO4 /H2O (0.2 mg/L),
+FeSO4 /7 H2O (0.6 mg/L) and CoCl2 (0.2 mg/mL) at pH
+7.
+After cultivation 0.9% NaCl was added to the
+medium and the medium was slightly homogenised
+and centrifuged (14,687g, 45 min). Ethanol (75% (v/v))
+was added to the supernatant to precipitate the EPS
+material. The precipitate was solubilised in water and
+incubated with protease (Neutrase 0,5L, Novozymes,
+Denmark) for 1 h at 37 8C, re-precipitated, dialysed
+(Medicell Visking, MWCO 12/14,000 Da) and freezedried.
+ 2.2. Protein content
+Protein content was measured using the combustion
+(Dumas) method on a Thermo Quest NA 2100 Nitrogen
+and Protein Analyzer (Inter Sciences, The Netherlands)
+according to the instructions of the manufacturer. The
+sample (5/6 mg) was weighed in to a sample cup and
+directly analysed using D-methionine as an external
+standard. The protein content was calculated using
+6.25 as nitrogen to protein conversion factor.
+ 2.3. HPSEC of the native EPS
+The EPS (2 mg) was dissolved in 1 mL of distilled water
+and analysed by high performance size exclusion
+chromatography (HPSEC) using pullulan for calibration.
+HPSEC was performed on a Thermo Quest HPLC
+using three TOSOHAAS TSK-Gel columns in series
+(6000-, 4000-, 3000PWXL) preceded by an TSK guard
+column (40/6 mm). Enzyme digests were analysed
+using three TOSOHAAS TSK-Gel columns in series
+(4000-, 3000-, 2500PWXL) preceded by an TSK guard
+column (40/6 mm). Elution took place at 30 8C using
+0.8 mL/min 0.2 M NaNO3 as eluent. Detection was
+performed using a Shodex RI 71 refractive index
+detector.
+ 2.4. Sugar composition
+The EPS sugar composition was determined using
+methanolysis as described by De Ruiter and coworkers.
+15 The EPS was treated with 2 M HCl in dry
+CH3OH for 16 h at 80 8C, followed by 1 h of 2 M
+CF3CO2H (TFA) at 121 8C. The released sugars were
+analysed using high performance anion exchange chromatography
+(HPAEC) with pulsed amperometric detection
+(PAD) as described by Verhoef and coworkers.13
+ 2.5. Absolute configuration
+The absolute configurations of the monosaccharides
+present in the EPS were determined as described by  Gerwig and coworkers.16  The GC-FID analyses of the
+tri-methylsilated (/ )-2-butyl glycosides was performed
+using a Carlo Erba Mega 5160 GC, equipped with a CPSil
+5 CB column (25 m/ 0.32 mm, Chrompack). The
+temperature programme was: 80/ 135 8 C at 20 8 C/min;
+135/ 220 8 C at 2 8 C/min. The injection port and detector
+temperatures were 200 and 250 8 C, respectiv ely. The
+Helium flow rate was 3 mL/min and the samples
+(approx. 0.5 m L) were injected directly on the column
+without a stream splitter.
+2.6. Sugar linkage analyses
+ The EPS sample was methylated according to Hakomori
+17 and subsequently dialysed against water and
+ev aporated in a stream of dry air. The methylated
+samples were hydrolysed using 2 M TFA (2 h, 121 8 C).
+After ev aporation in a stream of air (TB/ 20 8 C), the
+partially methylated sample was conv erted to alditol
+acetates and analysed by GC-FID.18  Identification of
+the compound was performed using GC/ MS as described
+by v an Casteren and coworkers.19
+2.7. Determination of the pyruvate content
+ The amount of pyruv ate was determined using a method
+reported by Troyano and coworkers.20  The EPSs (1 mg)
+were dissolv ed in 1 mL of 1 M TFA and hydrolysed for
+6 h at 120 8 C. The hydrolysate was centrifuged and
+analysed at 40 8 C using a Termo Quest HPLC system
+equipped with both a Shodex RI71 refractiv e index
+detector and a Spectra Physics UV2000 UV detector at
+220 nm. HPLC separation was performed using a Bio-
+Rad Aminex HPX-87H column using 0.6 mL/min 0.01
+M H2 SO4  as a mobile phase. The amount of pyruv ate
+was calculated using a calibration curv e of 0.2/ 2 mM
+pyruv ic acid.
+2.8. Partial hydrolyses of the native EPS
+ Since enzymes are known to facilitate the recognition of
+repeating units, enzyme-producing bacterial cultures
+were enriched from compost heap samples by using
+the EPS produced by Methylobacterium  as the only
+carbon source. Culture filtrate from an enrichment
+culture showing clear reduction of EPS v iscosity was
+used as a crude enzyme preparation to incubate with the
+EPS in order to obtain oligomers preferably on a
+repeating unit lev el. The EPS (1 mg/mL 50 mM NaOAc
+buffer) was incubated 50 m L/mL culture filtrate at 30 8 C
+for 15 h in an incubation shaker. The reaction was
+stopped by keeping the solution at 100 8 C for 15 min,
+the sample was centrifuged before analysis. The released  oligomers were analysed using MALDI-TOF MS and
+HPSEC as described by Verhoef and coworkers.13
+2.9. Auto hydrolyses
+ Auto hydrolysis was used to remov e pyruv ate from the
+polysaccharide backbone. The nativ e EPS (40 mg) was
+dissolv ed in 40 mL water and brought to its H  form
+using Amberlite IR 50 ion exchange resin. A suspension
+of the polysaccharide solution and Amberlite IR 50 was
+stirred for 0.5 h at 25 8 C. After filtering of the Amberlite
+the EPS solution was stirred at 100 8 C under reflux for
+18 h. The depyruv ated EPS was dialysed against water
+for 24 h and freeze-dried.
+2.10. FT-IR
+ The EPS (1 mg/mL) was dried on a crystal and the
+absorption spectrum between 750 and 4000 cm1  was
+taken using attenuated total reflectance on a BIO-RAD
+FTS 6000 FT-IR spectrometer.
+2.11. 13C and 1H NMR
+ Prior to NMR analyses, the samples were exchanged in
+99.96% D2 O (Cambridge Isotope Laboratories, USA)
+and after freeze-drying dissolv ed in 99.996% D2 O
+(Cambridge Isotope Laboratories, USA). NMR spectra
+were recorded at a probe temperature of 70 8 C on a
+Bruker AMX-500 spectrometer located at the Wageningen
+NMR Centre. Chemical shifts were expressed in
+ppm relativ e to internal acetone: 2.225 ppm for 1 H and
+31.55 ppm for 13 C. The 1D 1 H proton spectra were
+recorded at 500.13 MHz using 64 scans of 8192 data
+points and a sweep width of 3000 Hz. The 2D COSY
+spectrum was acquired using the double quantum
+filtered (DQF) method with a standard pulse sequence
+deliv ered by Bruker. 2D TOCSY spectra were acquired
+using standard Bruker pulse sequences with 110 ms
+mixing time. For all homonuclear 2D spectra 512
+experiments of 2048 data points were recorded using
+16/ 64 scans per increment. For the 2D HMBC spectrum
+21  a standard gradient enhanced 2D-HMQC pulse
+sequence deliv ered Bruker was changed into a HMBC
+sequence by setting the delay between the first proton
+and carbon pulse to 50 ms. For the HMBC experiment
+1024 experiments of 2048 data points were performed
+with 128 scans per increment.

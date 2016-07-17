@@ -1,0 +1,8 @@
+2.4.2. Total fatty acid concentration and composition
+The total fatty acid concentration and composition were determined
+by a sequence of mechanical cell disruption, solvent based
+lipid extraction, transesterification of fatty acids to fatty acid
+methyl esters (FAMEs), and quantification of FAMEs using gas
+chromatography (GC-FID) as described by Lamers et al. (2010)
+and Santos et al. (2012) with modifications as described by Breuer
+et al. (2012).

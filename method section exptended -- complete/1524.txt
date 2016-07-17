@@ -1,0 +1,101 @@
+ 2. Materials and methods
+2.1. Chemicals
+A40926 tert-BOC and deacyl-A40926 tert-BOC (in further
+text A40926 and deacyl-A40926) were prepared as previously
+described [5]. Acetonitrile (Carlo Erba, Milan, Italy)
+was of HPLC grade, and all other reagents were of analytical
+grade unless otherwise indicated.
+ 2.2. Organism and culture conditions
+Actinoplanes teichomyceticus ATCC 31121 was maintained
+in a frozen vegetative state at ???80 ???C. The stock
+cultures were used as inoculums (2.5% v/v) for 100 ml
+pre-culture medium S/Bis (in g/l: glucose 10, bacto peptone
+4, bacto yeast extract 4, MgSO4????7H2O 0.5, K2HPO4
+4) in a 500 ml baffled Erlenmeyer flask. Pre-culture flasks
+were grown for 72 h at 28 ???C on a rotary shaker at 200 rpm,
+and used as inoculums in subsequent experiments. For the
+kinetic experiments, washed cells of  A. teichomyceticus
+were prepared in the following way: 500 ml baffled shake
+flasks containing 100 ml of AUR/M medium (in g/l: maltose
+20, dextrin 10, meat extract 4, yeast extract 2, peptone
+4, soybean meal 15, CaCO3 2) were inoculated with 4ml
+of pre-culture and incubated at 28 ???C on a rotary shaker at
+200 rpm. After 72 h of growth cultures were washed twice
+with 20mM Tris???HCl buffer (pH 7.0) and resuspended in
+100 ml Tris???HCl buffer in a 500 ml shake flasks.
+ 2.3. Kinetic measurements
+For determination of kinetic parameters substrate conversion
+was measured as a function of time. In two independent
+experiments, 10 different initial substrate concentrations
+were used. A total of 22 shake flasks with washed cells
+of  A. teichomyceticus (as described above) were used for
+kinetic experiments and dry cell weight determinations. At
+t = 0 h, different amounts of A40926 sodium salt, previously
+dissolved in sterile water at a concentration of 25 g/l,
+were added to each pair of shake flasks to yield desired
+initial substrate concentrations. The culture flasks were incubated
+at 28 ???C on a rotary shaker at 200 rpm. Samples
+were collected at regular time intervals and analyzed by
+HPLC. All measurements were carried out in duplicate. The
+initial reaction rates were determined by linear regression.
+ The reaction rates are expressed in moles of deacyl-A40926
+formed per kilogram of dry cell weight per second.
+2.4. Kinetic calculations
+ Previous studies suggest that the deacylation of A40926
+by A. teichomyceticus  cells can be described by Michaelis???
+Menten kinetics [4] . To determine kinetic parameters, a
+ simple Michaelis???Menten expression (Eq. (1) ) was used:
+V = Vmax
+Cs
+Km + Cs
+ (1)
+where V  is the initial reaction rate (mol g???1  h???1 ), Vmax  is the
+maximum reaction rate (mol g???1  h???1 ), Cs  is the substrate
+concentration (mol l???1 ), and Km  is the Michaelis constant
+(mol l???1 ). Parameter estimation was done by fitting Eq. (1)
+ to experimental data pairs of substrate concentrations versus
+initial reaction rates. TableCurve 2D, (Version 3 for Windows,
+Jandel Scientific) software was used for data fitting
+and statistical analysis.
+2.5. Method of immobilization
+Actinoplanes teichomyceticus  cells were immobilized in
+calcium alginate gel by a procedure previously described [5] .
+All work was carried out in a laminar-air-flow cabinet. The
+diameter of the beads was measured using a Leitz Wetzlar
+stereoscope with micrometer ocular (10????  magnification).
+The average bead diameter (dmean ???? S. D. ) determined from
+a sample of 120 beads was 2. 05???? 0. 11 mm. Beads with two
+gel loads, 53 and 28 kg of dry cell weight per cubic meter
+of gel, respectively, were obtained and used in two ALR
+experiments.
+2.6. Analyses
+ Concentration of biomass in a suspension and in the immobilized
+beads was estimated by dry weight measurements
+described elsewhere [5] . The concentration of A40926 and
+deacyl-A40926 was determined by an external standard procedure
+using analytical reference substances prepared in our
+laboratories. HPLC analytical method, sample preparation,
+and calculation procedure used were previously described
+[5] .
+2.7. ALR experiments
+ The vessel used in this study was a glass made,
+internal-loop ALR constructed by the glass workshop of
+Wageningen University (The Netherlands). The working
+volume of the reactor was 0.43 l (a cross-section of the
+ALR is given in Fig. 2 ). The temperature in the reactor was
+kept constant at 28 ??? C by circulating water in the jacket.
+A Gilson Minipuls 2 peristaltic pump controlled incoming
+and outgoing liquid flow. To prevent excessive foaming a
+Bioengineering antifoam control system was applied with
+a silicone based antifoam agent. Aeration was executed by
+sterile air, supplied through the ceramic porous sparger at
+the bottom of the ALR at a flow rate of 0.21 l min???1 . The
+ALR was operated continuously twice for 21 days. The inlet
+substrate concentration was 2. 04 ????  10???1  molm???3 . The
+flow rates employed were 1. 5 ????  10???9  m3  s???1  in the first
+experimental run and 2. 5 ????  10???9  m3  s???1  in the second experiment.
+In both experiments, reactor gel hold-up was 20%
+(v/v). Biocatalyst gel load in the first experimental run was  53 kgm???3  gel while in the second run 28 kgm???3  gel was
+used. Beads were kept in the reactor by a Teflon sieve at
+the overflow of the ALR. Two samples of 1ml were taken
+daily to monitor substrate and product concentration.

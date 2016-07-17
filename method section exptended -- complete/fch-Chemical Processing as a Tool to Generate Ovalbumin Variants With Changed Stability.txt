@@ -1,0 +1,133 @@
+MATERIALS AND METHODS
+Chemicals
+N-(3-dimethylaminopropyl)-N-ethyl-carbodiimide hydrochloride
+(EDC) was purchased from Fluka (Buchs, Switzerland).
+Succinic anhydride, ortho-phthaldialdehyde (OPA),
+methylamine, HEPES, 2-ethyl-5-phenylisoxazolium-3-sulfonate
+(Woodward’s reagent K) and MES buffer were from
+Sigma-Aldrich (St. Louis, MO). N,N-dimethyl-2-mercaptoethyl-
+ammoniumchloride (DMA) and di-sodiumtetraboratdecahydrat
+(Borax) were purchased from Merck (Darmstadt,
+Germany). Sodium dodecylsulfate (SDS) was from
+Serva (Heidelberg, Germany). All other chemicals were of
+analytical grade.
+Purification of Ovalbumin
+A batch of ovalbumin was purified from fresh hen eggs
+using the following semi-large-scale procedure, based on
+the literature-described purification protocols (Takahashi
+et al., 1996; Vachier et al., 1995). Egg white was separated
+from egg yolk by hand using 9-day fresh hen eggs. To the
+total egg white fraction (about 300 ml), 600 ml of a 50 mM
+Tris-HCl buffer, pH 7.5, containing 10 mM -mercaptoethanol
+was added. This solution was stirred for 24 h at 4ÅãC.
+Subsequently, the solution was centrifuged for 30 min at
+14,000g, 4ÅãC. The pellet was discarded, while 1,800 ml of
+50 mM Tris-HCl (pH 7.5) was added to the supernatant.
+After 30 min gentle stirring, the solution was filtered over a
+paper filter (Schleicher & Schuell, Keene, NH). To the filtrate,
+500 g of DEAE Sepharose Cl-6B (Pharmacia,
+Uppsala, Sweden) was added, followed by overnight incubation
+at 4ÅãC with gentle stirring. Next, the solution was
+filtered over a glass filter (G2) followed by extensive washing
+with 10 L demineralized water and 5 L 0.1 M NaCl,
+successively. The protein was eluted stepwise with subsequent
+steps of 1 L of 0.1, 0.15, 0.2, 0.25, and 0.35 M NaCl.
+The eluents with 0.25 and 0.35 M NaCl appear generally
+yellowish. The 0.15 and 0.2 M NaCl batches were pooled
+and concentrated using a Millipore (Bedford, MA) Ultrafiltration
+Unit with a 30 kDa molecular mass cut-off membrane.
+The concentrated solution was dialyzed extensively
+against demineralized water and afterwards freeze-dried in a
+Lyovac GT 2 operating at −20ÅãC and 0.1–0.5 mbar. The
+freeze-dried ovalbumin was stored at −40ÅãC until further
+use. Generally, the yield of this procedure is about 1.0 g
+ovalbumin per egg and the efficiency of isolation is over
+90%. Purity of the protein was over 98% as estimated from
+densitometric analysis of SDS-PAGE gels. Electron-spray
+mass spectroscopy (results not shown) showed that the protein
+isolated here contained a sugar moiety of 1,565 Da
+(linked to Asn293) with one 2-acetamido-2-deoxy-D-glucose
+and no mannose units as additional substituents to the
+common backbone (Rago et al., 1992). No heterogeneity in
+natural glycosylation could be identified.
+Chemical Modification of Ovalbumin
+S-Ovalbumin
+S-ovalbumin was prepared from ovalbumin according to the
+method described by Smith and Back (1965). An amount of
+2.5 g ovalbumin was dissolved in 60 ml demineralized water
+and the pH of this solution was set at 9.9 by dropwise
+addition of 0.1 M NaOH. The resulting solution was incubated
+at 55ÅãC for 72 h. Subsequently, the solution was
+dialyzed extensively against demineralized water at 4ÅãC.
+After dialysis, the pH of the solution was 6.7 and the protein
+was freeze-dried as described above. The final material was
+stored at −20ÅãC until use.
+Succinylation
+Amino groups in ovalbumin were succinylated essentially
+as described by Klotz (1967). To this end, 100 ml solution
+of 25 mg/ml ovalbumin (0.55 mM) in demineralized water
+was set at pH 8.0 by the addition of 3 M NaOH using pH-stat titration equipment (Metrohm) at room temperature.
+Then 300 mg of solid succinic anhydride was added stepwise
+in five portions yielding a final concentration of 30 mM
+succinic anhydride. During the addition of succinic anhydride
+the pH was kept at 8 (Å}0.1) by the addition of 1 M
+NaOH using pH-stat equipment. After addition, the solution
+was stirred for another 30 min, followed by extensive dialysis
+against demineralized water at 4ÅãC and subsequent
+freeze-drying. The material was stored at −20ÅãC until use.
+Methylation
+Carboxylic acid groups in ovalbumin were methylated using
+an adaptation of the procedure described by Hoare and
+Koshland (1967). A 250 ml solution of 10 mg/ml ovalbumin
+(0.22 mM) containing 1 M methylamine was set to pH 4.6
+and stirred at room temperature. Subsequently, solid EDC
+(4.75 g) was added stepwise in four portions to give a final
+concentration of 100 mM, while the pH was kept at 4.6 by
+the addition of 1 M NaOH using pH-stat equipment. When
+all added EDC was dissolved the solution was stirred for
+another 2 h. Subsequently, the pH was raised to 8 by dropwise
+addition of NaOH (1 M) and after another 24 h of
+stirring at room temperature the mixture was dialyzed extensively
+against demineralized water (4ÅãC) followed by
+freeze-drying. Prior to further analysis, the material was
+stored at −20ÅãC. The methylation reaction took place in the
+presence of 150 g/ml sodium azide to prevent microbial
+growth.
+Lipophilization
+To increase the reactivity of capric acid towards free amino
+groups, the fatty acid was esterified with N-hydroxysuccinic
+acid in anhydrous tetrahydrofuran essentially according to
+the procedure described by Lapidot and Wolman (1967).
+The yield of the esterification reaction was 70% and the
+purity of the obtained activated capric acid was over 95%.
+The purity and identity of the activated capric acid was
+confirmed (>97% purity) using thin-layer chromatography
+(TLC), mass spectrometry, and NMR (results not shown).
+Activated capric acid was covalently coupled to ovalbumin
+by reaction with its free amino groups, essentially as described
+by Liu et al. (2000). Therefore, ovalbumin was dissolved
+at a concentration of 8.5 mg/ml in 250 ml 100 mM
+sodium carbonate buffer of pH 8.5. Activated capric acid
+was dissolved at a concentration of 1.4 mg/ml in 40 ml
+DMSO and subsequently added to the ovalbumin solution.
+This gave end concentrations of 0.2 mM ovalbumin and
+0.7 mM activated capric acid.
+This mixture was incubated at 40ÅãC for 18 h. After incubation
+the mixture was dialyzed extensively at 4ÅãC
+against 10 mM ammonium carbonate buffer of pH 7 and
+subsequently demineralized water, followed by freezedrying.
+The freeze-dried material was stored at −20ÅãC until
+use.
+Glycosylation
+One gram freeze-dried ovalbumin was dissolved in 200 ml
+demineralized water and was mixed with 200 mL 5 mg/ml
+fructose or glucose (i.e., 1 amine group to 6.5 sugar molecules).
+The pH was then adjusted to 7.0 with 0.1 M HCl.
+These mixtures were frozen at −20ÅãC and subsequently
+freeze-dried. Next, the samples were incubated at 45ÅãC at a
+relative humidity of 69% for 2 h. The incubation is performed
+under normal atmospheric composition and no other
+components were added. Finally, the preparations were extensively
+dialyzed against demineralized water to remove
+nonreacted sugar, followed by freeze-drying and storage at
+−20ÅãC until further use.

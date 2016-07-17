@@ -1,0 +1,46 @@
+Analytical methods
+For the analysis of monomeric sugars, the fermentation
+broth samples were centrifuged (3 min at 17,400??~g), and
+the pH of the supernatant was adjusted to 5.0 with barium
+carbonate using a pH indicator (Bromophenolblue) followed
+by filtration of the liquid. The analysis was
+performed by high-performance anion-exchange chromatography
+using a Carbopack PA1 column (column temperature
+of 30??C) and a pulsed amperometric detector (ED50;
+Dionex, Sunnyvale, CA, USA). Before injection, the
+system was equilibrated with 25.5 mM NaOH for 10 min
+at a flow rate of 1.0 ml/min. For the separation of
+monomeric sugars, at injection, the mobile phase was
+shifted to deionized water for 30 min. Postcolumn addition
+of sodium hydroxide was used for detection of the neutral
+monomeric sugars.
+The determination of soluble oligomeric sugars was
+performed by centrifugation for 5 min at 3,000 rpm
+(Centaur 2, Beun de Ronde, The Netherlands) of preweighed
+samples and freeze drying the supernatant overnight.
+Pellets were weighed and hydrolyzed with sulfuric
+acid, and neutral monomeric sugars were determined
+according to the method as described by van den Oever et
+al. (2003). For the calculations, an average molecular
+weight of oligomers from glucan and xylan of 166 and
+132 g/mol, respectively, were applied, resulting in a
+hydrolysis factor of 1.08 and 1.14, respectively.
+For the analysis of insoluble polymeric sugars, samples
+of 25 g were centrifuged for 5 min at 3,000 rpm (Centaur 2,
+Beun de Ronde); the supernatant was removed, and the
+pellet was washed by resuspension in 25 ml fresh
+demineralized water followed by a centrifugation step of
+5 min at 3,000 rpm (Centaur 2, Beun de Ronde). The
+sequence of resuspension and centrifugation was repeated
+three times. After the last removal of the supernatant, the
+pellets were freeze dried overnight. The pellets were weighed
+(values used for DM calculation), polymeric material was
+hydrolyzed with sulfuric acid, and neutral sugars were
+analyzed according to the method as described by van den
+Oever et al. (2003). For the calculations, a molecular weight
+of glucan and xylan of 162 and 132 g/mol, respectively, were
+applied, resulting in a hydrolysis factor of polymer to
+monomer of 1.11 and 1.14, respectively.
+The analysis of organic acids was performed by highpressure
+liquid chromatography according to the procedure
+described by Maas et al. (2006).

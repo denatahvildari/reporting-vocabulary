@@ -1,0 +1,196 @@
+Materials and methods
+Bacterial strains, and growth conditions
+Bifidobacterium adolescentis DSM 20083 was purchased
+from the Deutsche Sammlung von Microorganismen und
+Zellkulturen. The strain was grown anaerobically using
+MRS medium pH 6.0 (Becton Dickinson, Franklin Lakes,
+N.J.) supplemented with 0.5 g/l cysteine at 37°C. DNA
+cloning was performed using the Escherichia coli strain
+XL1 blue MRF′ (Promega, Madison, Wis.). The E. coli
+strain was grown in Luria-Bertani (LB) broth or solidified
+LB medium (15 g agar/l) supplemented with 100 μg/ml
+ampicillin when appropriate.
+The E. coli cells containing the β-galactosidase gene (β-
+Gal II) were grown in LB broth or solidified LB medium
+supplemented with 100 μg/ml ampicillin and 1 mM
+isopropyl β-D-thiogalactopyranoside (IPTG).
+Chemicals, substrates, and enzymes
+Chemicals were purchased from Sigma (St. Louis, Mo.)
+unless stated otherwise. Restriction enzymes and other
+enzymes used for DNA manipulation were obtained from
+MBI Fermentas (St. Leon Rot, Germany) and were used
+according to the instructions of the manufacturer. The
+mixture of TOS was purchased from Borculo Domo
+Ingredients (Zwolle, The Netherlands) and was fractionated
+as described by Van Laere et al. (2000). Transgalacto-
+oligosaccharides (TOS) were obtained by transgalactosylation
+of lactose with a β-galactosidase. The
+preparation of the [β-D-Galp-(1,4)]n-D-Galp oligosaccharides
+will be discussed in detail elsewhere. Briefly, they
+were obtained on a small scale (approximately 10 mg per
+oligosaccharide) by partially degrading potato galactan
+with an endo-galactanase from Aspergillus niger, followed
+by BioGel P2 (Bio-Rad, Hercules, Calif.)size exclusion
+chromatography. Three purified oligosaccharide fractions
+were obtained, designated as [β-D-Galp-(1,4)]n-D-Galp
+with n=2, n=3 and n>3. The molecular size of the products
+were verified by Maldi TOF MS. The β-galactosidase
+from A. niger was purchased from Megazyme (Bray,
+Ireland).
+Isolation and cloning of the β-galactosidase
+β-Gal II gene
+The β-galactosidase enzyme (β-Gal II) was isolated as
+described by Van Laere et al. (2000). Internal amino acid
+sequences were determined by the Sequence Centre of
+Utrecht University and was performed as described
+previously (Van Casteren et al. 2000). From these internal
+amino acid sequences the primers GAL23F, GAL1R,
+GAL1F, and GAL31R were designed (5′-
+GCSTCSGGHGGYGAYTACAAYCCV, 5′-CTRTARCASGGSRAVCGSATG,
+5′-GAYATYGTSCCSYTBGCSTAC,
+and 5′-GARGARTTCAACATYYTSGGYGCSGARGCC,
+respectively, in which Y represents T or C, S
+represents C or G, R represents A or G, H represents T, C
+or A, B represents T, C or G, and V represents C, A or G).
+Genomic DNA of B. adolescentis DSM20083 was
+isolated using a modified Marmur procedure as described
+by Johnson (1994). The polymerase chain reaction (PCR)
+was carried out on the genomic DNA with primers
+GAL23F, GAL1R, GAL1F, and GAL31R and Taq Polymerase
+(HT Biotechnology, Cambridge, UK). The resulting
+DNA fragments were purified from the PCR mixture
+with a High Pure PCR Product Purification Kit (Roche,
+Mannheim, Germany). The DNA fragments were ligated
+into a pGEM T-easy vector (Promega) and transformed
+into E. coli XL1 blue MRF′ cells. The cells were grown for
+16 h at 37°C on solid S-Gal/LB agar plates (Sigma)
+supplemented with 100 μg/ml ampicillin. Colonies
+containing a cloned PCR-fragment were identified as
+white colonies. Plasmid DNA was prepared by following
+the Qiagen plasmid purification method (Qiagen, Hilden,
+Germany). The plasmid containing the largest PCR
+fragment (23F31R) was used to prepare a digoxigenin
+(DIG)-labelled DNA fragment according to the instructions
+of the manufacturer (Boehringer, Mannheim, Germany).
+The labelled PCR fragment was used for colony
+hybridisation as described by Sambrook et al. (1989) on a
+genomic library of B. adolescentis DSM20083 (Van den
+Broek et al. 1999). Detection was according to the
+instructions of the manufacturer (Boehringer). Colonies
+hybridising with the labelled fragment were identified as
+black spots on an X-ray film. Two colonies were
+identified, each containing a part of the β-Gal II gene.
+PCR was carried out with the proofreading polymerase
+High Fidelity PCR Cloning Enzyme Easy A (Stratagene,
+La Jolla, Calif.) on B. adolescentis genomic DNA, using
+two primers for amplification of the full-length β-Gal II
+gene. Two XbaI restriction sites were introduced at the
+beginning and end of the gene for cloning purposes. The
+primers used were: CGF (5′-GGGGTCTAGAGCATACCAGGGCGATATCGG)
+and CGR (5′-GGGGTCTAGATTACCGCCTTACCACGAGCACG).
+The PCR product
+(β-Gal II) was purified from the PCR mixture as described
+above and digested with XbaI. β-Gal II was cloned into an
+XbaI-digested pBluescript vector (Stratagene) and transformed
+into E. coli XL1 blue MRF′ cells.
+Isolation and characterisation of β-galactosidase
+β-Gal II
+Cells from an E. coli cell culture (700 ml, LB-medium,
+37°C, overnight) containing the β-Gal II gene were
+harvested by centrifugation (15 min; 8,000 g; 4°C). The
+supernatant was removed and used for activity measurement;
+the cells were suspended in 90 ml 50 mM sodium
+acetate buffer pH 4.5 and disrupted by sonic treatment (10
+min; duty cycle 30%; Sonifier 250, Branson Ultrasonics,
+Danbury, Conn.) on ice. Subsequently, the suspension was
+centrifuged (15 min; 8,000 g; 4°C), the supernatant
+collected, and the pellet suspended in 45 ml 50 mM was performed. This step was repeated twice. The cell-free
+extracts were pooled and applied to a Q-Sepharose
+(Amersham, Little Chalfont, UK) anion-exchange column.
+Elution took place with a linear gradient of 0–0.5 M NaCl
+in 50 mM sodium acetate pH 4.5 at a flow rate of 57 cm/h.
+Fractions with the highest β-galactosidase activity were
+pooled and further purified on a Superdex 200 PG
+(Amersham) size-exclusion column. Elution was performed
+with 0.15 M NaCl in 20 mM potassium phosphate
+buffer pH 6.0 at a flow rate of 30 cm/h.
+Protein concentration was determined by the method of
+Bradford (1976) using bovine serum albumin (BSA) as a
+standard. SDS-PAGE was carried out on the Pharmacia
+Phastsystem according to the instructions of the supplier
+(Amersham). Coomassie Brilliant Blue staining was used
+for the detection of proteins on PhastGel 10–15% gradient
+gels (Amersham). The native molecular mass was
+estimated by size-exclusion chromatography using the
+Akta Purifier equipped with a Superdex 200 PG column
+(Amersham). The column was calibrated with thyroglobulin
+(669 kDa), ferritin (440 kDa), catalase (232 kDa),
+aldolase (158 kDa), BSA (67 kDa), ovalbumin (43 kDa),
+chymotrypsinogen A (25 kDa), and ribonuclease A (13.7
+kDa). Elution was performed with 20 mM potassium
+phosphate buffer pH 6.0 containing 0.15 M NaCl at a flow
+rate of 76 cm/h.
+N-Terminal amino acid sequence determination was
+carried out at the Sequence Centre of Utrecht University
+and was performed as described previously (Van Casteren
+et al. 2000).
+Enzyme assays
+β-Galactosidase activity was measured by determining the
+hydrolysis of p-nitrophenyl-β-D-galactopyranoside (pNPGal)
+at 37°C after 10 min incubation. The reaction mixture
+(125 μl) consisted of 2 mM potassium phosphate buffer
+pH 6.0, and 0.2 mg/ml pNP-Gal solution. The reaction
+was stopped by adding an equal volume of 0.5 M glycine/
+NaOH buffer pH 9.0, containing 2 mM EDTA. The colour
+formation was measured at 400 nm. One unit (U) of
+activity was defined as the amount of enzyme that liberates
+1 μmol galactose per minute under the specified
+conditions. The molar extinction coefficient under these
+assay conditions was 13,700 M−1 cm−1. This assay was
+also used to measure the stability of the enzyme and the
+temperature optimum between 4°C and 80°C. For determination
+of the pH optimum, McIlvain buffers (0.1 M
+citric acid/0.2 M di-sodium phosphate) in the range of pH
+2.5–7.5 were used.
+For kinetic experiments, β-D-Galp-(1,4)-D-Galp [hereafter
+referred to as Gal(β1–4)Gal] concentration was
+varied in the range of 0.05–8.0 mg/ml and measured by
+high-performance anion-exchange chromatography
+(HPAEC). The reactions were carried out in 2 mM
+potassium phosphate buffer pH 6.0 and 0.12 U/ml β-
+galactosidase for 60 min at 37°C. The incubations were
+stopped by heating the incubation mixtures for 5 min at
+100°C. After centrifugation (5 min, 10,000 g) the supernatant
+was analysed by HPAEC using a Dionex system
+equipped with a Dionex CarboPac PA-1 (4 mm ID Å~ 250
+mm) column in combination with a CarboPac PA guard
+column (3 mm ID Å~25 mm) and a pulsed electrochemical
+detector in pulsed amperometric detection (PAD) mode
+(Dionex, Sunnyvale, Calif.). A flow rate of 1 ml/min was
+used with the following gradient of sodium acetate in 0.1
+M NaOH: 0–15 min, 0–100 mM; 15–20 min, 100–200
+mM; 20–21 min, 200–1,000 mM. Each elution was
+followed by a washing step of 5 min in 1,000 mM sodium
+acetate and an equilibration step of 15 min 0.1 M NaOH.
+The hydrolytic activity of β-Gal II towards different
+types of oligosaccharides was measured by HPAEC, using
+the same gradient as for the kinetic experiments. The
+incubations were performed with 1 mg/ml substrate under
+the conditions described above.
+Transglycosylation activity was measured with 100 mg/
+ml TOS, 0.12 U/ml β-Gal II, and 2 mM phosphate buffer
+pH 6.0. For hydrolytic activity towards TOS, a concentration
+of 1 mg/ml was used, while the other conditions
+were kept similar to the transglycosylation assay. The
+reactions were stopped by heating the incubation mixtures
+for 5 min at 100°C, after which the reaction mixture was
+centrifuged (5 min, 10,000 g) and the supernatant analysed
+by HPAEC.
+DNA sequencing and sequence analysis
+An automated DNA sequencer 373 (Applied Biosystems,
+Foster City, Calif.) was used to determine the nucleotide
+sequence of the gene. The DNA sequence data were
+submitted to the GenBank nucleotide databases under the
+accession number AY359872. The BLAST2 program
+(Altschul et al. 1997, available at http://www.ncbi.nlm.
+nih.gov/) was used to search for sequence homologies

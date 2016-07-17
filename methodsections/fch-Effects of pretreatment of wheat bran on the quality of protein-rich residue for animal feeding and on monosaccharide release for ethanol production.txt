@@ -1,0 +1,149 @@
+2. Methods
+2.1. Experimental design
+Effects of pretreatment conditions in a steam reactor for wheat
+bran were assessed in a study with a 4  2  2 experimental design
+with the factors temperature (120, 140, 160 and 180 C), pH (2.3 and
+3.9) and RT (5 and 10 min). The range for each of the parameters was
+adjusted to the process requirements for ethanol production from
+wheat bran. Treatments were applied without replication; however
+one treatment (140 C, pH 2.3, 10 min) was repeated four times in
+order to provide insight into the variability of the process.
+2.2. Wheat bran pretreatment and enzyme hydrolysis
+2.2.1. Hydrothermal pretreatment
+Wheat bran (Cargill, Sas van Gent, The Netherlands) was ground
+in a hammer mill over a sieve of 400 lm. For each treatment, 77 g
+of ground bran (Table 1) was sampled from the same batch of
+wheat bran and mixed with demineralized water in a vessel of
+1 L to obtain a mixture of 600 mL and 12% dry matter (DM). The
+wheat bran slurry was stirred with a magnetic stirrer for 5 min
+to obtain a homogeneous suspension. Sulfuric acid (H2SO4) was
+added to the slurry at 2 or 1% (w/w), mixed for 20 min before measuring
+the pH. The pH (mean ± SD) was 2.29 ± 0.02 and 3.86 ± 0.02
+for the pH treatment targets of 2.3 and 3.9, respectively. The wheat
+bran slurry underwent a hydrothermal pretreatment in a steam
+reactor (Series 4520 1 L bench top reactor, Parr Instrument Company,
+IL, USA), equipped with an electric heater as well as a highpressure
+steam-heating circuit. During pretreatment, the wheat
+bran slurry was continuously stirred at 300 rpm. The temperature
+was raised to 40 C with an electric heater before the steam circuit
+was opened (20 bar, 210 C) to allow for a rapid increase to the
+preset temperature. When this temperature was reached, which
+typically occurred within approximately 2 min, the steam circuit
+was closed and the preset temperature was maintained during
+the process time by the electric heater. At the end of the pretreatment,
+fresh water (10 C) was passed through the steam circuit,
+allowing for rapid cooling of the slurry. The slurry was transferred
+to a 1-L plastic pot and stored at 20 C until chemical analysis.
+2.2.2. Enzyme hydrolysis
+Pretreated wheat bran was subjected to enzymatic hydrolysis
+with commercial enzyme preparations, Spirizyme and Termamyl
+for starch hydrolysis, and Celluclast 1.5L and Novozym188 for
+cellulose hydrolysis (Novozymes, Bagsværd, Denmark). Hemicellulases
+(Sørensen et al., 2007) were also used, and included two
+a-arabinofuranosidases (Mastigoproctus giganteus GH51 and Humicola
+insolens GH43), one endoxylanase (H. insolens GH10) and one
+b-xylosidase (Trichoderma reesei GH3) (kindly provided by
+Novozymes, Bagsværd, Denmark). Enzymes were dosed as 0.1%
+(g enzyme protein/g DM substrate). Prior to incubation, the pH in
+pretreated samples, corresponding with 250 mg DM, was adjusted
+to 6.0 by adding NaOH with 0.05% sodium azide. The samples were
+incubated with Termamyl for 1 h at 80 C, cooled to 30 C, and the
+pH was adjusted to 4.3 by adding H2SO4 before the other enzymes
+were added. The samples were incubated head-over-tail for 48 h at
+32 C, and finally heated for 5 min at 100 C to inactivate the
+enzymes. Monosaccharides were determined after enzymatic
+hydrolysis.
+2.3. Analytical methods
+The slurry samples were freeze-dried, milled over a 1-mm sieve
+using a Retsch mill (ZM 100, Retsch GmbH, Haan, Germany) and
+stored at 4 C pending analysis. Dry matter was determined by drying
+to a constant weight at 103 C according to ISO 6496. Nitrogen
+was determined by the Kjeldahl method and crude protein content
+was calculated as N  6.25 (ISO 5983). Crude fat (ISO 6492), crude
+ash (ISO 5984) and lignin (ISO 13906) were determined in the raw
+wheat bran only. Amino acids were measured in all slurry samples
+by conventional amino acid analysis (ISO 13903). After centrifugation
+(10,000g for 30 min), amino acids were measured in the solid
+and liquid phase separately for all treatments with a RT of 10 min.
+Samples of 5 mg were hydrolyzed with 1 mL of 6 mol/L glass
+distilled HCl for 24 h at 110 ± 2 C in glass tubes, sealed under vacuum.
+Subsequently, the tubes were opened and 200 lL of 2.5 lmol norleucine was added to each tube as an internal standard, after
+which the contents of the tubes were dried under vacuum (Savant
+SpeedVac Concentrator SC210A, Savant Instruments Inc., Farmingdale,
+NY, USA). The samples were loaded onto an ion exchange HPLC
+(Biochrom 20 Plus, Amersham Pharmacia Biotech, Staffanstorp,
+Sweden) employing postcolumn derivatisation with ninhydrin and
+detection at 570 nmwith proline detected at 440 nm. The chromatograms
+were integrated using specific software (Chrom-Card version
+2.3.3, Thermo Scientific, Waltham, MA, USA) with amino acids identified
+and quantified by retention time against a standard amino acid
+mixture. Tryptophan and cysteine were not determined. The crosslinked
+amino acids lysinoalanine and lanthionine were assessed
+using standards obtained from PolyPeptide Laboratories (Strasbourg,
+France). The amount of OMIU-reactive lysine was determined
+in triplicate according to the method of Moughan and Rutherfurd
+(1996) and amino acid analysis described above. O-methylisourea
+(Fluka) and the L-homoarginine standard (Sigma) were purchased
+from Sigma Aldrich (Zwijndrecht, The Netherlands).
+The total carbohydrate content, and carbohydrate composition
+was determined by gas chromatography (GC), using inositol as
+internal standard (Englyst and Cummings, 1984). The samples were
+treated with 72% (w/w) H2SO4 (1 h, 30 C) followed by hydrolysis
+with 1 M H2SO4 for 3 h at 100 C. The constituent sugars released
+were analyzed as their alditol acetates by GC. Monosaccharide
+analysis was performed using a Dionex ICS 3000 High Performance
+Anion Exchange Chromatography (HPAEC) system (Sunnyvale, CA,
+USA), with pulsed amperometric detection. Samples were diluted
+500  with water before analysis and 20 lL was injected into the
+system. Separation was achieved using a CarboPac PA-1 column
+(2  250 mm) preceded by a CarboPac PA-1 guard column
+(2  250 mm). The monomers in the samples were eluted with a
+gradient of 0.02–0.05 M NaOH for 3 min and 0.05–0.075 M NaOH
+for 10 min, followed by isocratic elution of 0.1 M NaOH for 2 min.
+Subsequently, the column was washed with 1 M NaOAc in 0.1 M
+NaOH for 7 min. Equilibration of the column was achieved in
+0.1 M NaOH for 3 min followed by 0.02 M NaOH for 20 min.
+Furfural and 5-hydroxymethyl-2-furfural (5-HMF), by-products
+which can be formed when respectively hexoses and pentoses are
+degraded, were determined by HPLC using an Aminex HPX-87H
+column and UV-/RI-detection (280 nm) in soluble hydrolysates
+from pretreated wheat bran. Acrylamide, which is formed in an
+advanced Maillard reaction from aspartic acid, was measured in
+the untreated wheat bran and in the four samples pretreated at
+180 C. Acrylamide was quantified by LC–MS/MS with positive
+electrospray ionization using an Applied Biosystem API 4000 triple
+quadrupole mass spectrometer (Darmstadt, Germany) coupled to
+an Agilent 1100 LC system (Waldbronn, Germany), as previously
+described by Hoenicke and Gatermann (2005). The degree of
+browning of the samples, as a measure of melanoidin formation,
+was determined by liberation of brown pigments from protein
+molecules by means of the proteolytic enzyme pronase according
+to the method of Palombo et al. (1984).
+The digestibility of proteins in the pretreated samples was assessed
+in vitro by subsequent incubation with pepsin (at pH 1)
+and pancreatin (at pH 6.8) according to the method of Babinszky
+et al. (1990).
+All analyses were performed in duplicate, apart from amino acid
+and OMIU-reactive lysine analyses which were performed in
+triplicate.
+2.4. Calculations
+The combined severity (CS) factor (R0
+0), a factor allowing
+comparison of results among experiments carried out under different
+conditions of pH, temperature and RT (Chum et al., 1990), was
+calculated as follows:
+R0
+0 . .10  pH  t  exp..T100.=14:75 .1.
+where pH is the acidity level, t is the RT in min and T is the temperature
+in C. The results are presented as a function of log(R0
+0).
+The coefficient of variation (CV) was calculated from measurements
+(n = 4) in the repeated sample (140 C, pH 2.3, 10 min).  All parameters were analyzed for main effects of temperature,
+pH and RT, and their two-way interactions by the generalized linear
+model procedure in SAS 9.2 (SAS Inst. Inc., Cary, NC, USA):
+Y . l . Ti . Aj . Rk . eijkl .2.
+where Y is the dependent variable, l is the mean, Ti is the effect of
+temperature i (120, 140, 160 or 180 C), Aj is the effect of acidity j
+(pH 2.3 or 3.9), Rk is the effect of retention time k (5 or 10 min), and
+eijkl is the residual error term. Only main effects could be statistically
+evaluated. Results are reported as means with their standard error.

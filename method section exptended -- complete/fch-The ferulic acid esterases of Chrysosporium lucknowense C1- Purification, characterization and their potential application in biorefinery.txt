@@ -1,0 +1,155 @@
+2. Methods
+2.1. Materials
+Methyl caffeate, methyl coumarate, methyl sinapinate and methyl ferulate
+were obtained from Apin Chemicals Ltd. (Abingdon, Oxon, UK). Alcohol insoluble
+solids of Brewers spent grain (BSG), corn cobs (CC) and wheat bran (WB) were
+present in the laboratory [15]. The following commercial enzyme preparations
+were used: Rapidase® Liq+ (Liq+; DSM, Delft, the Netherlands), Driselase® (Dri;
+Sigma–Aldrich, St. Louis, MO, USA), Pectinex® Ultra SP (USP; Novozymes, Bagsværd,
+Denmark) and RocksoftTM MPL (MPL; Dyadic® Netherlands, Wageningen, The
+Netherlands).
+Cell free fermentation supernatants of ferulic acid esterase overexpression lines
+were obtained from Dyadic®. Overexpression of the genes was performed using
+the C1 production platform [16,17]. The ferulic acid esterase candidate genes were
+identified based on a sequence homology screen with already identified ferulic
+acid esterases and they were named FaeA1, FaeA2 and FaeB2 (Table 1). Due to
+a lack of biochemical data for the best hits, the second best hit was used for
+annotation.
+2.2. Preparation and isolation of feruloylated oligomers
+A fraction of corn fibre arabinoxylan oligosaccharides, that contains monomeric,
+dimeric and trimeric ferulic acid constituents linked to the oligosaccharides was
+used ([4], subfraction M-5). Feruloylated oligosaccharides from sugar beet pulp
+were obtained from 5 g pretreated sugar beet pulp ([18], 140-0 supernatant fraction)
+digested with the C1 enzymes Abn1, Abn4 and Gal1 [14,19]. The feruloylated
+oligomers were isolated and fractionated by reverse phase solid phase extraction
+[4]. Samples were eluted with 10 v/v%, 60 v/v% and 100% methanol. Methanol was
+removed from the fractions by evaporation in a vacuum rotation evaporator and the
+fractions were subsequently freeze-dried. The 60 v/v% methanol fraction contained
+all the ferulic acid, as confirmed by UV spectroscopy at 325 nm (see Section 2.4.2).
+2.3. Enzyme purification
+The purification of the enzymes required a single chromatographic step for
+FaeA1 and two chromatographic steps for FaeA2 and FaeB2. Ferulic acid esterase
+activity in the purified fractions was monitored by measuring the activity toward
+methyl ferulate.
+2.3.1. FaeA1
+FaeA1 was purified by size exclusion chromatography using an ÄKTApurifier 10
+analytical system (GE Healthcare, Uppsala, Sweden) equipped with a SuperdexTM 75
+analytical column (10/300 GL, 1 column volume (CV) = 23.56 ml; GE Healthcare) at a
+flow rate of 0.5 ml/min at 20 ◦C. The sample was manually injected via a 200 l
+sample loop and eluted with 50 mM NaCl in 50 mM sodium acetate buffer (pH
+5.0). Fractions of 200 l were collected in microtiter plates using an ÄKTA Frac-950
+fraction collector (GE Healthcare).
+2.3.2. FaeA2 and FeaB2
+FaeA2 and FaeB2 were purified by hydrophobic interaction chromatography
+followed by anion exchange chromatography using an ÄKTAexplorer 100 preparative
+system (GE Healthcare). The system was equipped with a self-packed Phenyl
+SepharoseTM HP column (XK16, 58 ml column volume; GE Healthcare) that was
+equilibrated with 5 CV of 10 mM sodium acetate buffer (pH 5.0) containing 1.5 M
+ammonium sulfate (buffer A). The samples (17.5 ml) were mixed 1:1 with 20 mM
+sodium acetate buffer (pH 5.0) containing 3 M ammonium sulfate. They were cooled
+on ice for 30 min and subsequently centrifuged (5 min, 5000
+°øg, 4 ◦C). The supernatants
+were injected onto the column via a sample pump at a flow rate of 2 ml/min. The samples were eluted at a flow rate of 10 ml/min at 20 ◦C with 10 mM sodium
+sulfate buffer (buffer B, pH 5.0): 3 CV 0% B, 2 CV 0–30% linear B, 28 CV 30–100% linear
+B, 5 CV 100% B, 5 CV 0% B (equilibration). Fractions (20 ml) were collected in glass
+tubes cooled on ice using an ÄKTA Frac-900 fraction collector.
+Active fractions (FaeA2: 29.3–33.2 CV, FaeB2: 32.5–34.9 CV) were pooled and
+extensively dialyzed (2
+°ø
+24 h, 4 ◦C) against 10 mM sodium phosphate buffer (pH
+6.5) using 12–14 kDa cut-off Visking dialysis tubings (Medicell International Ltd.,
+London, UK). The dialyzed fractions were further purified using a self-packed Q
+SepharoseTM anion exchange column (XK26, V = 53 ml, GE Healthcare). Samples
+were eluted with 10 mM sodium phosphate buffer (pH 6.5) containing 1 M sodium
+chloride (buffer B) using a linear elution profile: 2 CV 0% B, 20 CV 0–50% linear B
+(22 CV for FaeB2), 1 CV 50–100% linear B, 2 CV 100% B, 5 CV 0% B (equilibration).
+Active fractions (FaeA2: 7.4–8.9 CV, FaeB2: 13.2–14.3 CV) were pooled and dialyzed
+against 10 mM sodium phosphate buffer (pH 6.5) containing 50 mM sodium chloride
+(10–12 kDa cut-off, 24 h, 4 ◦C).
+2.4. Enzyme characterization
+All activity assays toward synthetic substrates are based on the absorption
+difference of the free acid and the methyl ester (total concentration: 50 M) at
+335
+°æ
+5 nm [9]. Suitable enzyme concentrations (in stock) were 730 g/ml (FaeA1),
+78 g/ml (FaeA2) and 36 g/ml (FaeB2). Sodium-dodecyl sulfate polyacrylamide gel
+electrophoresis (SDS-PAGE) and isoelectric focusing were performed as described
+previously [19].
+2.4.1. Activity toward hydroxycinnamic acid methyl esters
+Activities toward the synthetic substrates methyl caffeate, methyl coumarate,
+methyl ferulate and methyl sinapinate were determined by incubating 10 l of
+enzyme in a total volume of 200 l with 50 M synthetic substrate in 10 mM
+BIS–TRIS–HCl buffer (pH 7.0) containing 50 mM sodium chloride. The reaction took
+place at 25 ◦C for up to 2 h in a microtiter plate reader (Tecan infinite F500, Gördig,
+Austria). The absorbance was measured in 2 min intervals at 340 nm and the activity
+was determined by calibration curves of the substrates/products (Fig. 2).
+2.4.2. Biochemical properties
+The pH optimum of the enzymes was measured in the range from pH 4 to 8
+using methyl ferulate as substrate. Therefore, 10 l enzyme was incubated at 25 ◦C
+in a final volume of 200 l with 50 M methyl ferulate in McIlvaine buffers (40 mM
+disodium hydrogenphosphate mixed with 20 mM citric acid to give the desired
+pH). Reaction conditions and quantification were as described in Activities toward
+synthetic substrates.
+Temperature optima were determined using methyl ferulate (50 M) as substrate
+at optimal pH values (FaeA1 and FaeB2: 10 mM BIS–TRIS–HCl buffer (pH 7.0)
+containing 50 mM sodium chloride, FaeA2: 10 mM TRIS–HCl (pH 7.5) containing
+50 mM sodium chloride).The reaction mixture (990 l substrate in buffer) was put
+into a quarz cuvette (1 ml), which was equilibrated at the desired temperature in an
+UV-1601 photospectrometer equipped with CPS-240A temperature controlled cell
+positioner (Shimadzu Ltd., Kyoto, Japan). After 15 min, 10 l of enzyme was added
+and the sample was mixed by inversion. UV–visible spectra were recorded in the
+range of 600–200 nm (2 nm resolution) in 2 min intervals over a period of 2 h. The
+Table 2
+Theoretical and experimental molecular masses and isoelectric points of C1 ferulic
+acid esterases.
+Molecular mass (kDa) Isoelectric point
+Theoretical Experimental Theoretical Experimental
+FaeA1 29.2 29 5.9
+≈
+5.5
+FaeA2 31.8 36 5.4
+≈
+5.2
+FaeB2 31.4 33 4.4
+≈
+6.0
+Theoretical molecular masses and pI values were calculated with a pI/Mw computing
+tool (http://expasy.org/cgi-bin/pi tool).
+linear range of the time curves of the UV absorption at 336 nm was used to determine
+the enzyme activities.
+2.4.3. Activity toward natural substrates
+All samples were incubated for 24 h in 50 mM sodium acetate buffer (pH 5.0) at
+35 ◦C. The hydrolyses were stopped by boiling at 100 ◦C for 10 min. Alcohol insoluble
+solids of brewers spent grain (BSG), corn cobs (CC), wheat bran (WB) and
+sugar beet pulp (SBP) were used as polymeric substrates (5 ml/ml). BSG, CC and
+WB were first incubated with Aspergillus awamori endoxylanases I (xyl-I, GH family
+10) or III (xyl-III, GH family 11), both purified according to [20]. SBP (1 g in 100 ml)
+was digested with Liq+, Dri, USP and MPL. The supernatants obtained after centrifugation
+(10 min, 10, 000
+°ø
+g, 25 ◦C) were used for ferulic acid esterase activity
+experiments. All samples were diluted in order to have the same concentrations of
+ferulic acid constituents. The ferulic acid assays were performed in 50 mM MOPS
+buffer (pH 7.0) at 35 ◦C. The amount of FAE was the same in each experiment (1 g
+enzyme/microtiterplate well = 1 g enzyme/0.3 a.u.). The release of ferulic acid was
+followed by measuring the absorbance decrease at 340 nm using a microtiterplate
+reader (Tecan). The release was quantified as described elsewhere [3].
+2.5. Hydroxycinnamic acid release from natural substrates
+Arabinoxylan oligomers purified from pretreated corn fibre (CF) and sugar beet
+pectin oligomers (1 mg/ml each) were incubated with ferulic acid esterases in water
+at 35 ◦C for 16 h. The samples were boiled to inactivate the enzymes and centrifuged
+at room temperature (10 min, 10,000
+°ø
+g). Hydroxycinnamic acid release from natural
+substrates was measured by RP-UHPLC-MS analysis in negative ion mode as
+described earlier [4] on an Accela UHPLC system (Thermo Scientific) equipped with
+a Hypersyl GOLD column (2.1 mm
+°ø
+150 mm, 1.9 m particle size; Thermo Scientific).
+Elution was monitored with the built-in polydiode array multi-wavelength
+detector set at 325 nm. The samples were diluted 5 times and 10 l were injected.
+Ferulic acid release was quantified with the help of a ferulic acid calibration curve
+(1.25, 5.00, 12.50, 25.00 g/ml ferulic acid).
+The total amount of ester-linked ferulic acid in corn and sugar beet oligomers
+was determined after alkaline hydrolysis and ethylether extraction using the UHPLC
+method described above.

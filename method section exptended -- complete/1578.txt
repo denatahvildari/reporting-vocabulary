@@ -1,0 +1,46 @@
+  Polymer isolation and analyses
+Leaf material, from plants grown in vitro or in pots, was
+ground in liquid nitrogen and freeze-dried. The lyophilised
+powder was washed with ethanol at 55 C for 48 h
+to remove fatty acids and chlorophylls, and the hydrophobic
+polymer was eventually solubilised from the defatted
+powder with chloroform at 55 C for 48 h. The
+washing and solubilisation steps were performed by
+shaking powder and solvents (500 ml) in glass flasks.
+During each step, the solvent was refreshed 3 times. The
+volume of the chloroform fraction containing hydrophobic
+compounds was reduced with a rotavapor, and
+the concentrated solution was analysed by gas chromatography
+(GC) after methanolysis (Lageveen et al.
+1988 ). Methylesters were analysed by GC using a Carlo-
+Erba GC6000 apparatus equipped with a 25 m CPSil5CB
+capillary column (Chrompack).
+ Peaks corresponding to the monomeric units of the
+extracted polymer were identified by comparing their
+retention times with those of the monomers present in
+pure mcl-PHAs isolated from P. putida  KT2442
+(monomer composition shown in Table 1 ).
+ Polymer
+quantities were determined from monomer peak areas in
+GC analysis. Separation of the ??????polymer-containing??????
+fraction from other lipid and monomeric components
+was achieved using an Ultrafree CL filter column with
+Ultracel-PL membrane, nominal molecular weight limit
+(NMWL) 5,000 (Millipore), following the manufacturer???s
+recommendations, and adapted to the purpose of
+polymer separation. In short, clarified plant extracts
+containing the polymer were resuspended in 2 ml of
+acetone, applied to the column and centrifuged at
+5,000 g  until the entire solution passed through the filter
+(approximately 10 h). Filters were washed 4 times with
+2 ml of acetone and the ??????polymer-containing?????? phase
+(i.e. the fraction retained by the filter) and the ??????monomer-
+containing?????? phase (i.e. the fraction that passed
+through the filter) were finally resuspended in chloroform,
+methanolysed and analysed by GC. A series of
+controls were used to optimise the performance of the
+filter columns: pure mcl-PHA control consisting of
+polymer isolated from P. putida  KT2442; pure monomer
+consisting of 3-(R )-hydroxyoctanoate obtained as described
+elsewhere (de Roo et al. 2002 ) and kindly provided
+by Guy de Roo; a mix of polymer and monomer.

@@ -1,0 +1,72 @@
+ Materials and Methods
+A. Materials. The pectin samples were produced by
+Degussa Texturant Systems, Redon, France. Three citrus
+pectin samples, A, B, and C, with about the same DM but
+differing in their degree of blockiness (DB) were investigated,
+see Table 1.20 Pectins A and B originate from the same lemon
+variety. The MW of the samples, determined with highperformance
+size exclusion chromatography (HPSEC), were
+ 82 kDa for pectins A and C and 78 kDa for pectin B.
+ B. Uronic Acid Content. Pectins (60 íg/mL) were boiled
+(1 h), cooled, and then saponified with sodium hydroxide
+(40 mM). The uronide content was determined by the
+automated colorimetric m-hydroxydiphenyl method.21-23
+ C. Degree of Blockiness. The pectins were digested with
+polygalacturonase of KluiVeromyces fragilis (PGkf) which
+needs 4 or more free GalA to act. Degradation products were
+analyzed by HPAEC at pH 5.20,24 Quantification of these
+oligomers is possible by integration from HPAEC pH 5
+elution profiles. From these results, the degree of blockiness
+was determined25,26 (Table 1). A high DB value is indicative
+for the release of a high number of mono-, di-, and tri-GalA
+and thus for a blockwise distribution of nonesterified
+galacturonic acid residues in a pectin.
+ D. Sample Preparation. The pectin concentration was
+0.75% and sucrose concentration 60% for all samples. The
+pectins were dissolved in 0.1 M citrate buffer at pH 3.0 or
+pH 3.5 and stirred at room temperature for 2 h. The samples
+were then heated to boiling point in an oil bath with a
+temperature of 115 °C. Sucrose was added to the samples,
+after which a preheated solution of CaCl2 in citrate buffer
+was added to the samples containing Ca2+. The samples were
+heated to boiling point, and the weight was adjusted with
+distilled water. To prepare them for microscopy, the samples
+were poured into cylindrical moulds of stainless steel and
+stored at 20 °C in a water bath.
+ E. Rheological Measurements. The rheological properties
+during the gel formation were characterized by oscillatory
+measurements in a strain-controlled Bohlin VOR Rheometer
+(Bohlin Rheology, Chichester, U.K.) equipped with a
+concentric cylinder with a volume of 25 mL. The boiling
+samples were rapidly poured into the rheometer cup, temperature
+conditioned to 20 °C. The bob was lowered, and
+the surface of the sample was covered with paraffin oil to
+avoid evaporation. The temperature of 20 °C was obtained
+7 min after the measurement started. The gel formation
+measurements were performed at a frequency of 1 Hz and a
+strain of 2  10-3 for 3 and 20 h. The rheological
+measurements were conducted in three replicates, except the
+20 h measurements which were conducted in two replicates.
+ F. Microscopy. Small gel cubes 1  1  1 mm were
+carefully cut from the bulk gels 4 and 20 h after gel
+preparation. The gels were fixed in an aldehyde solution,
+based on citrate buffer, 2% glutaraldehyde, and 0.1%
+ruthenium red. Two different citrate buffers, both at pH 3.0,
+were used for fixation depending on the composition of the
+gel samples: (I) citrate buffer with 50% sucrose and (II)
+citrate buffer with 50% sucrose and the same concentration
+of CaCl2âH2O as in the gel. The gel cubes were placed in
+the fixation solution for 2 h. The samples were rinsed twice
+in a buffer solution for 15 min. The samples were dehydrated
+with ethanol, and the acrylic resin was dehydrated with LR
+white (for details, see previous work).15 The polymerization
+of LR white was obtained at 60 °C for about 20 h. Thin
+sections (70-80 nm) were cut with a diamond knife. The
+sections were transferred to Formvar-supported gold grids
+and stained with periodic acid, thiosemicarbazide, and silver
+proteinate.27 The samples were examined with a transmission
+electron microscope (LEO 906E, LEO Electron Microscopy
+Ltd., Cambridge England) at 80 kV. Each microscopy
+preparation was conducted in two replicates and the conclusions
+of the microscopy results were based on a large number
+of TEM images.

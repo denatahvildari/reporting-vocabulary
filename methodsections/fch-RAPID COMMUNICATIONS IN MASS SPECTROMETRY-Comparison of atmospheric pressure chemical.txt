@@ -1,0 +1,100 @@
+EXPERIMENTAL
+Extraction of lignans from sesame seed
+Sesame seeds were milled followed by Soxhlet defatting with
+hexane (0.3 g meal/mL hexane). After evaporation of the
+hexane, sesame oil and defatted sesame meal were obtained.
+In order to extract the lignans from the oil, oil was
+extracted with methanol (0.2 g oil/mL MeOH) at 908C for
+30 min. The oil was solidified at 208C and centrifuged to
+separate the methanolic extract from the oil. Water was
+added to the methanolic extract to a concentration of 40% (v/v),
+and residual oil was removed by liquid–liquid extraction Rapidase Liq.) was extracted with 20mL MeOH. The pellet
+and the extract were separated by centrifugation (30 min,
+28100 g, 48C).
+Fermentation of acid-pretreated aglyconic
+lignans from sesame seeds
+The lignan extract from oil and the deglucosylated lignans
+from defatted meal were acid-treated prior to fermentation.
+Lignans from oil (5600 mg) were dissolved in 60mL 0.5M
+methanolic HCl. Deglucosylated lignans (370 mg) were
+treated with 60mL 0.05M methanolic HCl. After incubation
+for 1 h at 858C, the reaction was stopped by neutralizing the
+samples with NaOH while cooling on ice. The treated lignans
+from oil and the treated deglucosylated lignans were
+combined, MeOH was evaporated and the acid-treated lignan
+mixture was redissolved in 20mL 20% (v/v) aqueous MeOH.
+Fermentation media were prepared containing 40mL
+brain hart infusion broth (BHI; Becton, Dickinson Co., Le
+Pont de Claix, France) (40 g/L) plus 5mL acid-treated lignan
+mixture. Blanks were prepared accordingly. All media were
+flushed with nitrogen. To these media fecal slurry (5 mL) was
+added. This fecal slurry consisted of 5 g of feces from five
+healthy volunteers each diluted to a 5% (w/v) solution,
+filtered and made anaerobic by flushing with nitrogen.
+The cultures were incubated at 378C. At several time points
+samples (1 mL) were taken. Lignans were extracted by
+liquid–liquid partitioning with EA (1:3, v/v). After evaporation
+of the EA, the samples were redissolved in 0.5mL
+MeOH and analyzed by reversed-phase high-performance
+liquid chromatography (RP-HPLC)/MS.
+Analysis of the lignan extracts by RP-HPLC
+Aglyconic lignans were, prior to RP-HPLC analysis, treated
+with liquid–liquid partitioning with EA and resolubilized in
+MeOH, as mentioned above. Commercial sesamin was
+obtained from Sigma. Glycosidic lignans were cleaned by
+solid-phase extraction (SPE). SepPak Vac C18 cartridges
+(20 cc/5 g; Waters, Milford, MA, USA) were activated with
+successively 2 column volumes MeOH and 2 column
+volumes water. A sample of lignan glucosides (2 mg/
+mL) in water was loaded and the cartridge was washed with
+1 column volume of water. Lignan glycosides were eluted by
+3 column volumes of MeOH of which the first one was
+discarded. The MeOH was evaporated to a final volume of
+1 mL.
+Samples were analyzed on a HPLC system from Thermo
+Separation Products (Waltham, MA, USA) equipped with a
+membrane degasser, P4000 pump, AS3000 autosampler, and
+a UV3000 detector. Samples of 20 mL were injected onto a
+Waters XTerra C18MScolumn (4.6150mm, 3.5 mmparticle
+size) with a guard column (XTerra C18 MS, 4.610 mm,
+3.5mm particle size; Waters, Milford, MA, USA). Water and
+acetonitrile (ACN), both acidified with 0.1% (v/v) acetic acid,
+were used as eluents. The flow rate was 0.7 mL/min, and the
+eluate was monitored at 280 nm. The flowing gradient used
+was: 0–30 min, linear from 10%–50% (v/v) ACN; 30–45 min,
+linear from 50%–100% ACN; 45–50 min, isocratic on 100%
+ACN; 50–55 min, linear from 100%–10% ACN; 55–60 min,
+isocratic on 10% ACN.
+ESI-MS and APCI-MS
+Mass spectrometric data were obtained by analyzing
+samples on an LCQ Classic ion trap mass spectrometer
+(ThermoFinnigan, Waltham, MA, USA) coupled on-line to
+the RP-HPLC system (see above) equipped with an ESI or
+APCI probe. In the case of ESI-MS, 1/10 of the flow from the
+RP-HPLC system was directed to the mass spectrometer. In
+the case of APCI-MS, the total flow was used. Helium was
+used as the sheath gas and nitrogen as the auxiliary gas. Data
+were collected over an m/z range of 150–2000. Datadependent
+MS2 analysis was performed with a normalized
+collision energy of 27%. Most settings were optimized using
+’tune plus’ (Xcalibur, Thermo Finnigan) via the automatic
+and semi-automatic tuning. The capillary temperature,
+source heater temperature (only APCI), and source voltage
+were manually adjusted.
+For ESI-MS, the system was tuned with secoisolarisirecinol
+diglucoside (SDG) and SECO, the SDG aglycon, both in the
+positive and in the negative ionization mode (SDG positive:
+capillary temperature (CT).2708C, source voltage (SV).
+5 kV; SDG negative: CT.2708C, SV.4.5 kV; SECO positive:
+CT.1508C, SV.6.0 kV: SECO negative: CT.2008C,
+SV.4.5 kV).
+For APCI-MS, the system was tuned with SDG and SECO
+in the negative ion mode, and with SECO and sesamin in the
+positive ion mode. (In all cases, the source voltage was 5 kV;
+SDG negative: source heater temperature (SHT).4508C,
+CT.2008C; SECO negative: SHT.4508C, CT.2008C; SECO
+positive: SHT.2008C, CT.1508C; sesamin positive: SHT.
+1508C, CT.2508C.)
+For comparison, all samples were analyzed using four
+optimized methods for ESI-MS and four optimized methods
+for APCI-MS.

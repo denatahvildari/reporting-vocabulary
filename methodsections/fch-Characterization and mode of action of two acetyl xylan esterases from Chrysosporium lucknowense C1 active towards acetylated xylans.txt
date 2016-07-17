@@ -1,0 +1,97 @@
+2. Materials and methods
+2.1. Materials
+Eucalyptus alcohol insoluble solids (AIS) and a purified xylan polymer containing
+4-O-methyl-d-glucopyranosyl uronic acid and acetyl groups (Ac-MeGlcAXylan)
+were obtained as described previously [28]. Eucalyptus wood AIS consist mainly
+of cellulose and heteroxylan, which are entangled in a complex and insoluble
+cell wall network. The purified polymer Ac-MeGlcAXylan from Eucalyptus
+wood, is a high molecular weight and partly insoluble xylan, decorated with
+acetyl groups at positions O-2 and/or O-3 and with 4-O-methyl-d-glucopyranosyl
+uronic acid (MeGlcA) at position O-2 of xylosyl residues [23]. Neutral acetylated
+xylo-oligosaccharides (AcXOS; with a DP of 4–12 xylosyl residues) were
+obtained from thermally processed Eucalyptus wood [13]. These AcXOS are purified
+xylo-oligosaccharides, in which xylosyl residues are solely substituted by acetyl
+groups [38]. The monosaccharide compositions of these substrates are presented in
+Table 1.
+Methyl ferulate, sinapate and caffeate were purchased from Apin Chemicals Ltd.
+(UK) and p-nitrophenyl-acetate was obtained from Fluka (Sigma–Aldrich, Germany).
+2.2. Cloning of acetyl xylan esterase encoding genes
+The ascomycetous fungus C. lucknowense C1 (accession number: VKM F-3500D
+of the All-Russian Collection of Microorganisms of Russian Academy of Sciences) was
+used for the production of hemicellulases. The full genome of C1 has been sequenced
+and revealed many genes encoding for cellulases, hemicellulases and accessory
+enzymes [36]. Annotated genes, encoding for the putative acetyl xylan esterases
+Axe2 and Axe3, have been cloned into a specially designed C1-expression host
+[39] that allows production of relatively pure enzyme. The amino acid sequences
+have been deposited at GenBank with the accession numbers HQ324256 (Axe2)
+and HQ324257 (Axe3). The strains, containing extra copies of the axe2 or axe3 gene
+were grown aerobically in 2 L fermentors in mineral medium, containing glucose
+as carbon source, ammonium sulfate as nitrogen source and trace elements for the
+essential salts. Growth is performed under glucose limitation at pH 6.0 and 32 ◦C
+[39].
+After fermentation, the supernatants containing the enzymes were tested on
+acetylated substrates and both Axe2 and Axe3 showed activity towards acetylated
+xylan releasing acetic acid.
+2.3. SDS-PAGE
+SDS-PAGE, under reducing conditions, was performed with a Pharmacia Phast-
+System (GE Healthcare) according to the instructions of the manufacturer using
+Gradient 8–25% Phastgels (GE Healthcare, Uppsala, Sweden). Gels were stained
+according to the Coomassie blue staining procedure provided by the manufacturer.
+2.4. Purification of Axe2 and Axe3
+An Akta purifier chromatography system and column used for the protein purification
+were obtained from GE Healthcare. The eluates were monitored at 215, 280
+and 320 nm. The fermentation supernatants containing Axe2 or Axe3 were applied
+to a Superdex 75 gel filtration column (10 mm
+°ø
+300 mm), equilibrated with 50 mM
+sodium acetate buffer, pH 5.0, containing 50 mM NaCl. The proteins were eluted
+using the same buffer at a flow rate of 0.8 mL/min.
+Two protein peaks were eluted from the column for both enzyme samples: the
+activity assays used showed that the first peak did not contain any esterase activity,
+while the second peak showed high activity towards AcXOS in both cases. Fractions
+(0.5 mL), containing esterase activity, were collected, pooled and were subsequently
+stored in small aliquots at
+−20 ◦C.
+SDS-PAGE of peak 1 showed that the proteins represented the host proteins
+(based on a background control), while hardly any protein was detected in peak
+2 using SDS-PAGE. The detection limit of proteins using Coomassie blue staining
+is very low and the dye binding a certain amount of proteins differs highly from
+one protein to another [40]. MALDI-TOF MS was performed to determine the Mw
+of the enzymes. The enzymes were found to have a molecular mass of 23.6 and
+33.6 kDa for Axe2 and Axe3, respectively, which are very similar to the sequencebased
+molecular masses (22.3 and 31.5 kDa, respectively).
+2.5. Enzyme assays
+The esterase activity of the acetyl xylan esterase towards AIS, Ac-MeGlcAXylan
+and AcXOS from Eucalyptus wood dispersed in millipore water was measured using
+a pH stat. The reaction mixture (5 mL) consisted of AIS (2 mg), Ac-MeGlcAXylan
+(1 mg) or AcXOS (1 mg) and an enzyme dose of 5 g protein per mg of substrate.
+The acetic acid released was continuously back-titrated with 1 mM NaOH to the
+desired pH (pH range: 4.5–7.5), employing a thermostated autotitration system (719
+S Titrino, Metrohm Ion analysis, Metrohm Ltd., Herisau, Switzerland). Temperature
+was controlled at the desired level (35–60 ◦C). The reactions were continued until
+the end point was reached, resulting in typical incubation times of 4–6 h, depending
+on the substrate used. Temperature and pH optima were determined using the pHstat
+and AcXOS as the substrate. The specific activity was defined as 1 mol of acetic
+acid released per min per mg protein. The pH optimum was determined within
+the pH range 4.0–7.5 at 35 ◦C. pHs higher than 7.5 were not tested due to autohydrolysis
+of the ester linkage. The temperature profile was determined within the
+temperature range 35–60 ◦C at the optimum pH determined. The specific activities
+were determined after 5 min of incubation.
+Hydrolysis products of Axe2 and Axe3 were monitored using MALDI-TOF MS
+and CE-LIF. In these experiments, substrate (10 mg/mL) and enzyme (5 g enzyme
+per mg substrate) were incubated in a 50 mM sodium phosphate buffer pH 7.0 using
+a micro mixer (700 rpm) for a defined time at 40 ◦C and the reaction was successively
+stopped by boiling (10 min). For CE analysis, the oligosaccharides were derivatized
+with the fluorescent APTS before incubation with the enzyme. The samples were
+stored at
+−20 ◦C until the analysis took place.
+2.6. MALDI-TOF MS
+The hydrolysis products of AcXOS were analyzed using MALDI-TOF MS, as
+described previously [41]. The molecular masses of the purified enzymes were
+determined using MALDI-TOF MS, as described by Pouvreau et al. [42].
+2.7. CE-LIF
+Samples for CE-LIF were prepared using the ProteomeLab Carbohydrate Labeling
+and Analysis Kit (Beckman Coulter, Fullerton, CA). The samples were derivatized
+with the fluorescent APTS overnight at room temperature and analyzed as described
+previously [43]. The enzyme incubation (40 ◦C and pH 7.0) took place after the
+oligosaccharides were labeled. CE–MS was performed as described previously [41].

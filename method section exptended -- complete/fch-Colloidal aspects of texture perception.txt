@@ -1,0 +1,146 @@
+ 2. Experimental
+2.1. Materials
+Potato, soybean, onion, and citrus arabinogalactan were
+obtained as described by Van de Vis.8 The endo-galactanase
+from Aspergillus niger was purified by Van de
+Vis et al.12 The b-D-Galp-(1!4)-specific b-galactosidase
+from Bifidobacterium adolescentis DSM 20083 was
+cloned and purified by Hinz et al.13 A b-(1!4)-galacto-
+disaccharide standard was purchased from Megazyme
+International Ireland Ltd. (Bray, Ireland).
+ 2.2. Enzymatic degradation of potato arabinogalactan
+A solution of 100 mg/mL potato arabinogalactan in
+10 mM NaOAc buffer pH 5 was partially digested
+with an endo-galactanase from A. niger (26.4 lg,
+26 U) for 384 h at 30 C, while continuously being
+mixed. The incubation was stopped by heating for
+10 min at 100 C and insoluble material was removed
+by centrifugation (5 min at 10,000g). The extent of
+the depolymerization was followed by high-performance
+anion-exchange chromatography (HPAEC) and
+high-performance size-exclusion chromatography
+(HPSEC).
+ 2.3. Fractionation of arabinogalacto-oligosaccharides
+The arabinogalacto-oligosaccharides were separated
+from the polymeric material by fractionation on a
+Bio-Rad Bio-Gel P2 (200–400 mesh, Richmond, CA,
+USA) size-exclusion column (100 · 2.6 cm), using an
+Amersham Biotech Hiload system (Uppsala, Sweden).
+Components were eluted with Millipore water at
+60 C (flow rate was 0.5 mL/min) and monitored by
+refractive index detection using a Shodex RI-72 detector
+(Tokyo, Japan). Fractions (5 mL) were collected
+and appropriate fractions were pooled as indicated in
+Figure 2.
+ 2.4. Analysis of sugar composition
+The sugar composition of the various Bio-Gel P2 pools
+was determined using methanolysis according to De
+Ruiter et al.14 For this, the different pools were treated
+with 2 M HCl in dry methanol for 16 h at 80 C, followed
+by 1 h of 2 M TFA at 121 C. The sugars released
+were quantified using HPAEC.
+ 2.5. Enzymatic degradation of arabinogalactooligosaccharides
+Bio-Gel P2 pools III, IV, and V were incubated with
+0.015 U of the b-galactosidase b-Gal II from B. adolescentis.
+The incubations were carried out in 20 mM
+phosphate buffer, pH 6 at 37 C for 60 min, and stopped
+by heating for 10 min at 100 C. Insoluble material was
+removed by centrifuging (10 min at 10,000g). The reaction
+products were analyzed by HPAEC.
+ 2.6. Complete enzymatic depolymerization of
+arabinogalactans
+A solution of 1 mg/mL arabinogalactan in 50 mM
+NaOAc buffer pH 5 was incubated with the endo-galactanase
+from A. niger (0.14 lg, 0.26 U) for 24 h at 30 C,
+under continuous stirring. The total volume of the incubation
+was 100 lL. The incubation was stopped by heating
+for 10 min at 100 C, and insoluble material was
+removed by centrifugation (10 min at 10,000g). The
+incubation was monitored by HPAEC.
+ 2.7. Estimation of the b -(1! 3)/b -(1! 4)-ratio in arabinogalactan
+from different sources
+The products from the complete enzymatic depolymerization
+of arabinogalactans (50 lL) were incubated with
+the b-galactosidase b-Gal II from B. adolescentis
+(0.15 lg, 0.012 U). The volume of the reaction mixtures
+was adjusted to 100 lL with 20 mM phosphate buffer
+pH 6, and incubated at 37 C for 60 min. The incubations
+were stopped by heating for 10 min at 100 C,
+and insoluble material was removed by centrifuging
+(10 min at 10,000g). Reaction products were determined
+by HPAEC analysis.
+ 2.8. Analytical methods
+High-performance size-exclusion chromatography was
+performed on three TSKgel columns (7.8 mm
+ID · 30 cm per column) in series (G4000 PWXL,
+G3000 PWXL, G2500 PWXL; Tosohaas, Stuttgart,
+Germany), in combination with a PWX-guard column
+(Tosohaas, Stuttgart, Germany). Elution took place at
+30 C with 0.2 Msodium nitrate at 0.8 mL/min. The eluate
+was monitored by refractive index detection using a
+Shodex RI-72 detector. Calibration was performed
+using dextrans.
+High-performance anion-exchange chromatography
+was performed on a Thermo-Quest HPLC system
+equipped with a Dionex CarboPac PA-1 (4 mm
+ID · 250 mm) column in combination with a Dionex
+CarboPac PA guard column (3 mm ID · 25 mm) and a
+Dionex ED40 PAD-detector (Dionex Co., Sunnyvale,
+USA). A flow rate of 1 mL/min was used.
+Arabinogalacto-oligosaccharides were determined
+using a gradient of sodium acetate in 100 mM NaOH:
+0–40 min, 0–400 mM NaOAc in 100 mM NaOH; 40–
+41 min, 400–1000 mM NaOAc in 100 mM NaOH;
+41–46 min, 1000 mM NaOAc in 100 mM NaOH; 46–
+60 min, 100 mM NaOH.  The determination of the sugar composition was performed
+using the same HPAEC system equipped with a
+Dionex CarboPac PA20 (3 mm ID ·  150 mm) in combination
+with CarboPac PA20 guard column (3 mm
+ID ·  30 mm) and Borate trap (4 mm ID ·  50 mm) and
+separated at 0.5 mL/min by isocratic elution with
+3 mM NaOH for 20 min followed by applying a linear
+gradient from 0 to 700 mM NaOH in 20 min.
+2.9. MALDI-TOF mass spectrometry
+ For MALDI-TOF MS (matrix-assisted laser desorption/
+ionization time-of-flight mass spectrometry) an
+Ultraflex workstation (Bruker Daltronics GmbH, Germany)
+was used. The mass spectrometer was calibrated
+with a mixture of malto-dextrins (mass range 365–
+2309). The samples were mixed with a matrix solution
+(1 l L each). The matrix solution was prepared by dissolving
+9 mg of 2,5-dihydroxybenzoic acid and 3 mg
+1-hydroxyisoquinoline in a 1 mL mixture of acetonitrile/
+water (300 l L:700 l L). Two microliters of the prepared
+sample and matrix solutions were put on a gold plate
+and dried with warm air.
+2.10. 13C and 1H NMR
+ Prior to NMR analyses, the samples were exchanged in
+99.96% D2 O (Cambridge Isotope Laboratories, USA)
+and after freeze-drying dissolved in 99.996% D2 O (Cambridge
+Isotope Laboratories, USA). NMR spectra were
+recorded at a probe temperature of 25  C on a Bruker
+AMX-500 spectrometer located at the Wageningen
+NMR Centre. Chemical shifts were expressed in parts
+per million relative to internal acetone: d  = 2.225 ppm
+for 1 H and d  = 31.55 ppm for 13 C.
+The 1D 1 H proton spectra were recorded at
+500.13 MHz using eight scans of 8192 data points and
+a sweep width of 3000 Hz. The 1D 13 C proton decoupled
+carbon spectra were recorded at 125.77 Hz using
+100,000 scans of 32,768 data points and a sweep width
+of 31,250 Hz.
+The 2D COSY spectra were acquired using the double
+quantum filtered (DQF) method with a standard pulse
+sequence delivered by Bruker.
+2D TOCSY spectra were acquired using a standard
+Bruker pulse sequences with 110 ms mixing time, respectively.
+For all homonuclear 2D spectra, 512 experiments
+of 2048 data points were recorded using 32 scans per
+increment.
+For the 2D HMBC spectrum15  a standard gradient
+enhanced 2D HMQC pulse sequence delivered Bruker
+was changed into a HMBC sequence by setting the
+delay between the first proton and carbon pulse to
+50 ms. For the HMBC experiment, 1024 experiments
+of 2048 data points were recorded with 128 scans per
+increment.

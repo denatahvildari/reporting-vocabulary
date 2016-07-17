@@ -1,0 +1,185 @@
+EXPERIMENTAL
+ Materials
+Amylose-enriched maize starch (AEMS; 70% amylose),
+racemic allyl glycidyl ether (AGE) (99%),
+and methyl a-D-glucopyranoside (MG) were purchased
+from Sigma–Aldrich Chemie BV (the Netherlands).
+Waxy maize starch (WMS; 0% amylose)
+was obtained from Fluka Biochemika (Switzerland).
+a-Amylase (product no. 10069, from Bacillus
+subtilis; 393 U/mg) was purchased from Fluka
+(Switzerland). Pullulanase (M2, from Bacillus
+licheniformis; 400 U/mL) was obtained from Megazyme
+(Ireland). Amyloglucosidase (A9268, from Aspergillus
+oryzae; 1400 U/mL) was obtained from
+Sigma (United States).
+ Synthesis of 1-Allyloxy-2-hydroxy-propyl-methyl
+a -D -Glucopyranoside (AHP-MG)
+MG (1.93 g, 9.94 mmol) and NaOH (0.0030 g,
+0.08 mmol) were suspended in distilled water
+(6 mL) in a 20-mL carousel reaction tube, and the
+mixture was heated to 44 8C. The reaction was
+initiated by the addition of AGE (4.75 mL, 40.0
+mmol) dropwise over a period of 15 min, and the
+mixture was stirred vigorously for 16 h. The solution
+was then cooled in ice water and neutralized
+to pH 7.0 with 2.5 M HCl. AGE was removed by
+extraction with ether (3 3 10 mL). Subsequent
+freeze drying gave 1.90 g of a white powder as a
+mixture of AHP-MG (15.8%) and MG.
+1H NMR (300 MHz, DMSO, d, ppm): 5.89 (1H,
+H-11); 5.19 (2H, H-12); 4.71 (1H, H-1); 3.98 (2H,
+H-10); 3.80 (1H, H-8); 3.78 and 3.66 (2H, H-6);
+3.57 (1H, H-3); 3.56 (2H, H-6AHP); 3.54 (1H, H-5);
+3.50 (2H, H-7); 3.47 (1H, H-2); 3.43 (2H, H-9);
+3.33 (3H, H-13); 3.31 (1H, H-4). 13C NMR (100
+MHz, D2O, d, ppm): 133.8 (C-11); 118.3 (C-12);
+99.3 (C-1); 73.1 (C-3); 72.0 (C-10); 71.6 (C-5); 71.2
+(C-2); 70.8 (C-9); 70.4 (C-8); 69.9 (C-4); 62.7 (C-7);
+62.5(C-6AHP-MG); 60.6 (C-6MG); 55.0 (C-13).
+ Synthesis of AHP-Starch
+A general procedure for the synthesis of AHPstarch
+was as follows: Amylose-enriched starch
+(25.01 g, 17% moisture, 154.4 mmol of AGUs) was
+suspended in distilled water (100 mL) in a 250-mL,
+round-bottom flask. NaOH (0.48 g, 12 mmol) and
+Na2SO4 (10 g, 70.4 mmol) were added, and the
+mixture was heated to 44 8C. The reaction
+was initiated by the addition of AGE (8.77 mL,
+73.9 mmol) dropwise over a period of 30 min, and
+the mixture was stirred vigorously for 16 h at
+44 8C. The suspension was then cooled in ice
+water and neutralized to pH 7.0 with 2.5 M HCl.
+After filtration (sintered glass filter, G3), the
+product was washed with water (3 3 150 mL),
+ethanol (3 3 150 mL), and acetone (3 3 150 mL)
+and dried overnight in an oven at 60 8C to yield a
+white powder of AHP-AEMS (29.14 g, 17% moisture).
+1H NMR (300 MHz, DMSO, d, ppm): 5.90 (1H,
+H-11); 5.20 (2H, H-12); 4.93 (1H, H-1); 3.95 (1H,
+H-8 and 2H, H-10); 3.76 and 3.66 (2H, H-6); 3.50–
+2.95 (H-2 to H-5, H-7 and H-9). 13C NMR
+(100 MHz, D2O, d, ppm): 136.2 (C-11); 117.3 (C-
+12); 100.9 (C-1); 79.6 (C-4); 74.1 (C-3); 72.9 (C-2);
+72.5 (C-5); 71.2 (C-8 and C-9); 69.9 (C-10); 61.1 (C-
+6 and C-7).
+ Characterization
+1H and 13C NMR spectra were acquired with a
+Bruker DPX300 300-MHz spectrometer. 2D NMR  spectra were recorded on a Bruker DPX400
+400-MHz spectrometer. Unless otherwise stated,
+all NMR measurements were carried out with
+DMSO-d6  as a solvent. Proton and carbon chemical
+shifts (d ) are given in parts per million toward
+tetramethylsilane.
+The moisture content determinations were carried
+out with a Karl Fischer titrator, a Metrohm
+720 KFS Titrino (Metrohm, Switzerland) connected
+to a Metrohm 703 Ti Stand electrode
+holder, and a built-in magnetic stirrer for the
+sample location.
+High-performance size exclusion chromatography
+(HPSEC) was carried out in a ThermoFinnigan
+(United States) HPLC apparatus with three TSKgel
+columns (7.8-mm i.d. 3  30 cm per column) in series
+(G4000PWXL , G3000 PWXL , and G2500PWXL , Tosohaas,
+Japan), in combination with a PWXL -guard
+column (Tosohaas). Elution took place at 30 8 C with
+0.2 M sodium nitrate at a flow rate of 0.8 mL/min
+and was monitored with a refractive-index detector
+(Spectra System RI 150, Thermo Electron Corp.,
+Italy). The software ChromQuest was obtained
+from ThermoFinnigan.12
+ High-performance anion exchange chromatography
+(HPAEC) was performed on a Dionex
+(United States) HPLC system. The system was
+equipped with a quaternary gradient pump, an
+AS3000 autosampler complete with a helium
+degassing unit, and an ED40 EC detector in a
+pulsed amperometric detection mode (PAD) mode.
+A CarboPac PA1 column (2 3  250 mm; Dionex)
+with a CarboPac PA1 guard column (2 3  50 mm;
+Dionex) was operated at a flow rate of 0.3 mL/min
+at 20 8 C. The gradient was obtained by solutions
+of 1 M NaOAc in 0.1 M NaOH being mixed with
+0.1 M NaOH. After 15 min of equilibration with
+0.1 M NaOH, 20 l L of the sample was injected,
+and a linear gradient to 0.50 M NaOAc in 0.1 M
+NaOH within 30 min was followed by a linear
+gradient in 5 min to 1 M NaOAc in 0.1 M NaOH.
+Finally, the column was washed for 5 min with 1
+M NaOAc in 0.1 M NaOH. The data were processed
+with a Chromeleon (Dionix) data handling
+system.12
+ Matrix-assisted laser desorption/ionization
+time-of-flight mass spectrometry (MALDI-TOF
+MS) was carried out with an ultraflex workstation
+(Bruker Daltonics GmbH, Germany) equipped
+with a nitrogen laser of 337 nm. The mass spectrometer
+was selected for positive ions. After a
+delayed extraction of 100 ns, the ions were accelerated
+to a kinetic energy of 20 kV. Hereafter, the
+ions were detected in the reflector mode. The lowest
+laser power required to obtain good spectra was
+used. The mixture of the 1-l L sample and 1 l L of
+the matrix were dried on a sample plate. The matrix
+solution was prepared by the dissolution of
+9 mg of 2,5-dihydroxybenzonic acid in a 1-mL mixture
+of acetonitrile and water (3:7). External calibration
+was performed with a mixture of maltodextrins
+(Mw  range .  400–3500 Da).13
+ SEM micrographs were obtained on a JEOL
+JSM-6300 scanning electron microscope. The vacuum-
+dried samples were attached to circular silver
+stubs with double-sided tape on a carbon
+sticker and coated with a platinum sputter using
+a JEOL JFC-1200 fine coater (Tokyo, Japan).
+Samples were viewed through the scanning of the
+total specimen, and a representative area was
+photographed at magnifications in ranges up to
+60003 .
+X-ray diffraction (XRD) spectra were obtained on
+a Philips (the Netherlands) X-Pert ProMRD apparatus
+under N2 . A dry sample was spread on a thin
+glass (ca. 15 l m), which was then placed on a temperature-
+regulated flat copper sample stage. The relative
+crystallinity was determined after normalization
+of all recorded spectra.14  Diffractograms were
+interpreted in terms of polymorphs A, B, and C.14–18
+DS
+ The degree of substitution (DS) of the AHP derivatives
+was determined by the integration of 1 H
+NMR spectra using maleic acid (MA) as an internal
+standard. MA gives a singlet for 2 H atoms at
+6.2 ppm in 1 H NMR spectra. The DS, expressed
+as moles of allyl residues per mole of glucose
+units, was determined with the peak at 5.9 ppm
+attributed to H-11 from the allyl starch ether
+according to equation 1  where xMA  and IMA  are the molarity and integrated
+peak area of MA, respectively; IAHP  is the
+integrated peak area of AGE; and xAGU  is the molarity
+of AGUs (in starch).
+Another determination of DS is based on an
+adapted double-bond titration method.19  This
+method is performed with a standard base–acid
+titration connected to the computer program
+TPC2000. Briefly, allyl starch ether undergoes a
+reaction with mercuric acetate in methanol. The
+liberated acetic acid is proportional to the amount
+of double bonds in AHP-starch.  Enzymatic Degradation
+In the enzyme preparation, a-amylase was dissolved
+in deionized water purified by Millipore
+(United Kingdom), pullulanase was diluted in a
+sodium acetate buffer (0.01 M, pH 5.0), and amyloglucosidase
+was diluted in a sodium acetate
+buffer (0.01 M, pH 4.5) to make solutions containing
+0.38, 0.22, and 0.14 U/lL, respectively. These
+enzyme solutions were used in the degradation of
+the native starch and its derivatives.
+The enzymatic digestion was as follows: AHPstarch
+(5 mg, 0.02 mmol) was dissolved in 1 mL of
+a sodium acetate buffer (0.01 M pH 5.0) and incubated
+sequentially with pullulanase (5 lL) at
+40 8C for 8 h, with a-amylase (5 lL) at 25 8C for
+8 h, and with amyloglucosidase at 55 8C for 8 h.
+After completion, each reaction step was stopped
+by boiling for 10 min.

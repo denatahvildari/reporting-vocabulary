@@ -1,0 +1,65 @@
+Experimental section
+Materials The roots of G. glabra, collected in Afghanistan,
+were provided by Frutarom US (North Bergen, NJ, USA).
+Estradiol was purchased from Sigma Aldrich (St. Louis,
+MO, USA) and glabridin from Wako Chemicals GmbH
+(Neuss, Germany). RU 58668 and R,R-diethyl-THC (R,RTHC)
+were purchased from Tocris Bioscience (Bristol,
+UK). Analytical reagent-grade n-hexane, acetone, and absolute
+ethanol and ultra-LC-MS grade acetonitrile were purchased
+from Biosolve BV (Valkenswaard, The Netherlands).
+Water was prepared using a Milli-Q water purification system
+(Millipore, Billerica, MA, USA). Dimethylsulfoxide (DMSO)
+and all other chemicals were purchased from Merck
+(Darmstadt, Germany).
+Preparation of licorice extract The roots were milled with
+a ZM 200 Retsch Ultra Centrifugal Mill (Haan, Germany)
+using a 1-mm sieve. The root powder was extracted with
+ethyl acetate (EA) in a ratio of 1 to 25 (w/w) for 2 h at 40 °C
+under continuous stirring. The extract was obtained by
+pressing the mixture with a Fischer Maschinenbau hydraulic
+press type HP 5M (Gemmrigheim, Germany) under 40 bar
+for 1 h. The dried extract was obtained after evaporation of
+the EA under reduced pressure at 40 °C.
+CPC fractionation of licorice extract Centrifugal partitioning
+chromatography (CPC) was performed using a thermostated
+Kromaton FCPC machine (Angers, France)
+connected to an Armen AP 100 (Chromtech, Boronia,
+VIC, Australia) plunger pump. The two-phase solvent
+system used consisted of n-hexane/acetone/water in a ratio
+of 5:9:1 (v/v/v). It was equilibrated under stirring at 22 °C
+for at least 1 h. Small-scale fractionations as part of the
+method development were done with a 200-mL rotor in
+ascending mode (i.e., lower phase is stationary phase) at
+22 °C, a rotation speed of 1,000 rpm, and a flow rate of
+10 mL/min. The volume of displaced stationary phase was
+approximately 83 mL. Eighty-five milligrams dried extract
+was dissolved in a mixture of upper and lower phase, 4 mL
+of each phase. The fractionation process was monitored
+using a Jasco UV-2075 UV detector equipped with a 1-mm
+preparative cell at a wavelength of 330 nm (absorbance is
+expressed as relative response to the highest peak).
+For the actual fractionation of the licorice root extract, a
+1,000-mL rotor was used (22 °C; rotation speed 1,100 rpm;
+flow rate 25 mL/min). The volume of displaced stationary
+phase in the 1,000 mL rotor was approximately 625 mL. Seven
+hundred fifty milligrams dried extract was dissolved in 28 mL
+of a mixture of upper and lower phase (1:1). Seven subsequent
+runs were performed that resulted in 51 fractions per run; the
+fraction size was 50 mL. Based on the CPC UV profile,
+corresponding fractions were combined and evaporated in
+combination with lyophilization in order to remove solvents.
+The combined fractions were resolubilized in absolute ethanol
+(EtOH) and stored at −20 °C. All samples were thawed and
+centrifuged before analysis. Fractions collected were analyzed
+by ultra-high performance liquid chromatography (UHPLC)-
+mass spectrometry at a concentration of 1 mg/mL.
+Reversed-phase UHPLC Samples were analyzed using an
+Accela UHPLC system (Thermo Scientific, San Jose, CA,
+USA) equipped with pump, autosampler, and PDA detector.
+Samples (1 μL) were injected onto an Acquity UPLC BEH
+C18 column (2.1Å~150 mm, 1.7 μm particle size) with an
+Acquity UPLC BEH C18 Vanguard pre-column (2.1Å~
+5 mm, 1.7 μm particle size; Waters, Milford, MA, USA).
+Eluents were water-acidified with 0.1% (v/v) acetic acid
+(eluent A) and acetonitrile-acidified with 0.1% (v/v) aceticacid (eluent B). The flow rate was 300 μL/min, and thePDA detector was set to measure at a range of 205–400 nm.The following elution profile was used at 0–18 min, lineargradient from 10–100% (v/v) B; 18–22 min, isocratic on100% B; 22–23 min, linear gradient from 100–10% B; and23–25 min, isocratic on 10% B.Electrospray ionization mass spectrometry (ESI-MS) Massspectrometric data were obtained by analyzing samples onan ion trap LTQ-XL (Thermo Scientific) equipped with anESI-MS probe coupled to the reversed-phase UHPLC.Helium was used as sheath gas and nitrogen as auxiliarygas. Data were collected over an m/z-range of 150–1,500.Data-dependent tandem mass spectrometry (MSn) analysiswas performed with a normalized collision energy of 35%.The MSn fragmentation was always performed on the mostintense daughter ion in the MSn−1 spectrum. Most settingswere optimized via automatic tuning using “Tune Plus”(Xcalibur 2.0.7, Thermo Scientific). To this end, the systemwas tuned with glabridin in both positive ionization andnegative ionization mode. In both modes, the ion transfertube temperature was 350 °C and the source voltage,4.8 kV. Data acquisition and reprocessing were done withXcalibur 2.0.7. Mass spectral data interpretation and peakdetermination were performed with Mass Frontier 5.0(Highchem, Bratislava, Slovakia).Determination of estrogenic activity The protocols for theyeast estrogen bioassays were adopted from Bovee et al.[20] with slight modifications. The genetically modifiedyeast strains have a strong constitutive expression vectorstably integrated in the genome to express either the humanestrogen receptor α (ERα) or the human estrogen receptorβ (ERβ). The yeast genome also contains a reporterconstruct. This reporter construct contains an inducibleyeast-enhanced green fluorescent protein (yEGFP) regulatedby the activation of a minimal promoter with estrogenresponsiveelements. Cultures of the yeast estrogen biosensorwith either ERα or ERβ were grown overnight at 30 °C withshaking at 200 rpm. At the late log phase, the cultures of bothestrogen receptors were diluted in the selective minimalmedium supplemented with either leucine (ERα) or histidine(ERβ) to an optical density (OD) value (630 nm) of 0.05±0.01 (ERα) and 0.15±0.05 (ERβ). For exposure, 200-μLaliquots of these diluted yeast cultures were combined with2 μL of test compound or extract (in various concentrations)in a 96-well plate to test the agonistic properties of thesecompounds. DMSO (blank) and control samples containing17β-estradiol (E2) or genistein dissolved in DMSOwere included in each experiment. Dilution series of eachsample were prepared in DMSO, and the final concentrationof DMSO in the assay did not exceed 1% (v/v). Eachsample concentration was assayed in triplicate. Exposurewas performed for 24 or 6 h for the ERα or ERβ assay,respectively, at 30 °C and orbital shaking at 200 rpm.Fluorescence and OD were measured at 0 and 24 h forthe ERα and 0 and 6–8 h for the ERβ in a Tecan InfiniteF500 (Männedorf, Switzerland), using an excitation filter of485 nm (bandwidth, 20 nm) and an emission filter of535 nm (bandwidth, 35 nm). The fluorescence signals ofthe samples were corrected with the signal obtained withthe diluted yeast suspension at t 0 h (background signal). Inorder to check the viability of the yeast in each well, theabsorbance was measured at 630 nm. Each fraction wastested in a concentration series ranging from 0.1–100 μg/mL.EC50 calculations were performed in Sigma Plot (8.02, SPSSInc.). In a number of cases, a concentration of 10 μg/mL forthe ERα and 3 μg/mL for the ERβ resulted in decreasedyeast growth during incubation of more than 50% duringincubation due to cytotoxicity. This cytotoxicity could be dueto the anti-microbial properties of licorice root constituentsas reported before [21, 22].A dilution series of estradiol and genistein were used asreference controls in this bioassay. The EC50 values in theERα bioassay were 0.86 nM and 1.73 μM for estradiol andgenistein, respectively, and 0.12 and 9.1 nM in the ERβbioassay, respectively. All EC50 values were in line withthose reported previously [20].For the determination of ER antagonism, the yeast cellswere exposed to the EC70 (ERα) or the EC90 (ERβ) ofestradiol in combination with different dilutions of a testcompound or fraction (measured in triplicates). As apositive control, the yeast cells were exposed to the EC70of estradiol in combination with the known ERα antagonistRU 58688 [23]. For ERβ antagonism, the yeast cells wereexposed to the EC90 of estradiol in combination with R,RTHC,a known antagonist on the ERβ [24].In addition to the yeasts expressing the yEGFP reportergene in combination with either ERα or ERβ, a third yeaststrain was used that only contained the reporter gene butnot the vector with the ER. This yeast strain was used as anegative control.

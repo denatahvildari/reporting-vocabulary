@@ -1,0 +1,122 @@
+Materials and methods
+Reagents
+The following solvents were used for the extraction and fractionation
+of plant material: tert-butyl methyl ether (TBME) (Fluka,
+Buchs, Switzerland), ethanol (technical grade, distilled prior to
+use), butan-1-ol (analytical grade, LabScan, Stillorgan, Ireland) and
+ultra pure water, prepared in a combined Seradest LFM 20 and
+Seralpur Pro 90 C apparatus (Seral, Ransbach-Baumbach, Germany).
+Analytical grade MeOH (Fluka), MeCN (Sigma-Aldrich,
+Seelze, Germany), formic acid (98–100%, Merck, Darmstadt,
+Germany) were used for analytical HPLC analysis. Technical grade
+MeOH was distilled prior to use for preparative chromatography.
+The following reagents and antioxidants were used for the
+assessment of radical-scavenging and antioxidative activity: 2,2-
+diphenyl-1-picrylhydrazyl hydrate (DPPH) (95%, Sigma-Aldrich,
+Steinheim, Germany), 2,2’-azino-bis(3-ethylbenzothiazoline-6-sulfonic
+acid) diammonium salt (ABTS), BHT (Fluka), KCl, NaCl,
+NaH2PO4, K2S2O8 (Merck), KH2PO4 (Jansen Chimica, Beerse,
+Belgium), RA (Extrasynthese, Genay, France), and Trolox 97%
+(Sigma-Aldrich, Steinheim, Germany). CD3OD, D2O and DMSOd6
+(Acros, Geel, Belgium) were used for NMR analysis.
+Commercial cold-pressed safflower oil without added antioxidants
+(Natufood, Hardewijk, The Netherlands) was used for
+headspace gas chromatographic (HS-GC) analysis. The oil was
+stored under nitrogen in the dark at 20 C prior to analysis. The
+reference hexanal was from Acros (96%). Commercial refined
+rapeseed oil without added antioxidants (Obeliu aliejus, Vilnius,
+Lithuania) was used for peroxide value (PV) determination and UV
+absorbance measurements. trans-b-Carotene (95%) and linoleic
+acid (99%) were from Aldrich (Milwaukee, USA), and emulsifier
+Tween 40 was from Sigma (St. Louis, Mo.). Commercial rosemary
+extract was obtained from Robertet (Grasse, France). Chloroform,
+glacial acetic acid (99.9%), potassium iodide (99.5%), sodium
+thiosulphate, hexane and hydrogen peroxide (30%) were from
+Lachema (Brno, Czech Republic); hypoxanthine (99%), xanthine
+oxidase (from buttermilk), diethylenetriamine-pentaacetic acid and
+nitro blue tetrazolium (NBT) were from Sigma.
+Procedures and instrumentation
+Preparation of plant extracts. Leaves of G. macrorrhizum were
+harvested (May 2001) at the growing phase in the experimental
+fields for medicinal plants of the Kaunas Botanical Garden at
+Vytautas Magnus University (Lithuania). Leaves were dried in a
+drying room with active ventilation at ambient temperature
+(<30 C) and stored in paper bags for 4–5 months before use.
+Dry leaves (100 g) were ground in a Moulinex sample mill
+(Erevete, France) and extracted with 2500 ml of TBME at room
+temperature for 212 h under constant stirring with a magnetic
+stirrer Ikamag RTC (IKA Labortechnik, Staufen, Germany). The
+extract (GTBME) was filtered and the solvent was evaporated with a
+Bu˝chi RE rotary evaporator connected to a Vacuubrand CVC2
+vacuum pump and Bu˝chi 461 water bath (Vacuubrand, Wertheim,
+Germany). The residue of plant material remaining after extraction
+with TBME was re-extracted under the same conditions with EtOH
+and finally with H2O. The extracts obtained with EtOH and H2O
+further partitioned between water and 1-butanol resulting in
+ethanol-butanol (EB), ethanol-water (EW), water-butanol (WB)
+and water-water (WW) fractions. EW and WW fractions were
+freeze-dried with a Christ Alpha 1–2 freeze drier (Christ
+Gefriertrocknungsanlagen, Osterode, Germany), equipped with a
+Vacuubrand rotary vane vacuum pump.
+Radical-scavenging assays. Radical-scavenging abilities of different
+fractions or isolated compounds were determined by using
+DPPH· and ABTS·+ assay methods [11, 12]. A Lambda 18
+spectrophotometer (Perkin-Elmer, Ueberlingen, Germany) with
+1 cm path-length, disposable, plastic half-micro cuvettes (Greiner
+Labortech, Alphen, The Netherlands) was used for absorbance
+measurements. The most active fractions were further monitored by
+on-line RP-HPLC DPPH· and ABTS·+ assay methods (See On-line
+HPLC-DPPH/ABTS assay). For isolated compounds Trolox equivalent
+antioxidative capacity (TEAC) values were determined.
+Values were estimated after mixing the ABTS·+ solution with
+Trolox or an isolated antioxidant compound and readings in the
+decrease in absorbance (l=734 nm) after 1 and 6 min reaction time
+were taken. The inhibition of absorbance versus concentration of
+antioxidant compound was plotted and TEAC values were calculated
+by dividing the slope of the antioxidant compound by that of
+Trolox. The activities of plant compounds were compared with RA.
+DPPH· scavenging activity of isolated compounds was measured as
+for plant extracts; two molar concentration ratios of DPPH· versus
+the compound to be tested (TC) were chosen (2 and 10).
+On-line HPLC–DPPH/ABTS assay. The assays were performed as
+described by Dapkevicius et al. [13] and Koleva et al. [14]. The setup
+for on-line assessment of radical-scavenging activity consisted
+of a Waters 600 E HPLC eluent pump (Millipore, Waters
+Chromatography, Milford, Mass.), a Model 231 auto sampling
+injector (Gilson, Middleton, Wis.), and a Waters 994 photodiode
+array detector. The linear binary gradient was used at a flow rate of
+0.8 ml/min. Solvent A was a 2% MeCN solution in water, and
+solvent B was 100% MeCN. Gradient conditions for the WW
+fraction were as follows: 0 to 10 min B=0%, from 10 to 16 min B
+reached 10% and was kept constant till 40 min, from 40 to 50 min
+B reached 100%. The compounds were separated on an Alltima
+C18 analytical column, 5 mm, 2504.6 mm i.d. (Alltech Associates,
+Deerfield, Ill.). After the separation and detection, a 45 ml
+laboratory-made syringe pump (Free University, Amsterdam, The
+Netherlands) was used for delivery of free radical solution at a flow
+rate of ca. 0.3 ml/min to a 15 m length PEEK tubing reaction coil.
+The decrease in absorbance, at 516 nm for DPPH· and at 734 nm for
+ABTS·+, was measured with a 759A UV-vis detector (Applied
+Biosystems, Foster City, Calif.), equipped with a tungsten lamp and
+connected to a recorder BD 40 (Kipp & Zonen, Delft, The
+Netherlands).
+Isolation of active compounds. G. macrorrhizum compounds from
+the WW fraction after RP-MPLC pre-separation were finally
+purified by semi-preparative RP-HPLC techniques on a C18
+column, 5 mm, 25010 mm i.d., 300  (Rainin, Emeryville,
+USA). RP-MPLC consisted of a Gilson 802C pump, a Jobin Yvon
+axial compression system (I.S.A. Jobin Yvon, Longjumeau,
+France), a Gilson 202 Fraction Collector, a Gilson 201–202
+Fraction Controller and a Gilson 111 LC UV detector (254 nm)
+connected to a Kipp & Zonen BD 40 recorder. The separation was
+carried out on a RP-18 462 cm i.d. column containing 60 g Baker
+Bond Phase C-18 stationary phase (Mallinckrodt Baker, Deventer,
+The Netherlands) with two eluents—A (10% MeOH in H2O) and B
+(MeOH) at the following elution conditions: 0–15 min 0% B, 15–
+40 min B increasing to 100% and continuing isocratically for 5 min.
+Compound 4 from the EB fraction and 3 from the WB fraction
+were also isolated by RP-MPLC techniques. Other compounds
+from the EB fraction were isolated on a 40–63 mm particle size
+silica gel column (Fluka) with CHCl3-MeOH-H2O (60:22:4), and
+purified on a Sephadex LH-20 (Pharmacia, Stockholm, Sweden)
+column with MeOH-H2O (50:50) (compounds 5, 6 and 7) or on polyamide column with MeOH. The fractionation conditions for thesilica gel column were determined by using Silica gel 60 F254(Merck) thin layer chromatography (TLC) plates (510 cm) as apilot technique.The activities of different fractions after their separation on RPMPLCor silica gel columns were tested by spotting a fewmicroliters of each fraction collected on a Merck silica gel 60 F254TLC plate and spraying with 0.1% DPPH· solution. Active fractionsreduced DPPH·, causing a color change.Structure elucidation of isolated compounds. The structures ofpurified compounds were elucidated by various spectrometricmethods: UV, ESI-MS, 1H NMR, 13C NMR and 2D NMR, and bycomparison with reference compounds (for 1, 3, and 4).1H NMR spectra were recorded on a Bruker DPX 400 or aBruker AC-E 200 spectrometer (Bruker, Rheinstetten, Germany).13C and 2D spectra (COLOC and HMBC) were recorded on aBruker DPX 400. Mass spectra were recorded on a Finnigan/MAT95 MS analyzer (Thermo Finnigan MAT, Bremen, Germany),in the EI mode (70 eV).Determination of superoxide anion scavenging properties. Superoxideradical-scavenging and hydrogen peroxide scavenging testswere performed as described by Wettasinghe et al. [15]. Thesuperoxide radical was generated in an enzymatic reaction. Thereaction mixture contained 0.5 ml of 3 mM hypoxanthine, 0.5 ml ofxanthine oxidase (50 mIU), 0.5 ml of 12 mM diethylenetriaminepentaaceticacid, 0.5 ml of 178 mM NBT and 0.5 ml of Geraniumextract. Final concentrations of the extracts in the reaction mixturewere 200 ppm or 50 ppm. All reagents and extract solutions wereprepared in 0.1 M phosphate buffer (pH 7.4). GTBME extract wasinsoluble in phosphate buffer, thus to determine its superoxidescavenging or hydrogen peroxide scavenging properties wasimpossible using these methods. Absorbencies of solutions weremeasured at 560 nm. Readings were recorded at 0 min and thenevery 10 min up to 60 min. Absorbance values were corrected bysubtracting 0 min readings from subsequent readings.Determination of hydrogen peroxide scavenging properties. Theextract solutions (50 ppm and 33.3 ppm) were prepared bydissolving extracts in 0.1 M phosphate buffer (pH 7.4). Thissolution (2.55 ml) was mixed with 0.45 ml of 43 mM hydrogenperoxide solution prepared in the same buffer. UV light absorbance(230 nm) was measured at 0 min and then every 10 min up to40 min. For each concentration a blank sample (devoid of hydrogenperoxide) was used for background subtraction. Each experimentwas carried out in triplicate. RA (16.67 ppm) was used as areference compound. The calibration curve was drawn in order todetermine the hydrogen peroxide concentration in reaction media.b-Carotene bleaching test. The b-Carotene bleaching (b-CB) testwas performed according to Koleva et al. [16]. b-Carotene (1.0 mg)was dissolved in 5 ml chloroform and linoleic acid (25 ml) andTween 40 (200 mg) were added to 1 ml of this solution. Thechloroform was evaporated under vacuum at 40 C and oxygenatedultra-pure water (50 ml, obtained by bubbling air through the waterfor 15 min) was added; the mixture was vigorously shaken. Extractsolutions of G. macrorrhizum (0.1%), reference compounds (0.01%solutions of BHT and RA) or commercially available rosemaryextracts (spray-dried and fat-soluble) were prepared in ethanol.Rosemary extracts (0.1% of concentration) were prepared in twodifferent ways: directly by dissolving spray-dried extract in ethanol(RA I), or by partitioning fat-soluble extract between hexane andmethanol, then drying the methanol fraction and finally dissolvingit in ethanol (RA II). Aliquots (250 ml) of the b-carotene:linoleicacid emulsion were distributed in 96-well microtitre plates andethanolic solutions of the test samples (30 ml) were added. Ethanolwas used for the blank sample. Four replicates were prepared foreach sample. The microtitre plates were incubated at 55 C and theabsorbencies were measured using a mQuant universal micro platespectrophotometer (BIO-TEK, Vinooski, VT) at 490 nm. Readingsof all samples were performed immediately after mixing an aliquotof the emulsion with ethanolic extract samples, after 105, 210 and315 min of incubation. The residual absorption values were usedfor antioxidative activity comparison of different samples.Determination of PV. Peroxide values (PVs) were monitored inrapeseed oil samples with added G. macrorrhizum extracts (0.1%w/w) and reference antioxidant BHT (0.01%). A blank sample wasrun without any additives. Most of the Geranium extracts werehydrophilic and their homogenization in the oil was rather difficult.The extracts were therefore dissolved in a small amount of ethanol(approximately 5% of the oil mass) and this solution wasintroduced to the oil by vigorous mixing. The samples were placedin open beakers and kept in a ventilated thermostat (VEB, MLWLabortechnik, Ilmenau, Germany) at 55 C. For PV measurementsoil samples (approximately 1 g) were taken from the beakers,accurately weighed and dissolved in 25 ml of a chloroform/aceticacid mixture (3:2). Then 0.5 ml of saturated potassium iodidesolution in water was added, the samples were shaken for 1 min and25 ml of distilled water was added. The liberated iodine was titratedwith 0.01 M sodium thiosulphate solution using a 1% starchsolution as indicator. Peroxide values (milliequivalents (meq) perkilogram oil) were calculated using the following formula:PV=0.01N1,000/m, where N is the volume of sodium thiosulphateused for the titration of a tested sample in milliliters, and m isthe mass of the oil sample in grams. Antioxidative efficiency (AE)was calculated using the following formula: AE=IPA/IP0, whereIPA and IP0 are the induction periods (the time in days needed toreach a PV of 20 meq/kg oil) of tested and blank samplesrespectively. Results are presented as a mean of two replicates.UV absorbance test. Approximately 0.02 g of oil sample preparedand handled in the same way as for PV measurements was weighedaccurately into a 25 ml volumetric flask, diluted with hexane andproperly mixed. UV absorbance at 232 and 268 nm was measuredin 1 cm long quartz cells using a Spectronic Genesys 8 UV/VISspectrophotometer (Rochester, USA) with hexane as a reference.The absorbencies (E) at various wavelengths were recalculatedas for 1% solution: E=Alc1d1, where Al is the absorbancemeasured at given wavelength l, c is the sample concentration inthe solution (grams/100 ml), and d is the cell length in centimeters.Results are presented as a mean of two replicatesDetermination of hexanal by static HS-GC method. Methanolsolutions of the extracts (0.1%, w/w) and BHT (0.01%, w/w),which was used as a reference antioxidant, were added to the 0.2 gsafflower oil samples. A blank sample was prepared with an equalamount of methanol. Samples were placed into headspace vials(10 ml), sealed with a TFE/butyl rubber liner and incubated at55 C in the oven. Sampling was carried out every 2nd day. Theamount of hexanal formed in the course of oil oxidation wasmeasured using a Carlo Erba (Milan, Italy) GC 8000 TOP gaschromatograph equipped with a COMBI-PAL (CTC Analytics,Zwingen, Switzerland) headspace sampler and a wide-bore thickfilmcapillary DB-WAX column (30 m; 0.54 mm i.d.; 1 mmthickness, J&W Scientific, Folsom, USA). The temperatureprogram was as follows: 0 to 5 min at 50 C (isothermal),increasing to 150 C at 10 C/min, then over 25 min graduallydecreasing to 50 C. The samples were incubated at 60 C for10 min in a 2,000 rpm agitator operating with a 10 s run/10 s stopcycle prior to injection. The volatiles were cold-trapped in MFA815 cold trap (Carlo Erba, Milan, Italy) at 110 C and injectedballistically into the column at 240 C; the headspace samplevolume was 2 ml. The helium pressure was 30 kPa; the injectionsyringe temperature was 70 C; the injector temperature was200 C; and the flame ionization detector temperature was 225 C.GC data was processed with Chrom Card integration software(Carlo Erba).Antioxidative activity of different extracts was evaluated bycalculating the protection factor: PF=IPA/IPB, where IPA and IPBare the induction periods (time in days after which the hexanalformation sharply increases) of test and blank samples respectively.

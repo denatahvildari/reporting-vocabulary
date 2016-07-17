@@ -1,0 +1,28 @@
+2.3.2. Sugar composition, total neutral sugar and total uronic acid
+contents
+Sugar compositionwas determined according to De Ruiter, Schols,
+Voragen, and Rombouts (1992). Samples were dried at 40 C under
+vacuum over P2O5 and hydrolyzed with 2 N HCl in dry methanol
+for 16 h at 80 C followed by evaporation and subsequent 2 M
+TFA hydrolysis at 121 C for 1 h. Monomeric sugars were analyzed
+using high-performance anion-exchange chromatography  pulsed
+amperometric detection (Dionex, Sunnyvale, CA, USA) analysis
+as described previously (Sengkhamparn, Verhoef, Schols,
+Sajjaanantakul, & Voragen, 2009). Total neutral sugar contents
+were determined with the orcinol-sulfuric acid colour assay (Tollier
+& Robin, 1979) and uronic acids contents with the m-hydroxydiphenyl
+assay (Ahmed & Labavitch,1978), both using an automated
+colorimetric assay analyser. As standards galactose or glucose (25e
+200 mg/mL) and galacturonic acid (12.5e100.0 mg/mL) were used,
+respectively.
+2.3.3. Size exclusion chromatography
+Size exclusion chromatography (SEC) was performed on a ??KTA
+micro liquid chromatography system equipped with a Superose 6
+column (both GE Healthcare, Uppsala, Sweden). The samples
+(50 mL, w10 mg/mL protein) were eluted with 50 mM Tris/HCl
+buffer (pH 8) containing 150 mM NaCl at a flow rate of 0.5 mL/min
+at room temperature. Elution was monitored by UV detection at
+280 nm (internal detector) and by refractive index detection
+(Shodex RI150, Showa Denko K.K., Tokyo, Japan). Apparent molecular
+weights were estimated using a high molecular weight gel
+filtration calibration kit (GE Healthcare).

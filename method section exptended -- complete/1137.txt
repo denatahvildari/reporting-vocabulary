@@ -1,0 +1,4 @@
+Tryptophan was determined by
+reversed phase C18 HPLC using fluorescence detection at 280 nm,
+according to the procedure described by International standard
+ISO 13904:2005.

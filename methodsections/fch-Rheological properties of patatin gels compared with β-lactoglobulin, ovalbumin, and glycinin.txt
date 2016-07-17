@@ -1,0 +1,144 @@
+MATERIAL ANDMETHODS
+Materials
+Ovalbumin was purchased from Sigma (A5503) (St. Louis, MO,
+USA). Potatoes (cultivar Seresta, harvest October 2007) were
+provided by AVEBE BA (Foxhol, The Netherlands). Fresh bovine
+milk was obtained from a local experimental farm (De Ossenkamp,
+Wageningen University, Wageningen, The Netherlands). Hyland
+soybeans (non-GMO) were supplied by Fa. LI Frank (Twello, The
+Netherlands). All reagents were of analytical grade and purchased
+from Sigma or Merck.
+Protein purification
+β-Lactoglobulin was isolated from fresh bovine milk as described
+by de Jongh and coworkers.36 The genetic variants A and B
+were found to be present in the purified β-lactoglobulin in
+approximately equal amounts as determined by matrix-assisted
+laser desorption ionization time-of-flight mass spectrometry.
+Glycinin was prepared as described previously.37 Patatin was
+isolated from potato juice according to the procedure described
+previously,29 except that gel filtration was realized on a Superdex
+200 column instead of a Superdex 75 column. β-Lactoglobulin,
+patatin, and glycinin were desalted by dialysis/diafiltration against
+distilled water. All samples were freeze-dried after desalting and
+stored at −20 ◦C.
+Chemical characterization of proteins
+Nitrogen content
+Nitrogen content was determined using the Dumas method with
+anNA2100 protein nitrogen analyzer (CE Instruments, Milan, Italy).
+The N-factors used to convert nitrogen content to protein content
+are indicated in Table 1.
+Sodium dodecyl sulfate–polyacrylamide gel electrophoresis
+(SDS-PAGE)
+The purity of the proteins was determined by SDS-PAGE.
+Electrophoresis was performed on a Phastsystem (GE Healthcare
+Bio-Sciences, Uppsala, Sweden)with a homogeneous 20 gel, using
+the instructions of the manufacturer. Samples (3 mg mL−1) were
+dissolved in sample buffer (1 : 1) in the presence and absence of β-
+mercaptoethanol (2.5% v/v). Thegelswere stainedwithCoomassie
+Blue R-250 (GE Healthcare Bio-Sciences, Uppsala, Sweden). The proteinmolecular weight marker kit (SM0431) was from Fermentas
+(Burlington, Ontario, Canada). The obtained results showed that
+all protein samples were >95% pure (data not shown).
+Conductivity measurement
+The conductivity of protein suspensions at different concentrations
+was measured with a conductivity cell (WTW, Weilheim,
+Germany). For this experiment proteins were suspended in distilled
+water (pH 7.0, 27 ◦C).
+Differential scanning calorimetry (DSC)
+Protein unfolding was studied using a VP-DSC MicroCalorimer
+(MicroCal Inc., Northampton, MA, USA). Thermograms were
+recorded from 20 to 100 ◦C at a heating rate of 1 K min−1.
+Protein samples were dissolved in 6 mmol L−1 sodium phosphate
+buffer (pH 7.0) with or without 90 mmol L−1 NaCl (yielding
+final ionic strengths of 100 and 10 mmol L−1, respectively)
+and further dialyzed against the same respective buffer for at
+least 1 h. The protein concentration was determined from the
+absorbance at 280 nm (using the molar extinction coefficients
+in Table 1) and adjusted to the required value with the dialysis
+buffer (patatin 0.04 mmol L−1, β-lactoglobulin 0.273 mmol L−1,
+ovalbumin 0.055 mmol L−1). For glycinin the concentration was
+corrected based on the nitrogen content determined with Dumas
+(glycinin 0.057 mmol L−1). These concentrations were chosen to
+get a good signal by DSC. These measurements were performed
+to establish the denaturation temperature (Td) of the different
+proteins,whichwaslaterusedto establish theheating temperature
+for gel formation.
+Exposed hydrophobicity
+The hydrophobic exposure of proteins is difficult to assess in
+an absolute manner. Hydrophobic chromatography was used
+to obtain a relative expression of hydrophobic exposure of
+the different proteins. A Phenyl FF column (high sub, 5 mL;
+GE Healthcare Bio-Sciences) was used, with elution buffers A:
+10 mmol L−1 BisTris-HCl, pH 7.0; B: buffer A + 0.85 mol L−1
+ammonium sulfate; and C: buffer A + 1mol L−1 ammonium
+sulfate. In those cases where a protein was found to be insoluble in
+1mol L−1 ammonium sulfate, buffer B was used instead of buffer
+C. The column was equilibrated in buffer C and samples were
+prepared by dissolving 10 mg in 1 mL buffer C and centrifuging
+for 5 min at 12 000 rpm (Eppendorf centrifuge). A flow rate of
+5mLmin−1 wasusedandeachexperimentstartedbyequilibration
+of the column with 5 column volumes (CV), followed by injection
+of 500 μL sample, followed by 2 CV of buffer C. The samples were
+then eluted with a gradient from 100% buffer C to 100% buffer
+A, over a length of 20 CV, followed by 2 CV of 100% buffer A.
+Detection took place at 280 nm and the exposed hydrophobicity
+is expressed as one minus the molarity of ammonium sulfate,
+where the highest absorbance is measured in the detector (this
+approach has also been used by Franco et al.38).
+Physical characterization of gels
+Sample preparation
+Proteins were dispersed at 18% (w/v) concentrations and the pH
+was adjusted to pH 7.0. After 1 h stirring at 20 ◦C, the dispersions
+were centrifuged (20 min, 25 000 °ø g, 20◦C) to remove any nondissolved
+proteins. The protein concentration of the supernatant
+was determined by the Dumas method. For further experiments
+protein solutions were prepared by diluting the supernatant to
+the desired concentrations.
+Preparation of heat-induced protein gels at neutral pH
+In order to have similar kinetics of unfolding, the protein solutions
+(pH 7.0) were heated from 20 ◦C to (Td + 10) ◦C at a rate of
+1 K min−1. The solutions were kept at (Td + 10) ◦C for 30min and
+then cooled to 20 ◦C at a rate of 1 Kmin−1.
+Determination of the minimum gel concentration at different
+ionic strengths
+The minimum gel concentration was determined by preparing
+small aliquots (0.3 mL) of protein solutions ranging in concentration
+from1%to 15%(w/w)protein. The ionic strengthwas adjusted
+(to 10–200 mmol L−1) by adding 0.25, 0.5 or 1 mol L−1 stock solutions
+of NaCl. Samples in sealed Eppendorf tubes were heated as
+described above. The heating temperature was not changed with
+different ionic strength (I), since both our own experimental data
+(Fig. 3) and literature data12,39 show very limited effects of I on
+Td. Whether or not a gel was formed was determined visually by
+turning the Eppendorf vials upside down after the samples were
+cooled to 20 ◦C. Samples that did not flow were considered to be
+‘gelled’.
+Rheological characterization of the gels
+The visco-elastic properties of protein solutions at different
+protein concentrations were monitored during heat-induced
+gel formation by dynamic measurements in a rheometer. The
+rheological properties of the gel were characterized by the elastic
+modulus (G) and the viscous modulus (G). In addition, the
+temperature at which gelation starts (Tonset gel) was used and was
+defined as the temperature at which G
+> G.
+Quantitativemeasurements of the visco-elastic propertiesof the
+gels were made using small-amplitude oscillatory measurements
+on a Paar Physica MCR 300 (Anton Paar, Graz, Austria) stresscontrolled
+rheometer, using a concentric cylinder geometry (inner
+and outer cylinder diameter 9.99 and 10.84 mm, respectively).
+Protein solutions (6–20% w/w) were prepared by diluting stock
+solutions (made in distilled water), with distilled water or with
+a 2mol L−1 NaCl stock solution (to reach a final ionic strength
+of 0.1 mol L−1). Samples (1 mL) were placed in the cup of the
+rheometer. After lowering the inner cylinder, the top surface of the
+liquidwas covered with paraffin oil to prevent sample dehydration
+during heating.ThesampleswereheatedandcooledusingaPeltier
+element, under the same conditions as described above. During
+thewhole heating cycle, visco-elastic propertieswere measured at
+constant strain (1%) and frequency (1 Hz). These low values were
+chosen to ensure that all measurements were performed in the
+linear regime. After 30 min rest at 20 ◦C, a frequency sweep and a
+strain sweep were performed. First, the frequency was increased
+logarithmically from 0.01 to 50 Hz, at a strain of 1%. After 30 min
+rest the strain was increased logarithmically from 0.1 to 1000%, at
+a frequency of 1 Hz.

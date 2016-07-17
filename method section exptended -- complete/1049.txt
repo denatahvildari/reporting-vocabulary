@@ -1,0 +1,46 @@
+High-Performance Size-Exclusion Chromatography\
+HP-SEC experiments were conducted using an \'c4KTA purifier\
+system (GE Healthcare, Uppsala, Sweden) operated by\
+Unicorn software. Three samples (
+\f1 t
+\f0\fs13 hydrolysis
+\fs20 =2, 11, and 24 h)\
+were freeze
+\f1 \'96
+\f0 dried, and ~2 mg of the freeze-dried sample was\
+dissolved in 0.5 ml of a 0.15-M Tris
+\f1 \'96
+\f0 HCl buffer (pH 8)\
+containing 8 M guanidine chloride and 0.1 M 1,4-dithiothreitol\
+(DTT). After mixing for 45
+\f1 \'96
+\f0 60 min, 0.215 ml of\
+acetonitrile, containing 2% (
+\f1 v
+\f0 /
+\f1 v
+\f0 ) tri-fluoroacetic acid (TFA)\
+was added, followed by further mixing for 45
+\f1 \'96
+\f0 60 min. After\
+mixing, the samples were centrifuged (18,000\'c5~
+\f1 g
+\f0 , 10 min,\
+20 \'b0C). Samples of 20 
+\f1 \uc0\u956 
+\f0 l were applied onto the column\
+(Shodex Protein KW-803, 300\'c5~8 mm, Showa Denko K. K.,\
+Tokyo, Japan). The column was equilibrated and run with\
+6 M urea, containing 30% (
+\f1 v
+\f0 /
+\f1 v
+\f0 ) acetonitrile and 0.1% (
+\f1 v
+\f0 /
+\f1 v
+\f0 )\
+TFA. The flow rate was 0.2 ml/min, and the absorbance was\
+monitored at 214 nm. The column was calibrated using\
+various proteins with molecular masses between 300 and\
+67,000 Da.}

@@ -1,0 +1,106 @@
+ 3. Experimental
+3.1. Acetylated xylo-oligosaccharides
+The neutral acetylated XOS (AcXOS) were obtained as
+described previously.5
+ 3.2. Size-exclusion chromatography
+To fractionate the AcXOS-mixture (163 mg in 2 mL) a
+Pharmacia system equipped with a BioGel P-2 column
+(900Å~26 mm; 200–400 mesh, Bio-Rad Laboratories)
+thermostated at 60 °C was used. Elution was performed
+at 0.5 mL/min with water (60 °C) and fractions were
+collected every 2 mL. The eluent was detected by a
+Shodex RI-72 detector. Four of these size-exclusion
+runs were performed to obtain sufficient material of
+pool X4Ac.
+ 3.3. MALDI-TOF mass spectrometry
+Matrix assisted laser desorption/ionisation time-offlight
+mass spectrometry (MALDI-TOF MS) was performed
+as described before.5
+ 3.4. Reversed-phase HPLC– mass spectrometry
+Reversed-phase HPLC was performed on a HPLC system
+(Thermo Separation Products) equipped with a
+Thermohypersil Aquasil C18 column ((Keystone Scientific);
+4.6 mm IDÅ~150 mm; 3 m) in combination with
+a Thermohypersil Aquasil C18 guard column (4.6 mm
+IDÅ~10 mm; 3 m). The RP-column was coupled to a
+splitter (Dionex) directing 10% of the eluent to a Sedex
+55 evaporating light scattering detector (Sedere), 5% to
+a LCQ Ion-trap (Finnigan MAT 95) and the remaining
+part to a fraction collector or waste. Elution (0.8 mL/
+min) was performed using a gradient of degassed
+(Membrane degasser; Thermo Separation Products)
+methanol in pure water: 0–28 v/v% methanol in 0–70
+min. Each elution was followed by a equilibration step
+(isocratic pure water; 30 min). Pool X4Ac (20 mg/mL)
+was subjected to RP chromatography separated in 20
+RP-HPLC runs (20 times 100 L of injection) to obtain
+enough material of each peak to perform NMR analysis.
+Fractions (276 L) were collected by using a fraction
+collector in the same series of tubes for 5 runs.
+Finally, all tubes containing similar material were
+combined.
+MS analysis was carried out in the positive mode
+using a spray voltage of 5.5 kV and a capillary temperature
+of 200 °C. The capillary voltage was set at 42 kV
+and the tube lens voltage at 20 kV. MSn was performed
+using a window of 1.5–2 m/z and a 35–40% relative
+collision energy. The apparatus and the data were
+controlled by Xcalibur software. The accuracy of the
+mass determinations is 0.3 Da.
+ 3.5. NMR spectroscopy
+Samples were exchanged in D2O (99.9 atom% D, Cambridge
+Isotope Laboratories) with intermediate freeze
+drying, dissolved in 190 L 99.96% D2O (Cambridge
+Isotope Laboratories) and inserted in NMR Shigemimicrotubes.
+NMR spectra were recorded at a probe
+temperature of 25 °C on a Bruker AMX-500 spectrometer
+located at the Wageningen NMR Centre. 1H chemical
+shifts are expressed in ppm relative to internal
+acetone ( 2.225). 1D 1H NMR spectra were recorded
+at 500.13 MHz using 64 scans of 8192 data points and
+a sweep width of 3000 Hz. The 2D COSY spectra were
+acquired using the double quantum filtered (DQF)
+method with a standard pulse sequence delivered by
+Bruker. The 2D TOCSY spectra were acquired using
+standard Bruker pulse sequences with a mixing time of
+100 ms. For these 2D 1H spectra 512 experiments of
+2048 data points were recorded using 32 scans per
+increment.
+ 3.6. Reversed-phase HPLC– NMR
+Reversed-phase HPLC–NMR was performed on a
+HPLC system (Bruker) equipped with a Thermohypersil
+Aquasil C18 column (4.6 mm IDÅ~150 mm; 3 m)
+in combination with a Thermohypersil (Keystone Scientific)
+Aquasil C18 guard column (4.6 mm IDÅ~10 mm;
+3 m). Furthermore, the HPLC system was connected
+to a Bruker peak sampling unit (BPSU; Bruker) following
+UV detection (205–215 nm; Bruker). Elution (0.8
+mL/min) was performed using a gradient of degassed
+(Membrane degasser; Bruker) methanol in D2O: 0–16
+v/v% methanol in 0–40 min. Samples containing
+mainly X4Ac (10 mg/mL) or X3Ac (15 mg/mL),  obtained by size-exclusion chromatography, were applied
+to RP-HPLC– NMR (100  L/ run). Each elution
+was followed by a equilibration step (isocratic D2 O; 30
+min). Samples were transported one by one from the
+BPSU to the NMR probe, using the same ratio of
+D2 O/ methanol as was necessary for the particular
+oligomers to elute from the RP-column.
+NMR spectra were recorded at a probe temperature
+of 25 ° C on a Bruker DPX-400 spectrometer located at
+the Wageningen NMR Centre. Solvent signals were
+suppressed with double presaturation using Bruker
+LC– NMR software. 1 H chemical shifts are expressed in
+ppm relative to methanol (  3.34). 1D 1 H NMR spectra
+were recorded at 400 MHz using up to 2000 scans of
+32,768 data points and a sweep width of 8000 Hz. The
+2D TOCSY spectrum was acquired using a standard
+Bruker pulse sequence. 496 experiments of 2048 data
+points were recorded using 240 scans per increment
+resulting in a measuring time of 66 h. The mixing time
+was 65 ms.
+4. Supplementary material
+ The material is available from the authors on request.
+Acknowledgements
+ The authors are grateful to the EU for their fi nancial
+support (FAIR CT98-3811). We thank Ing.R.V. for
+performing part of the NMR-analysis.

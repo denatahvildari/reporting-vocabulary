@@ -1,0 +1,176 @@
+3. Material and methods
+3.1. Material
+The soft and mature okra pods, A. esculentus (L.) Moench (5–
+10 cm in length), were grown and collected at the local market in
+June 2005, Thailand.
+3.2. Isolation of alcohol-insoluble solid
+After removal of the seeds, the okra pods were sliced and
+homogenised two times with 70% (v/v) aqueous ethanol at room
+temperature. After filtration, the insoluble residues were combined
+and washed with two volumes of chloroform/methanol (1/1, v/v)
+with gentle stirring for 30 min to remove low molecular weight
+(coloured) compounds.45 After filtration, the filtrates were washed
+with acetone and air dried (alcohol-insoluble solids, AIS).
+3.3. Sequential extraction of okra AIS
+Okra AIS (20 g) were sequentially extracted according to Vierhuis
+et al.24 with 600 mLof the following extractants; 0.05 Msodium acetate
+buffer at pH 5.2 and 70 C (hot buffer soluble solids, HBSS),
+0.05 M EDTA and 0.05 M sodium acetate in 0.05 M sodium oxalate
+atpH5.2 and 70  C (chelating agent soluble solids, CHSS), 0.05 Msodium
+hydroxide at 0 C and 20 mMNaBH4 (diluted alkali soluble solids,
+DASS), and 6 M sodium hydroxide at 0 C and 20 mM NaBH4
+(concentrated alkali soluble solids, CASS). The extraction was continually
+performed until the total sugar content of the last supernatant
+was lower than 40 lg/mL, which was determined by phenol–
+sulfuric acid assay.46 After each extraction, solubilised polymer
+was separated from the insoluble residue by centrifugation
+(19,000g for 25 min). The supernatants were ultra filtrated through
+a 30 kDa membrane (A/G Technology Corporation) and freeze-dried.
+The final residues were dialysed and freeze-dried.
+3.4. Analytical methods
+3.4.1. Total neutral sugar and uronic acid content
+The total neutral sugar content and uronic acid content were
+determined colorimetrically by automated orcinol/sulfuric acid assay47
+and m-hydroxydiphenyl assay,48–50 respectively, using an
+auto-analyser (Skalar Analytical BV, Breda, The Netherlands). Galactose
+and galacturonic acid were used as a standard. Corrections
+were made for the interference of uronic acid in the samples. Distinction
+between galacturonic acid and glucuronic acid was made
+by high performance anion-exchange chromatography (HPAEC,
+Dionex, USA) after methanolysis according to De Ruiter et al.51
+3.4.2. Sugar composition
+The neutral sugar composition of okra AIS was determined by
+gas chromatography52 using inositol as internal standard. The samples
+were submitted to a prehydrolysis treatment with 72% w/w
+sulfuric acid at 30 C for 1 h followed by a hydrolyses step using
+1 M sulfuric acid at 100 C for 3 h. The sugars were converted to
+their alditol acetates and analysed by GC according to Hilz et al.25
+For the obtained fractions, after drying at 40 C under vacuum
+over P2O5, the samples were hydrolysed with 2 M HCl in dry methanol
+at 80 C for 16 h and followed by 2 MTFA at 121 C for 1 h. The
+monomers were analysed by using high performance anion-exchange
+chromatography (HPAEC, Dionex, USA) equipped with the
+(2  250 mm) CarboPac PA 1 column (Dionex, USA) and post column
+(Dionex, USA) addition. Millipore water, 0.1 M NaOH and
+1 M NaOAc in 0.1 M NaOH with a flow of 0.3 mL/min at 20 C were
+used as eluent, and 0.5 M NaOH with a flow of 0.1 mL/min at 20 C
+was added to post column for allowance of the PAD detection.
+The following gradient was applied using a flow of 0.3 mL/min
+at 20 C of NaOH: 0–30.0 min, 0 mM; 30.0–30.1 min, 0–100 mM;
+30.1–50.0 min, 100 mM. The simultaneous gradient of NaOAc
+was 0.0–30.1 min, 0 mM; 30.1–45.0 min min, 0–400 mM; 45.1–
+50.0, 1000 mM. Millipore water was used from 0.0 to 30.0 min.
+For the post column, 0.5 M NaOH with a flow of 0.1 mL/min was
+used during 0.0–30.1 min. After each run the column was washed
+for 5 min with 1 M NaOAc in 0.1 M NaOH, for 8 min with 0.1 M
+NaOH and subsequently equilibrated with water for 15 min.53
+3.4.3. Absolute configuration
+The configuration of all sugars present was analysed by gas
+chromatography, and methyl-a-D-galactopyranoside was used as internal standard. The sample was methanolysed with 1 M HCl in
+dry methanol. After conversion to their corresponding ()-2-butyl
+glycosides and trimethylsilation, the trimethylsilated ()-2-butyl
+glycosides were analysed by GC-FID.54
+3.4.4. Degree of acetylation and methyl esterification
+The degree of acetylation and methyl esterification of samples
+were determined after saponification with 0.4 M sodium hydroxide
+in isopropanol/water (50/50 v/v) by using Thermo Finnigan
+(USA) high performance liquid chromatography equipped with
+Aminex HPX 87H column (Bio-Rad, USA).55 The elution took place
+at 40 C with 0.01 N H2SO4 at a flow rate of 0.6 mL/min. The degree
+of acetylation and methyl esterification were calculated as moles of
+acetic acids and methanol per 100 moles of galacturonic acid,
+respectively.
+3.4.5. Protein content
+Protein content was determined by the combustion method56
+with a Thermo Quest NA 2100 Nitrogen and Protein Analyser
+(Interscience, The Netherlands). D-Methionine was used as external
+standard. The protein content was calculated using 6.25 as nitrogen
+to protein conversion factor.
+3.4.6. High performance size exclusion chromatography
+(HPSEC)
+High performance size exclusion chromatography (HPSEC) was
+performed on a Thermo Separation Products (USA) HPLC, equipped
+with three TosoH Biosep-TSK-Gel G columns (Methyacrylate resin)
+in series (7.8 mm  30 cm, 4000PWXL–3000PWXL–2500PWXL) in
+combination with a PWXL-guard column (TosoH, Japan). Samples
+(5 mg/mL; except for HBSS: 1 mg/mL) were eluted at 30 C with
+0.2 M sodium nitrate at a flow rate of 0.8 mL/min.57 The column
+effluent was monitored using a reflective index detector (Shodex
+SE-61, Showa Denko K.K., Japan). Calibration was done using pectins
+having known molecular weight.20
+3.4.7. Glycosidic linkage analysis
+The glycosidic linkage composition of each sample was analysed
+as described by Hakomori58 and modified by Verhoef
+et al.59 The partially methylated alditol acetates were analysed
+by GC-FID and GC–MS according to Verhoef et al.59
+3.4.8. Enzymatic degradation
+3.4.8.1. Pectin degradation. The HBSS fraction was dissolved
+(3 mg/ml) in 50 mM NaOAc buffer, at pH 5, and incubated
+with 0.016 units of polygalacturonase from A. aculeatus and
+1.08 units of pectin methyl esterase from A. niger.20 The CHSS
+fraction (4 mg/mL) was incubated with 0.024 units of polygalacturonase.
+The incubations were performed at 40 C for 24 h, and
+the digests were subsequently heated for 5 min at 100 C to
+inactivate the enzyme. The digests were dialysed by Centricon
+centrifugal filter devises with 3 kDa cut off at 1500g for 30 min
+and then, freeze-dried.
+3.4.8.2. Xyloglucan-specific endo-glucanase (XEG) degradation.
+The CASS fraction was dissolved (5 mg/mL) in 50 mM
+NaOAc buffer, at pH 5, and incubated with 2.3 units of xyloglucan-
+specific endo-glucanase from A. aculeatus38 at 40 C for
+16 h. The digest was heated at 100 C for 5 min to inactivate
+the enzyme.
+3.4.8.3. endo-Xylanase III degradation. The CASS fraction
+was dissolved (10 mg/mL) in 150 mM NaOAc buffer, at pH 5, and
+incubated at 40 C for 24 h with 0.09 units of endo-xylanase III
+from A. awamori.36 The enzyme was inactivated by heating the digest
+for 5 min at 100 C.
+3.4.9. HPAEC of oligosaccharides
+For the determination of xyloglucan oligomers, enzyme digests
+were analysed by using a 4  250mm CarboPac PA 100 column
+(Dionex, USA) with pulsed amperometric detection. Gradients of
+NaOH and NaOAc with a flow of 1 mL/min were used to elute the
+oligomer according to Vincken et al.37
+For the determination of digest from endo-xylanase III, the
+(2  250 mm) CarboPac PA 1 column (Dionex, USA) with pulse
+amperometric detection was equilibrated with 100 mM NaOH.
+Gradients of NaOH and NaOAc were used simultaneously to elute
+the oligomers according to Vierhuis et al.36
+3.4.10. Matrix–assisted laser desorption ionisation-time of
+flight mass spectrometry (MALDI-TOF MS) analysis
+MALDI-TOF MS analysis was performed on Ultra flex instrument
+(Bruker Daltonics, Germany) with a Nitrogen 337 nm laser
+beam. The data were collected from average of 200 shots with
+the lowest laser energy (35%). The digest sample was desalted with
+resin (AG 50W-X8 Resin, H+ form; Bio-Rad, USA). A small spatula of
+Dowex resin was added to 10 lL of sample solution, mixed and
+centrifuged for 5 min at 13,000g. One microliter of matrix solution,
+10 mg/mL of 2,5-dihydroxybenzoic acid in millipore water (Milli-Q
+Gradient A-10, USA) was placed on a MALDI-TOF plate together
+with 1 ll of sample solution and dried under a constant warm air.
+3.4.11. Anion-exchange chromatography
+Anion-exchange chromatography was performed on a DEAE Sepharose
+Fast Flow column (50  2.6 cm, Amersham Bioscience,
+Sweden) using an akta explorer system (Amersham Biosciences,
+Sweden). The sample (280 ml; 0.5 mg/mL) was loaded to the column
+(10 mL/min). After loading with sample, the column was
+washed with water for 1 column volume (250 mL, 50 mL/min)
+and eluted successively with a linear gradient of 0–2 M of NaOAc
+buffer, pH 5, within 10 column volumes. Finally the column was
+washed with 2 column volumes of 1 M NaOH. During elution with
+NaOAc buffer, fractions of 50 mL were collected as well as the column
+washed and analysed for neutral sugar and uronic acid content
+as described. The alkaline fractions were neutralised directly
+by adding acetic acid. After pooling appropriate fractions, pools
+were dialysed and freeze-dried. 3.4.12. 13C and 1H nuclear magnetic resonance (NMR)
+Prior to NMR analyses, the sample was dissolved in 5 mM
+NaOAc, pH 5, to set the pD = pH and freeze-dried. Then the sample
+was dissolved in 99.96% D2O (Cambridge Isotope Laboratories,
+USA) and after freeze-drying dissolved again in 99.996%
+D2O (Cambridge Isotope Laboratories, USA). NMR spectra were
+recorded at a probe temperature of 25 C on a Bruker AV-600
+spectrometer equipped with a cryoprobe located at Biqualys,
+Wageningen. Chemical shifts were expressed in ppm relative to
+internal acetone: d = 2.225 ppm for 1H. The 1D 1H proton spectra
+were recorded at 600.13 MHz using 64 scans of 8192 data points
+and a sweep width of 3000 Hz.

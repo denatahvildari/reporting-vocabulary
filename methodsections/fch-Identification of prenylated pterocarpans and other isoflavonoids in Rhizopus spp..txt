@@ -1,0 +1,93 @@
+EXPERIMENTAL
+Materials
+Soya beans, Glycine max (L.) Merrill, were provided by
+Frutarom Belgium (Londerzeel, Belgium). Authentic standards
+of genistein, daidzein and coumestrol were purchased
+from Sigma Aldrich (St. Louis, MO, USA). Ultra-highperformance
+liquid chromatography/mass spectrometry (UHPLC/MS) grade acetonitrile (ACN) was purchased from
+Biosolve BV (Valkenswaard, The Netherlands). Water was
+prepared using a Milli-Q water purification system (Millipore,
+Billerica, MA, USA). All other chemicals were
+purchased from Merck (Darmstadt, Germany).
+The fungus, Rhizopus microsporus var. oryzae (LU 581), was
+purchased from the Fungal Biodiversity Centre CBS (Utrecht,
+The Netherlands).
+Soya bean germination and challenging with Rhizopus
+The soya beans were surface-sterilised by soaking them in a
+1% (w/v) hypochlorite solution (5 L kg
+1 beans) under
+continuous stirring for 1 h at 208C. Subsequently, the soya
+beans were rinsed with sterile Milli-Q water and soaked for
+4 h at 408C in sterile Milli-Q water. After soaking, the beans
+were germinated in 370mL glass jars of which the bottom was
+covered with Whatman filter paper (type 520 A), humidified
+with sterile Milli-Q water to prevent the beans from drying
+out. The lids of the jars were loosely closed, and Parafilm was
+loosely wrapped around the lid to allow air passage. The
+beans were incubated for 4 days at 308C in the dark.
+After germination, the beans were inoculated with Rhizopus
+microsporus var. oryzae (LU 581). For the fungal inoculation, a
+sporangiospore suspension was prepared by scraping off the
+sporangia from pure slant cultures of this fungus, grown on
+malt extract agar (CM59; Oxoid, Basingstoke, UK) for 7 days
+at 308C. Subsequently, the sporangia were suspended in
+sterile Milli-Q water with 0.85% (w/v) NaCl (108 colonyforming
+units (CFU) mL
+1). The beans were inoculated with
+the sporangiospore suspension (0.2mLg
+1) and incubated
+for 4 days at 308C in the dark.
+Soya bean extraction
+Non-soaked soya beans, soaked soya beans and Rhizopus-
+challenged germinated soya beans were freeze-dried,
+after which they were milled with a Retsch Ultra centrifugal
+mill ZM 200 (Haan, Germany) using a 1mm sieve. The meal
+was defatted by hexane extraction for 30 min in a sonication
+bath at 308C (0.04 g meal mL
+1 hexane) followed by
+air-drying of the residue. The flavonoids were extracted
+with absolute ethanol (0.04 g meal mL
+1 EtOH) by a two-step
+sequential extraction of the defatted powder, each for
+30 min in a sonication bath at 308C. The extracts were
+centrifuged (2500 g, 15 min at 208C). The dried extracts were
+obtained after evaporation and were subsequently, dried, resolubilised
+in methanol (MeOH) to a concentration of
+10mgmL
+1 and stored at 208C. All samples were thawed
+and centrifuged before analysis.
+RP-UHPLC analysis
+Samples were analysed on a Thermo Accela UHPLC system
+(San Jose, CA, USA) equipped with pump, autosampler and
+PDA detector. Samples (1mL) were injected on a Waters
+Acquity UPLC BEH shield RP18 column (2.1150mm,
+1.7mmparticle size) with a Waters Acquity UPLC shield RP18
+Vanguard pre-column (2.15 mm, 1.7mm particle size;
+Waters, Milford, MA, USA). Water acidified with 0.1% (v/
+v) acetic acid, eluent A, and ACN acidified with 0.1% (v/v)
+acetic acid, eluent B, were used as eluents. The flow rate was
+300 mL min
+1, the column oven temperature was controlled at
+258C, and the PDA detector was set to measure the range
+200–400 nm. The following elution profile was used: 0–2 min,
+linear gradient from 10%–25% (v/v) B; 2–9 min, linear
+gradient from 25%–50% (v/v) B; 9–12 min, isocratic on 50%
+B; 12–22 min, linear gradient from 50%–100% (v/v) B;
+22–25 min, isocratic on 100% B; 25–27 min, linear gradient
+from 100%–10% (v/v) B; 27–29 min, isocratic on 10% (v/v) B.
+Electrospray ionisation mass spectrometry (ESI-MS)
+Mass spectrometric data were obtained by analysing samples
+on a Thermo Scientific LTQ-XL (San Jose, CA, USA) equipped
+with an ESI probe coupled to the RP-UHPLC system. Helium
+was used as sheath gas and nitrogen as auxiliary gas. Data
+were collected over the m/z range 150–1500. Data-dependent
+MSn analysis was performed with a normalised collision
+energy of 35%. The MSn fragmentation was always
+performed on the most intense product ion in the MSn–1
+spectrum. Most settings were optimised via automatic tuning
+using ‘Tune Plus’ (Xcalibur 2.07, Thermo Scientific). To this
+end, the system was tuned with genistein in both positive
+ionisation (PI) and negative ionisation (NI) mode. For both
+modes, the ion transfer tube temperature was 3508C and the
+source voltage 4.8 kV. Data acquisition and reprocessing were
+done with Xcalibur 2.07 (Thermo Scientific).

@@ -1,0 +1,26 @@
+2. Materials and methods
+2.1. Preparation and analysis of wheat straw
+Wheat straw (harvest September 2006, Delfzijl, The Netherlands)
+was milled twice; first in a Pallmann mill (4mm????30mm
+sieve) and then in a Retsch mill (1mm sieve). Milled straw
+was kept in a sealed plastic barrel at room temperature until
+used. Chemical composition was analyzed as described by TAPPI
+methods [25???30], with minor modifications: (1) samples were
+extracted with ethanol:toluene 2:1, 96% (v/v) ethanol and hot
+water (1 h) at boiling temperature. (2) The extracted samples
+were dried at 60 ???C for 16 h. (3) Monomeric sugar and
+lignin content of the ethanol-extracted material was determined
+after a two-step hydrolysis with sulfuric acid (12M for 1 h at
+30 ???C; 1M for 3h at 100???C). (4) Acid soluble lignin in the
+hydrolyzatewas determined by spectrophotometric determination
+at 205 nm.
+Monomeric sugars were measured by HPAEC-PAD (High
+Performance Anion Exchange Chromatography with Pulsed Amperometric
+Detection). A Dionex system with Carbopak PA1 column
+with pre-columnwas usedat 30 ???C, with de-ionizedwater as mobile
+phase (1 mL/min) and fucose as internal standard. The Dionex HPLC
+methodwas also usedfor determination ofmonomericsugars in the
+aqueous phase of both pretreated and enzymatically hydrolyzed
+wheat straw. Dry matter content was 91.8% (w/w) (24 h at 105 ???C).
+The chemical composition of the used wheat straw is shown in
+Table 1.

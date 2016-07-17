@@ -1,0 +1,96 @@
+1. Experimental
+1.1. Bacterial strains and culture conditions
+The Lactobacillus plantarum tagF1–tagF2 mutant11 was cultivated
+in de Man–Rogosa–Sharpe (MRS) broth (Merck), supplemented
+with 10 lg/mL chloramphenicol. After incubating at 37 C
+for 20 h cells had reached the stationary phase of growth and were
+harvested by centrifugation at 11,000g for 10 min at 4 C.
+1.2. Preparations of WTA
+WTA was prepared from a cell wall fraction of the L. plantarum
+tagF1–tagF2 mutant as described previously.11 Briefly, the cell
+walls were prepared by ultrasonication of cells, followed by successive
+treatments with SDS, DNase, and RNase (Sigma–Aldrich),
+and Pepsin (Sigma–Aldrich). WTA was released from the cell walls
+by 10% CCl3CO2H treatment at 4 C for 48 h and collected by EtOH
+precipitation at 4 C. WTA was loaded on a DEAE-Sepharose Fast
+Flow column (5.0  5 cm, GE Healthcare) using an AKTA fast performance
+liquid chromatography system (GE Healthcare) and
+eluted using four column volumes of a linear gradient of 0–1.0 M
+NaCl in 100 mM NaOAc buffer (pH 4.8). The fractions containing
+neutral sugars22 and organic phosphate23 were pooled, dialyzed
+against water (Spectra/Por 1, Spectrum Laboratories), and
+lyophilized.
+1.3. Preparation of glucosylribitol unit
+The glucosylribitol (GlcRbo) unit of WTA from the tagF1–tagF2
+mutant was prepared as described previously.10 Briefly, 60 mg of
+WTA was degraded in 1 M NaOH at 100 C for 1 h and fractionated
+on a Sephadex G-25 (GE Healthcare) column (1.6  110 cm) with
+water. The fractions containing neutral sugars as visualized by
+the phenol–H2SO4 assay22 were collected and lyophilized (8 mg).
+Subsequently, the neutral sugar containing fractions were treated
+with 0.5 U/mL bacterial alkaline phosphatase (Sigma–Aldrich) in
+100 mM glycine–NaOH buffer (pH 10.4) at 37 C for 24 h. The
+GlcRbo unit in the solution was separated by adsorbing the sugar
+moiety on a charcoal powder-Celite 535 (1:1, w/w) column, followed
+by passage through a small column packed with DEAE Toyopearl
+650M resin (Tosoh).10 The GlcRbo unit was subsequently
+isolated using a HPLC system equipped with a refractive index
+detector (RID-10A, Shimadzu) and a fraction collector (FRC-10A,
+Shimadzu), on a Shodex Asahipak NH2P-50 4E column (Showa
+Denko) with water–CH3CN (25:75, v/v).
+1.4. Compositional analysis
+For the fractions obtained from the chromatography, organic
+phosphate was detected by ashing with Mg(NO3)2, followed by
+the molybdenum blue method as described by Ames,23 and neutral
+sugars were assessed by the phenol–H2SO4 method.22
+Compositional analysis of sugars and alditols were carried out
+on a HPAEC system (ICS-3000, Dionex) with a pulsed amperometric
+detector (PAD), on a CarboPac PA-1 column (Dionex) at 20 C.
+Separation was performed at a flow rate of 0.3 mL/min, using gradient
+elution by mixing water, 0.1 M NaOH, and 1 M NaOAc in
+0.1 M NaOH as described by Verhoef et al.24 Analytical samples
+for HPAEC were prepared by methanolysis in 2 M HCl in dry MeOH at 80 C for 16 h, followed by 1 h of 2 M CF3CO2H treatment at
+121 C.
+Sugar phosphates in the NaOH hydrolysate of the WTA were
+analyzed on an Accela UPLC system (Thermo Fischer Scientific)
+coupled to a LTQ-XL Linear Iontrap Mass Spectrometer equipped
+with an electrospray ionization source (Thermo Fisher Scientific),
+as described by Leijdekkers et al.25 with minor modifications. Chromatographic
+separation was performed on an Acquity UPLC BEH
+amide (Waters) column at a flow rate of 0.5 mL/min with an oven
+temperature of 35 C. Compounds were eluted using a gradient of
+CH3CN in 10 mM ammonium formate–0.1% (v/v) formic acid buffer
+(pH 3.0), with the following elution profile: 0–1 min, isocratic 80%
+CH3CN (v/v); 1–31 min, 80–50%; 31–36 min, 50–20%. Ions were detected
+in the following MS conditions: polarity, negative mode;
+mass range, m/z 150–2000; ion source voltage, 4.5 kV; capillary
+voltage, 5 V; capillary temperature, 250 C. Analytical sample
+for UPLC-MS was prepared by hydrolysis in 0.5 M NaOH at
+100 C for 1 h followed by neutralization with 6 M HCl. After mixing
+the hydrolysate and CH3CN in a ratio 1:1 (v/v) 10 lL of the mixture
+was injected.
+1.5. NMR spectroscopy
+For sample preparation 20 and 2 mg of the purified WTA and
+the GroRbo unit were dissolved in 400 and 100 lL of D2O (Sigma–
+Aldrich), respectively. For the GroRbo unit, NMR spectra were
+measured in a Shigemi NMR microtube (Shigemi). 1D and 2D COSY,
+TOCSY, HSQC, and HMBC spectra were recorded on an AVANCE III
+500 MHz NMR spectrometer (Bruker Daltonics) at 300 K with proton
+and carbon frequencies of 500.13 and 125.77 MHz. The 2D
+NMR spectra were acquired with 512 increments of 2–4 scans for
+COSY, 512 increments of 4–8 scans for TOCSY, 512 increments of
+8 scans for HSQC, and 1024 increments of 32 scans for HMBC.
+The mixing time for the TOCSY spectra was 100 ms. Sodium 3-(trimethylsilyl)
+propionic-2,2,3,3-d4 acid (Sigma–Aldrich) was used as
+an internal reference for chemical shift (dH 0.00 and dC 0.00).
+1.6. MALDI-TOF ms
+MALDI-TOF MS analysis was performed on an ultrafleXtreme
+MALDI-TOF/TOF mass spectrometer (Bruker Daltonics) equipped
+with a SmartBeam II laser (Bruker Daltonics), in the positive ion
+mode.26 After a delayed extraction time of 120 ns, ions were accelerated
+in an electric field of 25 kV and detected using reflector
+mode. The GlcRbo compounds were dissolved in water (2 mg/
+mL), and 1 lL of sample was mixed on a MALDI target plate with
+1 lL of saturated matrix solution of 2,5-dihydroxybenzoic acid
+(Bruker Daltonics) in 50% CH3CN, and dried under an air stream. A mixture of maltodextrins (ranging from m/z 400 to 3000) was
+used for calibration.

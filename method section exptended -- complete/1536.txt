@@ -1,0 +1,28 @@
+ Protein sequencing. The preparation of protein for Nterminal
+sequencing was completed before the optimized
+purification strategy described above was developed and
+involved Q-Sepharose chromatography, dialysis into
+1M .NH4.2SO4, centrifugation, chromatography on
+butyl???Sepharose, dialysis into 2 M .NH4.2SO4 + standard
+Hepes buffer, chromatography on a 1 ml Resource
+Ether linkage column from Pharmacia, and preparative
+2% agarose gel electrophoresis. The gel was then sectioned
+and one half was immersed in 300 lM 2,3-DHBP
+in 25mM Hepes, pH 8.0. The yellow band indicating
+meta-cleavage activity was marked with a razor blade
+and stained with Coomassie brilliant blue.
+ Identification of metabolic intermediates. Carbazole,
+anthranilic acid, and catechol were identified by coelution
+with authenticated standards on reverse-phase
+high-performance liquid chromatography [26] with a
+variable wavelength UV detector (Waters model 440).
+One ml culture samples were quenched by the addition
+of an equal volume of acetonitrile, vortexed for 1 min,
+and centrifuged at 14,000 rpm for a minimum of 3 min.
+The column was a Zorbax C-18 0:75  2:5cm held at
+60 C in a Waters column oven. The running buffers
+were 0.1% (v/v) phosphoric acid and acetonitrile at a
+flow rate of 1 ml/min and a sample volume of 15 ll. The
+separation gradient was from 15 to 75% acetonitrile over
+7.5 min, followed by a wash of 95% acetonitrile for
+2 min.

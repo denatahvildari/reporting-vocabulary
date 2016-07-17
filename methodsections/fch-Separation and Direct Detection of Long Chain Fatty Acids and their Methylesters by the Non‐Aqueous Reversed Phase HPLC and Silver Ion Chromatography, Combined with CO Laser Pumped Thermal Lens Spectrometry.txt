@@ -1,0 +1,100 @@
+ EXPERIMENTAL
+Non-Aqueous Reversed Phase HPLC-TLS
+The set-up (Figs.1a and 1b) used in this study is characteristic for the HPLCTLS
+spectrometer, operated at an oblique incidence angle. The pump source is
+a home-made line-tuneable and free-running (long-term power stability  0.5%) cw CO waveguide laser (PuL); its cooling jacket was maintained at –
+658 C by means of a CB 90-10 cryostat from Heto. The output power of the
+laser was measured by a 4501 power detector (PM) from Spectra Physics
+and the identity of emission line controlled by the mirror (M0 ) and the
+spectrum analyser (SA) from Optical Engineering.
+A gold-coated flat brass mirror (M1 ) reflects the periodically modulated
+(PTI 400 mechanical chopper (CH) from Photon Technology) pump laser
+beam towards the f .  50mm ZnSe lens (L1 ) from Janos Inc. that focuses
+the IR radiation into a home-made HPLC cell (SC) mounted on a translation-
+rotational stage (in order to facilitate alignment). The exploded view
+of (SC) is shown in Fig. 2. The pump radiation enters (SC) through a cone
+made in the flange (A) carrying the “O” ring (B) and 2mm thick sapphire
+(Melles Griot) window (C). The flange is bolted to the aluminium block (D)
+Figure 1. Continued.
+134 D. Bicanic et al.
+ that accommodates a chamber with 0.2mm thick separating walls (G), each
+provided with a circular opening (H) 1mm in diameter. Standard fitting (E)
+was used to achieve (see also Fig. 1b) the coupling between (SC) and the
+outlet/ inlet tubing, while Teflon cylinder (F) in Fig. 2 served to reduce the
+size of the dead volume.
+The NARP-HPLC-TLS analysis of the mixture of underivatized fatty
+acids was accomplished with a double stage isocratic HPLC pump
+(Gynkotek M3000 CS) mounted (Fig. 1a) in series with a 12-0125 pulse
+damper (D) from Scientific Systems Inc., a multisingle multiport stream
+switch (Spark Holland BV) injector equipped with a 10 m L Rheodyne
+injection loop (L) and the end-capped Vydac 218TP54 RP-18
+(250   4.6 mm, particle size diameter 5m m) chromatographic column (C).  The mobile phase (MP) (80% acetonitrile and 20% chloroform, both HPLC
+grade) was transported through a tubing (inner diameter 1/ 800 ) and entered
+the (SC) from below (see direction of arrows in Figs. 1a, 1b and 2). The
+diameter of the cylindrical channel used to transport mobile phase through
+the HPLC cell is 0.4mm. Both solvents have good thermal properties and
+their absorption, around 1740 cm21 , is not too high (coefficients 0.5 cm21
+ for chloroform and 8.0 cm21  for acetonitrile), as compared to the typical
+value (2000 cm21 ) for the free fatty acids. The (SC) was mounted (Fig. 1a)
+in series with the Showa Denko KK RI-71 refractive index detector (RID),
+the output of which was connected to the x-t recorder (REC) and personal
+computer (PC3 ).  The model mixture of three free fatty acids, a product of FDH Manchester,
+contained 20% oleic acid C18:1 (9) cis, 70 % linoleic acid C18:2
+(9,12) cis, cis, and 10% of conjugated linoleic acid C18:2 (9,11) cis, cis. In
+addition, in some experiments, high purity hexanoic acid C6:0 (Acros
+Organics, Geel), oleic acid C18:1 (9) cis (Sigma, Deisenhofen), and conjugated
+linoleic acid C18:2 (9,11) cis, cis (Merck, Darmstad) were used to
+prepare a series of test solutions. Octanol and decanol were both from Merck.
+The strength of the thermal lens induced in the sample was sensed (Figs.
+1a and 1b) by the 8mW He-Ne 632.8 nm probe beam laser (PrL) from
+Uniphase 1304P. The f .  250mm glass lens (L2 ) focuses (Figs. 1a and 1b)
+the probe beam radiation to a spot located about 5 cm ahead of (SC). The
+pump and probe laser beams intersect in (SC) at approximately 158 . After
+emerging from (SC), the pump beam is reflected to a flat mirror (M2 ) and
+directed towards the home-made photopyroelectric detector (PPED) made
+from PVDF film. The output voltage from the (PPED) detector was fed to
+3691 single-phase lock-in amplifier (LI1 ) from Ithaco. The probe beam,
+however, is reflected at a flat, gold coated brass plane mirror (M3 ) and sent
+to a Thorlabs photodiode (PD) provided with a central pinhole (PH) with a
+diameter of 1 mm. Finally, the output from (PD) is fed into a SR-830 twophase
+lock-in amplifier (LI2 ) from Stanford Research; the voltage thus
+obtained (thermal lens signal) is representative for the strength of the
+thermal lens. The same chopper (CH) provided reference signals for both
+lock-in amplifiers; the integration time was set to one second. Using
+(PPED) to monitor the power of the CO laser is a necessity because the
+thermal lens signal detected at the selected analytical wavelength must be normalised.
+Data acquisition and the normalisation of data were performed by
+two personal computers (PC1 ) and (PC2 ); the HPLC/ TLS chromatograms
+were displayed during each run.  Argentation HPLC-TLS
+The concept of the HPLC-TLS as a detector of IR absorbance was also applied
+in the combination with argentation chromatography Ag-HPLC-TLS and
+136 D. Bicanic et al.
+Downloaded by [Vrije Universiteit Amsterdam] at 07:29 26 August 2014
+used to analyse two different model mixtures of fatty acid methyl esters
+(FAMEs). Its performance was evaluated and compared to that of a conventional
+UV absorbance detector. The set-up used (Figs. 1a and 1b) was the
+same as described above for NARP-HPLC-TLS, the only exception being
+the 200  4mm i.d. column (Nucleosil 100-5 SA (strong cation exchanger,
+5mm particle size) from Macherey and Nagel, Du¨ren, Germany. It was
+loaded with Agﬂ according to the procedure described by Christie.[24] The
+column was mounted in series (Figs. 1a and 1b) with the above described
+(SC) and 757 UV absorbance detector (Applied Biosystems) set to 210 nm.
+A mixture of acetonitrile and n-hexane (0.4 to 99.6% (v/v)) at a flow rate
+of 1mL/min was used as eluent. These two constituents possess reasonably
+good thermal properties, but their absorption (8.0 cm21 for acetonitrile and
+4.8 cm21 for and n-hexane) at the analytical wavelength of the CO laser
+cannot be neglected.
+Two FAME mixtures were studied here: the first one contained 50.7 mg
+C18:0 FAME, 5.3 mg C18:1 FAME, 1.5 mg C18:2 FAME, 1.6 mg C18:3
+FAME and 5.3 mg C22:1 FAME in 10mL n-hexane. The second mixture
+comprised 50 mg of each FAME (C18, C18:1, C18:2, C18:3 and C22:1) in
+10mL n-hexane. Based on the known extinction coefficients, 1, of each constituent
+at 210 nm (1 increases with the extent of unsaturation), the amount of
+each FAME was selected such as to have approximately the same absorbance
+and, hence, also give comparable signals at the UV detector. Concerning the
+UV response, the latter increases in the order: saturated , monounsaturated
+, diunsaturated , triunsaturated. On the other hand, all FAMEs
+present in the second mixture are expected to give comparable TLS signals
+in the IR. Our own independent UV and FTIR measurements of C18 FAME
+show that absorban absorbance of this substance in IR is about 20 times larger than
+that at 210 nm.
